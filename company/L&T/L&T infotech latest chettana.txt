@@ -1,0 +1,104 @@
+There are 2 parts 
+ 1. Technical  
+  
+ 2. Aptitude  ( whole based on related  figures not mathematical questions )
+
+Aptitude:
+  
+  IDENTIFY THE UNKNOWN FIGURE FROM GIVEN RELATED FIGURES>
+  
+    3 -	sets of figures(SHAPES ) ARE GIVEN  .EACH SET HAVING THREE FIGURES 
+    LAST SHAPE OF THIRD SET Will be missing and you  HAVE TO IDENTIFY it BY CHECKING OTHER COMBINATIONS  
+
+
+                  A1  A2  A3
+                  
+                  B1  B2  B3
+ 
+                  C1  C2  X      Find X?
+                 
+              Given 8 number of choices.
+                 
+(some times X is decided by whole combinations ie, A1, A2 ,A3,B1,B2,B3,C1,C2)
+
+
+  Some combinations will be complicated .So be calm and quite when attendung the aptitude test.Care must be taken to utilize 
+ the allocated time perfectly since you have only 30 minutes for 36 questions and you have to deal with some complex figures
+( I think in the middle part  given combinations were complex ;complex means very complex). 
+ My advise is to be practise well before attending the test.Since Tchnical part is not hard your fate is decided by aptitude 
+ Test only.
+
+Technical:
+
+  There are 40 Questions and 4 choises for each
+  Duration : 30 minutes
+
+-----NOTE  :--------------------------------------------------------------------------------------------------------------
+I list here  some Questions and some choices that i do remember ,as it is.Some times there may be mistakes in Questions and
+choices.My intension is to present how the test would be.
+------------------------------------------------------------------------------------------------------------------------- 
+
+  1. a( [ B ( [A^ C]]
+     where '(' and '^' are symbols related to SET and '^' is not exact symbol , it is curved not conical(due to limitation of 
+     key board ), represents"union"
+
+   a. has no sense
+   
+   b.It is associative as well as commutative
+
+ 2.2's complement of given Binary number
+
+ 3. Octal Equivalent of a Binary number
+ 
+ 4.Given --  
+         Ac  + AB + BC =
+
+
+     a. AC
+           --      
+     b. BC+AC
+
+5. Question related to linked list
+
+   Given a program coding in C++ and asked what it is doing.class definition not given
+   
+   choices were a. Deleting a node
+                b. Adding a node at head
+                c. Adding a nde at end
+                     
+   I think it is adding a node at the head of the node.
+  
+
+  Note: 
+  
+  You must go through linked list verywell  both class definition and program to adding the node ,deleting the node ,
+  initialising the linked list etc..
+  
+6.Some Questions related to data structures like
+  traversing through 
+    QUEUE
+    TREE   etc.
+
+7.Evaluate given polish prefix expression  ( i am not remembering the expression)
+
+8. LIST| Sort | MORE
+  
+    a. Lists the files after sorting and diplay "more"
+    b. List or sort the file and ask for any more files
+  ( I do  remember only these two choises )
+       
+
+9.  Copy QUEUE/SORT TXT.axb  QUEUE/AJITH
+    cd QUEUE/AJITH
+    ren TXT*.AXB TXT*.ayb
+    DEL *.ayb
+    DIR
+
+   What are the files listed?
+   choices
+        
+   a. only '.' and  '..'
+   b. all files starting TXT
+   c. No files listed   
+   
+10. 1 simple  question from COBOL

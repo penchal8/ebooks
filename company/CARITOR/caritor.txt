@@ -1,0 +1,159 @@
+Caritor - Question paper - 01    Conducted On -- 2004    
+--------------------------------------------------------------------------------
+ 
+ 
+  
+  There are two sections The aptitude and tachnical
+
+1. aptitude(30 minutes,30 questions)
+
+verbal                                                                                                              Freshersworld.com 
+
+analogies 
+
+.word_____word 
+
+       There would be five options,out of which one word would  belong to the same categorie as the remaining 
+
+        words.
+
+logical reasoning (like GRE,but easy) 
+
+non-verbal
+1.what would be the next figure in the sequence 
+
+quantitative aptitude                                                                                            Freshersworld.com 
+
+time and work(easy) 
+
+allegation and mixture
+a's concentration is 10%,b's 20%,c's 30%. The liquids are mixed in the ratio 1:2:3.the resultant concentration of the mixture is 23%.find each's concentration.(I am not sure about the numbers) 
+
+ time and distance
+in a 100m race 'a' is ahead of 'b' by 10feets.if the speed  of b is increased by 3m/s she is ahead of 'a' by 10feets in 120m  race.find the speed of 'a' 
+
+.age(easy) 
+
+data interpretation 
+ 
+Tachnical
+                                                                                                                       Freshersworld.com
+2. c or c++(it's your choice to choose one,30 minutes,30 questions) it was bit tough 
+
+pointers 
+
+function pointer 
+
+structure 
+struct emp
+{
+Int a;
+char b;
+};
+struct mn
+{
+double c;
+struct emp d;
+} q;
+                                                                                                               Freshersworld.com 
+Q.sizeof(q)
+ans:11(check it)
+*char a="kamal";
+char p*="anand";
+a)compilation error 
+b)runtime error
+c)work properly
+d)
+*char a[]={10,20,20,30};
+char *p;
+int b;
+p=&a;
+b=*p++;
+printf("%d",b);                                                                                      Freshersworld.com
+
+If there is a global variable defined in another file is it necessary to define it again in the current program.
+
+
+   
+
+
+
+
+Sample patterns >>                                                               Sample Questions 
+ Caritor - Question paper - 01    Conducted On -- 2004    
+--------------------------------------------------------------------------------
+ 
+ 
+  
+  There are two sections The aptitude and tachnical
+
+1. aptitude(30 minutes,30 questions)
+
+verbal                                                                                                              Freshersworld.com 
+
+analogies 
+
+.word_____word 
+
+       There would be five options,out of which one word would  belong to the same categorie as the remaining 
+
+        words.
+
+logical reasoning (like GRE,but easy) 
+
+non-verbal
+1.what would be the next figure in the sequence 
+
+quantitative aptitude                                                                                            Freshersworld.com 
+
+time and work(easy) 
+
+allegation and mixture
+a's concentration is 10%,b's 20%,c's 30%. The liquids are mixed in the ratio 1:2:3.the resultant concentration of the mixture is 23%.find each's concentration.(I am not sure about the numbers) 
+
+ time and distance
+in a 100m race 'a' is ahead of 'b' by 10feets.if the speed  of b is increased by 3m/s she is ahead of 'a' by 10feets in 120m  race.find the speed of 'a' 
+
+.age(easy) 
+
+data interpretation 
+ 
+Tachnical
+                                                                                                                       Freshersworld.com
+2. c or c++(it's your choice to choose one,30 minutes,30 questions) it was bit tough 
+
+pointers 
+
+function pointer 
+
+structure 
+struct emp
+{
+Int a;
+char b;
+};
+struct mn
+{
+double c;
+struct emp d;
+} q;
+                                                                                                               Freshersworld.com 
+Q.sizeof(q)
+ans:11(check it)
+*char a="kamal";
+char p*="anand";
+a)compilation error 
+b)runtime error
+c)work properly
+d)
+*char a[]={10,20,20,30};
+char *p;
+int b;
+p=&a;
+b=*p++;
+printf("%d",b);                                                                                      Freshersworld.com
+
+If there is a global variable defined in another file is it necessary to define it again in the current program.
+
+
+   

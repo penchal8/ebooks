@@ -1,0 +1,98 @@
+I am Naresh from NITW.MindTree had visited our campus
+yesterday(20/9/2003).I am giving some details
+regarding the exam.
+
+120 attended the exam
+24 short listed for GD.
+8 short listed for Interview.
+2 are finally short listed.
+
+In Interview they are asking to explain the program
+you have written. and also about one of your
+intersting subject. HR questions are cool.Tell me
+about yourself and family.
+
+GD topics.
+
+1. if both husband and wife are working in the same
+organisation.
+2.cordination between educational institutions and
+companies.
+3.Linux Vs Microsoft . Which will perish?.
+
+For written test
+45 aptitute questions.These Questions take time.
+1 programing question. We have to write program(This
+program will be evaluated if you are  qualified for
+Interview).you will be given choice(ie write one out
+of two given)
+
+both the programs are on files
+
+1. we have to count the 3 letter,4letter and 5letter
+words from a file and print the number of 3 
+letter,4letter and 5letter words. Delimiter is
+space,tab,hifen.Also we should not consider the  line
+in the file after we encounter # in that line.(ie
+after # we should not consider the portion  of line)
+
+2. in file count the number of charecters,number of
+words,number of line.Delimiter between words  is given
+as command line argument.
+
+1hour 15 min is given for the test. we have to answer
+both apptitue and program with in this  time.
+
+some of the apptitue questions.
+
+1. the is a meeting organised, every person shake
+hands with the other only once.if there are 60  shake
+hands,how many persons are there in the meeting?.
+
+2.A fater has 8 children ,he takes 3 at a time to a
+zoo.probability of a child going to the zoo.
+
+3. a father has six children .all the children are
+born at regular intervels.if the sum of their  ages of
+all the children and father is 186. calculate the age
+of the elder son, when the younger  sons age is 3. 
+
+4.count the numbers between 100 and 300, that starts
+with 2 and ends with 2. Ans: 10.
+5.some reasoning questions 
+
+1. there are six steps,5 people a,b,c,d,e .
+conditions are , a is two steps below c,no two people
+are on same step,b is next to d.
+4 Questions based on this
+
+2. 5 people participating in the race .conditions are
+given about the positions.
+
+6.a ball is dropped from a height of 10 feet.Every
+time it rebounces to half of the height. how  many
+feet it travelled?
+
+7.There are 3 jars. The ratio of spirit to water in
+each of these jars is 3:2,4:5,5:7. the three  jars are
+mixed into a single jar. What is the ration of spirit
+to water in single jar.
+
+8. What is the relation with your mothr's sister's
+brother's wife's child with you.?
+
+9.what is the relation with your mother's husband's
+father-in-law's son's child with you?
+
+10.we were asked to fill the series, alpabet sreris 4
+questions are given.
+
+11. 5 questions are given, we are asked to find the
+logical connection betwween them.
+like all managers are drinkers,all drinker are smokers
+,questions like this.
+
+Thats all i remember. Hope this will give you idea
+about MindTree. Best of luck .
+
+Naresh

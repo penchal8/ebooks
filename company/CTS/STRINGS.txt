@@ -1,0 +1,47 @@
+STRINGS
+-------
+2 rules r given for  a certain string to be valid .
+on that u have to solve 8 qs 
+e.g find no of valid/invalid strings (quite easy ).
+3 rules were given 8 qts were asked based on those
+rules.
+we had to find whether the string given was valid or
+not based on those rules.
+
+there were 3 synbols g,o,d .in the lang & x  y were
+strings of Gs with atleast 1 g
+
+	This also comprises similar type of ques.
+But with someease.like xGyD  is a word then xGGyGGo
+ ia also a validword and so find the number of valid words 
+in the given set.Question may seem to be easy but very difficult if u attempt.It is very difficult the answer the first two sections.
+his section had the funda of xOy where x and y
+represented strings of Gs . The test was to find the
+valid or invalid patterns with ref. to the rules
+
+questions based on a set of conditions,we were given 6 conditions 
+and were asked to find a valid set of words from agiven set of words.
+1.if xogoy is a valid word,where x is a string of "g"'s consisting of 
+atleast one "g",and y is also a string of "g"'s consisting of atleast 
+one "g"....then gogog is avalid word.
+gg0goggg is also a valid word...and so on
+2.if xgogxoy is avalid word..where x is a string of "g"'s consisting 
+of atleast one "g",and 
+y is also a string of "g"'s consisting of atleast one "g" then 
+ggogggog is avalid word...
+
+and 4 more conditions were given
+
+eg:find the no. of valid words in the following set if xogoy is the 
+valid word
+(gogog,godogg,gggogog)
+ans:2
+we come to the G-O-D(new language .. with only GOD as the 
+letters, x and y are strings of Gs question... ) 
+if xGOyGDxG is a valid word how many of the following are 
+valid/invalid....
+
+( GOGDG, xGOxGGGDxG, xGGGOyDxGGGG)
+
+Here ... the second one is invalid .. and the rest are valid ... try 
+and figure out 

@@ -1,0 +1,57 @@
+00_2
+1. two friends A,B are running up  hill and then to get down!
+length if road is 440 yards A on his return journy met B goin up at
+20 yards from top,A has finished the rase .5 minuit earlier than
+B,then how much time A had taken to complete the rase.
+
+ans 6.3 minuits
+marks 4
+
+4. Joe started from bombay towards pune and her friend julie in opposite
+direction.they meet at a point .distance travelled by joe was 1.8 miles
+more
+than that of julie.after spending some both started there way.joe reaches
+in
+2 hours while julie in 3.5 hours.
+Assuming both were travelling with constant speed.Wath is the distance
+between the two cities.   5M.
+
+8. there were five hunters A,B,C,D,E and five animals A,B,C,D,E. Hunter
+having the same name with the animal didn't kill it. Each hunter has
+missed
+some animal.
+A animal was hunt by the hunter whose name matches with animal hunt by
+hunter B.
+C animal was hunt by the hunter whose name matches with animal hunt by
+hunter D.
+E has hunt C and missed D .find out animals hunted by A,B,C.  6m.
+
+
+9. Five students A,B,C,D,E.
+when conversation started B,C were speaking english.When D join them they
+shifted to Spanish.A,E knows French .B,E knows Italian.Portoguese was
+known
+to there of them.Spanish was the most common language between them.
+one of them knows five languages.
+one of them knows four languages.
+one of them knows there languages.
+one of them knows two languages.
+one of them knows only one languages.
+
+A knows ?  4 options
+B knows ?  4 options
+C knows ?  4 options
+E knows ?  4 options       8M
+
+i1:
+ 2. No. of animals is 11 more than the no. of birds. If the
+            no. of birds were the no. of animals and no. of animals
+            were the no. of birds( ie., interchanging no.s of animals
+            and birds.), the total no. of legs get reduced by one fifth
+            (1/5). How many no. of birds and animals were there?
+            ans: birds:11,animals:22
+
+6)I6.htm 
+A person has to go both Northwards&Southwards in search of a job. He decides to go by the first train he encounters.There are trains for every 15 min both southwards and northwards.First train towards south is at 6:00 A.M. and that towards North is at 6:10. If the person arrives at any random time,what is the probability that he gets into a train towards North. 
+
+

@@ -1,0 +1,130 @@
+Hi friends,
+i'm abhik.
+i appeared in KANBAY on 11th,jan 2004 in kolkata
+organised by TECHNA.I'm sending thier latest question
+pattern.
+1) Aptitude & LR
+(Go for R.S.Agarwal & Bayron's GRE)----its enough
+2) GD
+(Generally role playing)
+3)HR & Tech
+(very fundamental questions)
+Around 450 aspirants appeared in the xm.
+they selected only 52 for GD.
+I cleared the written but got stuck in GD.
+BSET OF LUCK to all those who are
+preparing for KANBAY
+
+SUBEX is recruiting freshers (BE/BTECH/MSC/MCA/ME/MTECH) 
+>Next week they are going to conduct exam for FRESHERS. 
+> 
+>The Pattern is: 
+>TWO SECTIONS: 
+>     1) Technical Test : 20Q in 30 Min.( OBJECTIVE TYPE) 
+>         Correct Answer : +1 mark 
+>         Wrong Answer : -1 mark 
+>     Most of the Questions were on STRINGS and POINTERS (little bit 
+>confusing) 
+> 
+>     2)PROGRAMMING TEST in C: (30 Min) 
+>         one PROGRAM in C ( mainly on FILEs Like reversing each line in a 
+>FILE by 
+>         passing the Filename as COMMANLINE Argument and also to COUNT the 
+>number 
+>         of Palindromes after reversing each line in the FILE) 
+>SO, dont' miss this Opportunity , 
+>Next saturday,they are conducting Exam ..... 
+>So,apply to this ID : set6@subexgroup.com 
+
+Hai People,
+
+Iam a silent member of the group ... just wanted to inform u allabt the pattern
+of Kanbay
+I had attended the test of Kanbay yesterday (08.02.04) at The Institute of
+Engineers, Khairtabad.
+
+The pattern is as follows:
+
+It has 2 sections - Reasoning & Maths (Both Pure & Quant) with 1/2 mark (-)ve
+marking, duration of the paper is 60min (But is definetely a factor)
+
+1) Reasoning --> It had 30 Q's ... & the cut off is 12 marks
+
+They had covered almost every topic of reasoning ... specially from the book
+"Verbal Reasoning" by R.S.Agarwal ... I cud find many Q's from that book ...
+some of them are ... 
+
+a) They give a big series of letters viz. DOQOOQPOQ ... & ask how many O's are
+there in this series which are immediately followed by Q's but not immediately
+preceded by D. The Question might look simple ... but when u start observing the
+series ... it deos strain ur eyes ... 
+
+b) 4 people A,B,C,D stand at the corners of a square ... they start moving in a
+clock-wise direction. They stop when they cover 4 sides (its not clear whether
+... each covers 4 sides or on the whole they cover 4 sides) ... which of the
+following is true ... & they give choices abt the directions of them ... viz. B
+is west of A ... etc ... 
+
+c) 2 questions on relationships ... viz. B is the son of C but C is not the
+mother of B ... so on ... its answer is "Uncle" ... better read the Q completely
+& then answer ... 
+
+d) alpahabet series ... abaa_ _abbbaa_ _ _ aaa ... so on ... 
+
+e) A word is coded using some logic ... & he asked How'ld the PLEASE be written
+in the same language.
+
+f) 2Q's on Data Sufficeincy
+
+g) 2Q's on Statements & Conclusions ... they give 2 statements ... viz. Some
+cats are black & Some black are good ... its followed by 4 conclusions ... & u
+hv to select which one is true ... so u hv check out whether those statements
+are Universal Affirmative, etc ... well both are Particular Affirmative ... & u
+need to deduce the Conclusions based on some rules (which are clearly mentioned
+in RS Agarwal) ... 
+
+h) No Synonyms & Antinyms ... 
+
+i) One Q on ranking like ... A is 7th from the left & B is 11th from the left
+... & so on .. 
+
+2) Then comes the 2nd Section of Maths ... this is one real time-consuming one
+... (30 min). Some of the  Q's  are ... & cut-off is 12 for this section also
+
+a)42:84::52: ?
+
+b)In a game of billiards A gives B 10 of 80 & B gives C 20 of 90 ... so how much
+can C give B in such a game?
+
+c) One Q on SI ... quite a strange one ... like father takes a loan ... &
+distributes the amount ... it sums upto ... something ... after a couple of
+years ... I dont remeber the Q exactly ... 
+
+d) A cube of side 22cm ... some bullets of some side are made out of it ... how
+many are made ?
+
+e) In a garrison ... of some men for whom the provisions might last for 24 days
+if they consume abt 340 gms per person. If some more people are added to the
+garrison & each comsumes abt 250 gms ... how many days will the provisions last
+... ( I am not sure abt the figures ... but the pattern is the same ... this Q
+is there in RS Agarwal - Quant)
+
+f) One problem on ages ... like they said that 4 friends of which one is younger
+to the other ... & he asked who is the eldest ... the answer cant be deduced coz
+the data is not sufficient ... 
+
+g) One problem on avg.velocity ... 
+
+h) one problem on Trains ... 
+
+This is all I remember ... the paper is  a standard one ... but time-consuming
+... My suggestion is ... dont attempt all the Q's ... but just attempt those
+which are a bit easy & see to it that u cross the reqd mark of 12 safely ... 
+
+I guess this'ld be helpful for those who appear for Kanbay to solve the paper
+... But I culdnt understand the strategy of selection of the company ... he said
+that 24 out 60 ... is the qualifying mark ... but he had hardly selected 12-13
+people from each batch of abt 200-220 people ... there were abt 3 such batches &
+one the whole the number wudnt hv crossed 40 ... 
+
+Bye ... & All the best ...!!!

@@ -1,0 +1,78 @@
+SECTION 1(try this at last because it is very tough
+and time consuming) 
+>L1, L2 - lists 
+>M(L1,L2) = L1 + L2 
+>If , L = (a,b,c) 
+>A(L) = a (first term); B(L) = (b,c) (except the first
+term) 
+> 
+>I] P(L) = L if L=( ), & B(L)=() 
+>P(L) = A(B(L)) if L <> ( ), and B(L)<>( ) B(B(L))=( )
+
+>P(L) = M(A(L)), M(A(B(L)), P(B(B(L))) if B(B(L) <>C) 
+> 
+>II] R(L) = L : B(L)=( ) 
+>R(L) = A(L) if L<>() 
+>R(L) = M(dont know), R(B(B(L)))if B(B(L)) <>( ) 
+> 
+>With the above instructions, find the following using
+iterations: 
+>1. R(P(L)) where L=(a,b,(a,b),(b,a)) 
+>2. R(P(L)) where L=(a,(a),(b,b),b) 
+> 
+>Example(1)P(L)=P(a,b,(a,b),(b,a)) 
+>where A(L)=(a) 
+>B(L)=(b,(a,b),(b,a)) 
+>B(B(L))=((a,b),(b,a)) 
+>So, third condition is applicable 
+>So, P(L)=M(a,M(b,P((a,b),(b,a))) find this using the
+same rule and 
+>iterate. 
+> 
+
+suppose let a list be (a,b,a,a,(a,b),b)
+then A(L)=(a) the first element of list
+     B(L)=(b,a,a,(b,a),b) except first element
+     M(L1,L2)= is concatenation of two list l1 ,l2
+
+and condition is given as
+R(L)=0				if b(L)=0
+    =(A(L),A(B(L)))		If B(L)!=0 and B(B(L))=0
+    =M(A(L),M(A(B(L)),R(B(B(L)))) if B(B(L))!=0
+					  
+P(L)=0				if b(L)=0
+    =A(B(L)))			If B(L)!=0 and B(B(L))=0
+    =M(A(L),R(B(B(L)))) 	if B(B(L))!=0
+
+Around 8 question is in this Pattern
+
+I am not about the correct question i will just tell the pattern
+
+1-8
+
+A list Say L=((a,b),a,b,a,(b,a)) is given
+Asked to 
+1.find R(L)
+2.Find P(L)
+
+A another list say L=(a,b,a,a,b,a)
+3.FindR(P(L))
+4.findP(R(L))
+1) if L=(a,(a,b),(b,b)), the valu of R(L) is
+
+	(a)a (b) (a,b) (c) b (d) non of a,b,c
+
+2)if L=(a,(a,b),(b,b)), the valu of P(L) is
+
+	(a)a (b) (a,b) (c) (b,b) (d) non of a,b,c
+
+3) if L=(a,(a,b),(b,(b)),(b)) ,the value of R(l) is
+
+	(a) b (b) ( b,(b)) (c) (b) (d) non of a, b,c
+
+4)if L=(a,(a,b),(b,(b)),(b)) ,the value of P(l) is
+
+	(a) (a,b) (b) ( b,(b)) (c) (b) (d) non of a, b,c
+
+similarly another 4 questions are given related to it
+just look for the recurssion type

@@ -1,0 +1,83 @@
+
+Infosys off campus   ( 7-August-2005 )
+
+1>The age of the grandlady  is between 50-70 where each of her  son has as many sons as many brothers he has.
+     The grand lady's age is equal to the number of sons and grand sons.What is the age of the grand lady.
+
+Ans:  64 years
+
+2>Four persons A, B, C and D are playing cards.
+   Each person has one card, laid down on the table below him, which has two different colours on either side.
+ There are 2 red,  2green and 2 blue.
+The colours visible on the table are Red, Green, Red and Blue.
+   They see the color on the reverse side and give the following comment.
+
+A: Yellow or Green
+B: Neither Blue nor Green
+C: Blue or Yellow
+D: Blue or Yellow
+
+Given that out of the 4 people 2 always lie find out the colours on the cards each person.
+
+
+
+3>what is the 5 digit number which has only 2 prime numbers in it and satisfies the following
+     condition.
+    a>3rd digit is the largest
+    b>2nd digit is the smallest
+    c>1st digit is one less than the 3rd digit and greater than the
+         addition of 4th and 5th digit.
+    d>5th digit is between the 1st and 2nd digit and half of the 4th digit.
+       1 is not considered as the prime number.
+
+Ans:  71842
+
+4>    What is the value of X,Y and Z?
+        X X X X
+        Y Y Y Y
+        Z Z Z Z
+       -----------
+     Y X X X Z
+     -------------
+
+Ans:  X=9, Y=1,  Z=8
+
+
+5>40 cows graze a pasture  in 40 days,30 cows graze the same pasture in 60 days.
+    how many days does 20 cows take to graze it.
+
+Ans:80 days (check it)
+
+6>A person from washington came to india.
+   One evening at 6.00 p m he started  walking at the speed of 40 km/hr and
+   climbed the slope at speed of 30 km/hr.
+   From there he walked back to the source at the same speed at 9.00 p m.
+ what is the distance he covered in one way.
+
+Ans: 12 kms
+
+7>A c-pole of 200 ft is 250 ft from the d-pole which is 150 ft high..
+    Two pigeons  are sitting at the top of each poles(one in one pole)
+   Both pigeon fly towards a grain which is present between the 2 poles
+   at the same speed.
+   what is the distance between the c-pole and the grain?
+
+
+8>A 1 Km wire is connected between N poles.
+    if 1 pole is removed the distance between the pole increases
+    by 2/3 of the original distance.
+    How many poles are there ?
+
+9>A question on languages.
+   something like.
+Four people are there among them they know languages like french,
+italian,german,English.
+Each of them know two languages exactly.
+no body knows French and german together.
+       --
+       ---
+       ---
+       --
+
+10>a question on racing.
+      asking who is the first in the race.

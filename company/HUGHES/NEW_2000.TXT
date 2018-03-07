@@ -1,0 +1,846 @@
+
+
+
+
+1.a system is taken from p1,v1 to p2,v2. 
+  delQis heat given & delW is work done .if this done throughdifferent
+  processes then what is constant . 
+  a)delW 
+  b)delQ 
+  c)delW + delQ 
+  d)|delW - delQ|
+2.what is the direction of motion of an electronkept in an
+  electromagnetic field. 
+3.in a transistor, the saturation current can be
+  controlled by changing 
+  a)anode potential 
+  b)grid potential 
+  c)cathod potential
+  d)non of the aboveanother 7(atleast) quens from physics which none
+    of us had done 
+4.infix expretion-->postfix expretion
+5.which of the following sorts has the best &worst case time
+  complexity O(n logn ) 
+  ans..mergesort 
+6.given a sequence of codes for some alphabet,what will be 
+  the code for MOON 
+  ans..most prob.2778
+  one similar problem like this(above) one
+7.same but opposite type of hints as above.whataill be theword
+  for a given code. 
+  ans..FEAT 
+8.first sequence (17,21,25,...)
+  second sequence (16.21,26,...)  what will be the sum of first 100 
+common 
+  terms
+  ans..101100 
+9.integrate [(2x+3)/(sqr(sqr(x)+cx+d))]dx    
+   c,d was given
+  one more integratoin 
+10.probability for speaking truth for A ->75% for B->80%
+   what is the probability that both of them will tell lie for a 
+given fact
+11.what will be order of SURITI in thedictionary if the
+  letters of the word is arranged in lexicographical order
+12.two persons are select any number from 1 to 25. they win if
+  they select the same one.whatis the probability that they will win .
+13.a member of 6 is to be selected from 5 men & 6women, taking
+   at most 4 from each how many possible groups canbe formed 
+   ans..		200
+14.%composition was given. find the molecularformula 
+   ans..CH2O
+15.arrange the given organic acid in increasing order of acidity
+16.ram starts walking from point A move to 2 km.north and then
+   turns right and walks 4 km. and then turns rightand walks 4km.Š   and then turns right and walks 4km.
+   In which direction he was moving after firstturn?
+   ans..east
+   What was his final displacement?
+   ans..2km
+17.Two sol. schemes are given as hint for the givenproblem
+   select (a) if first hint is sufficientselect (b) if second hint is 
+   sufficient select (c) if both hints are requiredselect 
+   (d) if none  is sufficient
+18. (1) x*x-1=0;    (2) x*x*x-1=0;which one implies x is +ve.
+19.Two trains A & B are moving with const speed and approaching
+   towards each other, C is a STATION between them.
+   Which of them reachs C first?
+   (1) C is closer to A.(2) B is moving faster than A.
+20.Ram do the whole work in 60 days .Sam do that in how manydays
+   (1)if they combinedly do the work, they do in 42days.
+   (2)if Y portion is done by Ram & rest by Sam in Xdays    
+   ( X,Y,Z was given )
+21.Same atomic no. & atomic mass(a) isotone(b) isomer(c) isobar(d) 
+isomar.
+22.Reasoning you touch a bee.it will bite you.(a) A bee will byte a 
+man.
+   (b) A bee may or may not byte a man.
+    ans..(b)
+23.one more quen. of this(above) type
+24.f(x)=(1-cos(x)(1-cos(x)))/(x*x*x)
+   What is the value of f(x) at x=0, so that it is continious
+25.In a farm 4 people are reqired among them 2 are seniors & 2 are
+   juniors.if the senior set is {x,y,z} & junior setis {a,b,c,d}
+  and some conditions was given like     
+  1)x & z can't work togather
+  2)y & c can't work togather     
+  3)a & d can't work togather
+25.26.27.
+  there was three quens like, if z & d is in the team who are the 
+   others a)ya b)xb c)yb d)yc etc. etc.
+28.29.there was two differenyial equn. you simply differentiate the 
+  results and see which one matches
+30.from a series of organic solutions which one was not a proper 
+solution
+31.one reaction with toluene
+32.to find the n-th term of a series
+33.to find the sum of a series
+34.one more problem of limit
+
+
+
+
+SET 	2:
+
+1.two bodies changed from p1v1 to p2v2 state in two ways.the heat 
+supplied is delta Q and work done is delta W then what is constant in
+these two processes
+ a.delta q   b.delta w  3.delta q +delta w  4 delta q-delta w
+
+4..
+
+
+2. when a free electron is placed in  a plane of electro magnetic then it
+moves in 
+a in the direction of the electric field 
+b. in the direction of magnetic field
+c. of propagation of wave
+d. of the plane containing  magnetic field and propagation direction.
+
+3. which is not an ideal solution 
+ans  water plus ethenol
+
+4 the elements which have same atomic mass and same atomic number are
+a. isotopes b.isobar c.isomer  d isotones	(ismer)…
+
+5 name the phenomena in which one photon is jumped from one isomer to
+another isomer
+to create two different elements
+a functional isomerisim
+b sterio merisim
+c tauto merisim
+d.penta merisim
+c….
+6 in the below compounds which one has 40% c ,6.7%h 53.3 % o what is its
+empherical formula
+a cho b ch2o c c2h2o2 d c2h3o2
+ 	b…
+7 x rays are coming from x ray tube 
+a the wave length is below the certain wavelength
+b above 
+c inbetween
+d out of
+	(1e-7----1e-11)
+8 in troide volve in order to increase the saturation current what has to
+be done
+a increase plate voltage
+b reduce distance between grid and plate
+c increase cathode potential
+d reduce grid potentia
+a the wave length is below the certain wavelength
+b above 
+c inbetween
+d out of
+
+8 in troide volve in order to increase the saturation current what has to
+be done
+a increase plate voltage
+b reduce distance between grid and plate
+c increase cathode potential
+d reduce grid potentia
+	
+9 seven different toys are distributed among 3 children  how many
+different ways
+ a 7c3 b 7p3 c 3 power 7 d 7 power 3
+	c…
+10 a,b, and c are three speakers .they have to speak along by another 
+5 speakers in afunction.a has to speak before b and b has to spek 
+before c .how many different ways are possible
+	20p5…
+11 period of sin (2pi+3)/6pi
+	(4*sqr(pi))…
+12 dy =(secx + ytanx)dx then the curve is
+a x=ycosx b x=ysinx c x=ytanx d x=ysecx
+	x=ycos(x)
+13 integral (( 2x square +3 )/ (x square +x +1) square ) dx
+	[20/(3root3)]*tan(inv)[(2x+1)/root3]+(4x+5)/(3)(sqr x+x+1)
+14 two serieses are 16,21,25. And 17,21,25.  What is the sum 
+of first hundred common numbers 
+101100
+15 there are two sections in a question paper each contain five 
+questions .students has to answer 6 questions maximum no. of questions 
+that can be answered from any section is 4.how many ways he can attempt
+	200
+16 a and b are two no.s selected randomly from 1,2,3,25 what 
+is the probability of a and bare equal
+	1/25
+17 1+2(1+1/n) + 3(1+1/n)square  
+find sum of n numbers
+	sqr n…
+18 two circles of different radii intersects each other what is 
+the maximum no of intersections
+ x +a =0 roots are [0 1] then what is a
+	max(2)
+20 x= sin-1  t  and y=log (1-t2) then find d2y/dx2 at t=1/2
+	-8/3
+21 lt x-> infinity  ( ((integral 0 to x ( e power x dx)) power 2 
+/ ( integral 0 to x ( e power x square dx))
+	
+22 f(x)=1-cos(1-cosx)/x4 is continuos at f(0) then what is x
+	1/8..
+23 the word SURITI  .if u arrange the letters in dictionary order then
+what is the rank of  IT
+	236
+24 given that all dogs are trres
+trees gives wood then
+ 	
+ans 	dogs give wood
+	
+25 a .if one touches bees it stings 
+b he touched the b
+1. it stings  2 it may not sting 3.it definitely stings     1…
+27 a starts at a point and walks towards north for 2 mtrs and turns 
+two his right side and walks for 4 mtrs
+then turns right walks for 4 mtrs the turns and walks for 4 mtrs then 
+
+1.in which direction a is going after first turn	             east
+2 how much distnace away from the beginning point at the end	2m or root(63)
+
+28 given two clues and u have to prove one statement using those 
+clues .u have to decide wheter one is sufficient or 2 is sufficient 
+are both are required or neither
+
+29 a person wants to measure length of a rod .first he measures 
+with standing ideal.second he measures it 
+with moving parralel to the rod
+a the length will decrease in second case
+                                    b length will be same
+c length will increase in the second case
+Ans: distance decreases moving along parellel direction a)
+
+30 there are three sr s/w proffessional x,y,z. and 4 jr proffessinal 
+a, b,c,d a team of four memebers are two be choosen 2 from each.the 
+company wants evry one in the team to have friendly relation by other
+iven that
+y is not a frind of a
+x is not a friend of b
+a is not a friend of b
+
+three questions on this
+
+31 a line is passing through (1,0) what is the line equation
+y=m(x-1)   <--- (y-y1)=m(x-x1)
+
+32a question is like this a done work in 3 days a and b can done in 2 days
+.... a and b together 6/5 days
+
+33 one u 230 nuclues is placed in a train moing by velovity emitting 
+alpha rays.when the train is at rest the
+distance betwwen nucleus and alpha particle is x .one passenger 
+is observing the alpha particle .when the train is 
+moving what is the distance between alpha particle and nucleus .
+
+a .x b. x+vt c.  x-vt    Ans: x+vt (doubt)
+
+34 what is the resulting solution if benzene and toulene are mixed
+  IDEAL SOLUTION
+
+35 one question on ordering the given chemicals based on their acidity
+
+36 one question on reaction benzene , ferric chloride and other chemical
+
+37 one receiver is placed above the emitter.and emitter is emitting 
+electrons.if elctric field is applied in  the direction
+opposite to fllow then
+velocity of electron will increse
+kinetic energy will increse
+
+38 a question on photo multipliers
+
+39 a question on motion of electron in elecro magnetic field     Ans:perpendicular
+
+40 a company requries 55 application programmers and 25 system
+programmers.10 must be able to do both.
+How many programmers the company must recruit
+Ans:70
+
+Computerscience
+ 
+1 what sorting alogo. Has best and worst case time equal
+
+2 what page replacement algo. Has minimu m no pagefaults
+
+3 what is the use of abstract base class in c++
+
+5  eccentricity of a node in the graph   ans 7
+
+6 a question syntax directed translation
+
+7 infix to postfix conversion
+
+8 nyquist theorem
+
+9 swapping means
+
+10 assignment operator targets to   ans l-value
+
+11 a byte addressable computer has memory capacity of 2 power m 
+Kbytes and can perform 2 power n operation s
+
+an instruction involving three operands and one operator needs maximum of
+---bits 
+ans 3m+n
+
+12 in round robi n schedulin if time quatum is too large then it becime
+ans FCFS
+13 the best tool for editing a graphic image
+14 network schema define     a one to on   b many  to many  c one to many
+15 based on optimal lru page replacement alogorithim one question
+16 in 8085 after cmp a  what happens  ans : zset and c reset
+electronics
+
+
+1 a question on p doping , n doping concentration and resistivity asked
+for conductivity
+
+2 given Ft  , Cbe  asked for Gm  and Rbe
+ 3 whenston bridge  made by r and c what is frequncy
+
+4 t resistance , c is given find f and q of crystal
+5 critical frequency and angle theta is give fine maximum usable frequency 
+6 two questions on  paraboloid  refector and anttena half wave diopole
+design
+7 ramp siganl  is generated from integrator question on whether it is low
+Rc or high Rc
+8 calculate fm badwidth given maximum modulation frequency fm ,max 
+frequncy deviation delta f and 8 pairs 
+ allowable side band components
+9 in electronics questions elctronic devices , circuits,
+communication,antennas ,propagation of waves
+and emf
+
+19 x cube
+
+
+
+
+ 
+ WIPRO INFOTECH 2000 PAPER
+  there are lot of questions from physics,cheistry and
+maths. there will be only 20 questions from technical.
+    
+general
+------
+1. x**2-3x+a=0 some of the roots are 0,1 find a;
+2. integral of (2x+3)/((x**2+x)**2)
+3. x=sininverse(t) y = log(1-t**2) find second
+derivative at t=1/2.
+4. two circles of diff. radii intersects. how many
+maximum intersection    points.
+5. xray emitted light
+	a) monochromatic light b) passes all rays above
+certain max wavelength c) passes all rays below
+certain max wavelength d) passes bet max and min
+6.p1v1 --> p2v2, del q is heat evolved del w is work
+delivered. two diff methods which of the foll remain
+same
+	1) del q 2) del w 3) del q+ del w 4) delq - del w
+7. 3 toys  7 children distribute a) 7P3 b) 7C3 c) 7
+cube
+8. there are three questions from words coding
+9. integral 0 to x of e pow x dx / integral 0 to x of
+e pow 2x**2
+10. solve dy =( secx + tanx) dx
+11. one moves towards 2 km, turns right and walks 4,
+again right 4 kms,
+    again right 4 kms and agian 4 kms. what is the
+direction on 2nd turn. distance bet start and end
+12. sum of 100 terms of series common to 17, 21,
+25.... & 16, 21, 26...
+13. eccecentricity of a node in a graph
+14. which of the following is ideal sol
+	benzene-toluene, He2, orthotoluens
+15. positive inductance ?  cl-, no3, ch3.
+16. C =  40% H= 6.67% O = 53.3% what is emprical
+formular ? ch3o,        c2h2o2
+17. 1+2(1+1/n)+3(1+1/n)**2+....
+Š18. 3/1 + 5/(1**2+2**2) + 7 /(1**2+2**2+3**2)+.....
+19. problem on sequence
+       ex : 3 men a,b,c and 5 members. a speaks before
+b , bspeaks before c....		5!*6
+20. a quesiton with toluene. i forget ( ans: ortho
+toluene)
+21. benzoyl + phenol = ?
+22. what is metamerism ?
+23. what is isomer ?
+24. 35 persons speaks english ? 40 persons can speak
+panish? 10 can speak both ?how many are there? ( the
+orientation may be different )
+25. numbers 1 to 10 are coded as 5 letter words, how
+many words have 2 letters repeated.
+26. which sort is O(n log n) ? ans: merge sort
+27. dy = (sec x + tan x) dx passes throug orgin . form
+equ?
+28. picarts method of successive differentiation
+29. if the letters SURITI are placed in dict with
+different combinations. what is the pos of      SURITI
+30. x can do the work in 70%. y can do the same in
+80%. what is contradiciton probabality
+31. pick nos from 1 to 25 (forgot the qs) ans : none
+of the above
+32. a starts at A and moves to B. after 1 hour b at B
+
+starts towards to A. they meet at C. who is faster. C
+lies between A and B.
+some of the questions above may not be correct or
+incomplete. please bear with.
+			      application -software
+			      ____________________
+part-1:
+28-questions
+(5)ingless  ans:RDMS
+(1)bit program-ans d
+(2)c ans
+(3)+ 0 ans
+(4)00p--ans linking
+(5)------Š(6)-------
+(9)25--45 even no.  ans--10
+(10)  >10    <100   ---ans=n+9
+l paper. I am mailing it.  The quetions
+are in order.
+ So you no need to prepare answers and mugging that
+quetions. Just
+ Jyou mug that answers which are in order or you write
+all these
+ answers on the hand compactly while you are going to
+exam.
+
+ Paper Model:
+Section I:   computer awareness(i.e general things
+about computer)
+Q.15
+    -ve marks  -1/4
+  Section II:  Simple  C- language Q. 15     &  -ve
+marks: -1/4
+  Section III: On pointers & structures
+  and C++,JAVA( only 1 on this)  Q.10    each quetion
+->2 marks
+		 
+			   -ve marks: -1
+  Section IV:   Analytical        Q.20     each
+quetion -> 2 marks.
+			   -ve marks: -1/4
+
+VIJAYA from each section Iam giving one are to
+quetions also because
+for checking whether the same paper or not.  And for
+doubtful
+answers also I am writing quetions but not writing
+answers for these quetions.
+
+----------   Section I over with 15 quetions  
+			       
+SECTION-II
+Section II is not covered completly But it is very
+very easy
+. You can do it very easely.
+1)   ans: recursion
+2) long int size
+   a) 4 bytes  b) 2 bytes  c) compiler dependent  d) 8
+bytes
+ans: compiler dependent
+note: order of a,b,c,d are doubt but answer is
+correct.
+3) x=2,y=6,z=6
+x=y==z;
+printf(%d",x)    ?
+4) if(x>2)?3:4
+5)
+6)
+7)  ans: c  6  ( quetion on enum )
+8) ----Š---
+---
+--
+14)  c : class A,B and C can have member  functions
+with same name.
+15)  ans: d       none of the above
+
+		       SECTION-III
+
+(1) ans: b       It  does not work when rp is the last
+element in the
+  linked list
+2) ans: a       always
+3) ans: b               13
+4) ans: b       16
+5) ans: d       55,55
+6) ans: c           5,10,10,3
+7)  ---
+8) ans:d                4
+9) ans: c               5
+10)ans: c       semicolon missing
+					       
+SECTION-IV
+
+following are not in order:
+
+ 2. M > D > Y        ans: (a)
+ 6. 10 in 4 seconds,
+     ? in 6 minutes         = 10x6x60/4  = 900    ans:
+(a)
+ 7. a=2, b=4, c=5
+     (a+b)/c - c/(a+b) = 11/30 (ans).
+ 8. 100(100000000+100000000)/10000 = 2x1000000 (ans).
+ 9. what does the hexanumber E78 in radix 7.
+    (a) 12455  (b) 14153  (c) 14256  (d) 13541  (e)
+131112   ans: (d)
+ 10. Q is not equal to zero   and  k = (Q x n - s)/2  
+ find  n?
+    (a) (2 x k + s)/Q  (b) (2 x s x k)/Q   (c) (2 x k
+- s)/Q
+    (d) (2 x k + s x Q)/Q   (e) (k + s)/Q
+
+  (from GRE book page no:411)
+    data:
+     A causes B or C, but not both
+     F occurs only if B occurs
+     D occurs if B or C occurs
+     E occurs only if C occurs
+     J occurs only if E or F occurs
+     D causes G,H or both
+     H occurs if E occurs
+     G occurs if F occurs
+NOTE: check following answers.
+ 11. If A occurs which of the following must occurs
+Š      I. F & G
+     II. E  and H
+    III. D
+    (a) I only   (b) II only  (c) III only  (d) I,II,
+& III
+    (e) I & II (or) II & III but not both            
+ans: (e)
+ 12. If B occurs which must occur
+    (a)  D   (b) D and G  (c) G and H  (d) F and G 
+(e) J   ans: (a)
+ 13. If J occurs which must have occured
+a) E  (b) either B or C  (c) both E & F  (d) B  (e)
+both B & C  ans: (b)
+ 14. which may occurs as a result of cause not
+mentioned
+    (1) D   (2) A   (3) F
+    (a) 1 only  (b) 2 only  (c) 1 & 2  (d) 2 & 3  (e)
+1,2,3    ans: (c)
+ 15. E occurs which one cannot occurs
+    (a) A   (b) F   (c) D   (d) C   (e) J             
+ans: (b)
+ 11 to 15:-    -----------  e , a , b , c , b
+---------------
+Below are in order:
+ 16.  to  20.  answers:
+9"4)"4)Œ4)"4(4
+
+
+
+                                                              Wipro   technologies
+1.two bodies changed from p1v1 to p2v2 state in two ways.the heat supplied is delta Q and work done is delta W then what is constant in these two processes
+ a.delta q   b.delta w  3.delta q +delta w  4 delta q-delta w
+
+2. when a free electron is placed in  a plane of electro magnetic then it moves in 
+a in the direction of the electric field 
+b. in the direction of magnetic field
+c.	of propagation of wave
+d.	of the plane containing  magnetic field and propagation direction.
+3. which is not an ideal solution 
+ans water plus ethenol
+
+4	the elements which have same atomic mass and same atomic number are
+a.	isotopes b.isobar c.isomer  d isotones
+
+5	name the phenomena in which one photon is jumped from one isomer to another isomer
+to create two different elements
+a functional isomerisim
+b sterio merisim
+c tauto merisim
+d.penta merisim
+
+6 in the below compounds which one has 40% c ,6.7%h 53.3 % o what is its empherical formula
+a cho b ch2o c c2h2o2 d c2h3o2
+ 
+7 x rays are coming from x ray tube 
+a the wave length is below the certain wavelength
+b above 
+c inbetween
+d out of
+
+8 in troide volve in order to increase the saturation current what has to be done
+a increase plate voltage
+b reduce distance between grid and plate
+c increase cathode potential
+d reduce grid potentia
+a the wave length is below the certain wavelength
+b above 
+c inbetween
+d out of
+
+8 in troide volve in order to increase the saturation current what has to be done
+a increase plate voltage
+b reduce distance between grid and plate
+c increase cathode potential
+d reduce grid potentia
+
+9 seven different toys are distributed among 3 children  how many different ways
+ a 7c3 b 7p3 c 3 power 7 d 7 power 3
+
+10 a,b, and c are three speakers .they have to speak along by another 5 speakers in afunction.a has to speak before b and b has to spek before c .how many different ways are possible
+
+11 period of sin (2pi+3)/6pi
+
+12 dy =(secx + ytanx)dx then the curve is
+a x=ycosx b x=ysinx c x=ytanx d x=ysecx
+
+13 integral (( 2x square +3 )/ (x square +x +1) square ) dx
+
+14 two serieses are 16,21,25……. And 17,21,25……….  What is the sum of first hundred common numbers 
+
+15 there are two sections in a question paper each contain five questions .students has to answer 6 questions maximum no. of questions that can be answered from any section is 4.how many ways he can attempt
+
+16 a and b are two no.s selected randomly from 1,2,3,………25 what is the probability of a and bare equal
+
+17 1+2(1+1/n) + 3(1+1/n)square  ……………………
+find sum of n numbers
+
+18 two circles of different radii intersects each other what is the maximum no of intersections
+
+19 x cube - x +a =0 roots are [0 1] then what is a
+
+20 x= sin-1  t  and y=log (1-t2) then find d2y/dx2 at t=1/2
+
+21 lt x-> infinity  ( ((integral 0 to x ( e power x dx)) power 2 / ( integral 0 to x ( e power x square dx))
+
+22	f(x)=1-cos(1-cosx)/x4 is continuos at f(0) then what is x
+
+23	the word SURITI  .if u arrange the letters in dictionary order then  what is the rank of  IT
+
+24	given that all dogs are trres
+trees gives wood then
+ 
+ans dogs give wood
+
+25	a .if one touches bees it stings 
+b he touched the b
+
+1.	it stings  2 it may not sting 3.it definitely stings
+27 a starts at a point and walks towards north for 2 mtrs and turns two his right side and walks for 4 mtrs
+then turns right walks for 4 mtrs the turns and walks for 4 mtrs then 
+
+1.in which direction a is going after first turn
+2 how much distnace away from the beginning point at the end
+
+28 given two clues and u have to prove one statement using those clues .u have to decide wheter one is sufficient or 2 is sufficient are both are required or neither
+
+29 a person wants to measure length of a rod .first he measures with standing ideal.second he measures it 
+with moving parralel to the rod
+a the length will decrease in second case
+                                    b length will be same
+c length will increase in the second case
+
+30 there are three sr s/w proffessional x,y,z. and 4 jr proffessinal a, b,c,d a team of four memebers are two be choosen 2 from each.the company wants evry one in the team to have friendly relation by other
+iven that
+y is not a frind of a
+x is not a friend of b
+a is not a friend of b
+
+three questions on this
+
+31 a line is passing through (1,0) what is the line equation
+
+32a question is like this a done work in 3 days a and b can done in 2 days ……………..
+
+33 one u 230 nuclues is placed in a train moing by velovity emitting alpha rays.when the train is at rest the
+distance betwwen nucleus and alpha particle is x .one passenger is observing the alpha particle .when the train is 
+moving what is the distance between alpha particle and nucleus .
+
+a .x b. x+vt c.  x-vt 
+
+34 what is the resulting solution if benzene and toulene are mixed
+ideal solution.
+35 one question on ordering the given chemicals based on their acidity
+
+36 one question on reaction benzene ,ferric chloride and other chemical
+
+37 one receiver is placed above the emitter.and emitter is emitting electrons.if elctric field is applied in  the direction
+opposite to fllow then
+velocity of electron will increse
+kinetic energy will increse
+
+38 a question on photo multipliers
+
+39 a question on motion of electron in elecro magnetic field
+
+40 a company requries 55 application programmers and 25 system programmers.10 must be able to do both.
+How many programmers the company must recruit
+
+
+Computer science
+ 
+1 what sorting alogo. Has best and worst case time equal
+
+2 what page replacement algo. Has minimu m no pagefaults
+
+3 what is the use of abstract base class in c++
+
+5	 eccentricity of a node in the graph   ans 7
+
+6	a question syntax directed translation
+
+7	infix to postfix conversion
+
+8	nyquist theorem
+
+9	swapping means
+
+10	assignment operator targets to   ans l-value
+
+11	a byte addressable computer has memory capacity of 2 power m Kbytes and can perform 2 power n operation s
+
+an instruction involving three operands and one operator needs maximum of ---bits 
+ans 3m+n
+
+12	in round robi n schedulin if time quatum is too large then it becime  ans FCFS
+13	the best tool for editing a graphic image
+14	network schema define     a one to on   b many  to many  c one to many
+15	based on optimal lru page replacement alogorithim one question
+16	in 8085 after cmp a  what happens  ans : zset and c reset
+
+electronics
+
+1 a question on p doping , n doping concentration and resistivity asked for conductivity
+
+2 given Ft  , Cbe  asked for Gm  and Rbe
+ 3 whenston bridge  made by r and c what is frequncy
+
+4	t resistance , c is given find f and q of crystal
+5	critical frequency and angle theta is give fine maximum usable frequency 
+6	two questions on  paraboloid  refector and anttena half wave diopole design
+7	ramp siganl  is generated from integrator question on whether it is low Rc or high Rc
+8	calculate fm badwidth given maximum modulation frequency fm ,max frequncy deviation delta f and 8 pairs 
+ allowable side band components
+9	in electronics questions elctronic devices , circuits, communication,antennas ,propagation of waves
+and emf
+
+
+
+
+
+1.if a*b*c  = 120 then a+b+c=?	ans:see…
+2.compliment of x =1/6 of its suppliment then x=?	ans:72deg..
+3.side of square is increased by 30% then area is increased by? Ans:69%
+4.shirts sold at 160 with 20% profit ,boots sold at 90 with loss of 10%      ans:   7.14% profit
+totally he gets how much profit or loss?
+5.1/x<1/y then relation between x&y?	x>y if both are (+)..x<y if any one (-ve)
+6.lcm of 2,3,4,5?	Ans:60
+7.t's salary is 50% of j &  j's salary is 80% of s,find the ratio between s&tis 	ans:5/2
+8.find the farthest distace in the cylinder with height 8 & radius 8?	Ans:root(320)
+9.find the prime numbers between 110 & 120?	Ans:113,119..
+10.if an unloaded truck travels for 1 hour with 1 gallon of oil &
+a loaded truck covers only 80% of the distance covered by un loaded.what
+is % of oil consumed by loaded truck?
+
+these are passage questions ,under these one qustion only there   ans: 25% truck
+
+
+from 10 th question i am sending directly answers  and the starting
+words of that questions and direct answers.
+
+10. in the human body ..............blood clotting
+a.    e
+
+11.prompted by a proposal.......shipyard
+
+a.    e
+
+12.the states of newyork........
+a.   e
+
+17. the daily journey from his home............
+a.  c
+
+18.in accordance with their powers............
+
+a.  b
+
+19. 5 wimbledon men's ............
+a.   d
+
+20.  food technologist..........
+
+a.  c
+21. 3 main factors........
+
+a.  b
+
+22. myra:..........
+
+a.  c
+
+23. the local education authorities in England......
+a.  b
+24. sally over slept.........
+
+a.  c
+
+one big passage under this 5 questions
+
+passage:-
+              the atmosphere contains water vapor.................................
+
+question & answers
+1.a
+2.e
+3.d
+4.d
+5.c
+
+another passage
+
+observe the dilemma of the fungus.....................................................
+
+6.d
+7.a
+8.b
+9.c
+10.d
+
+Compiled by
+Roopesh R Nair
+University of roorkee
+
+   THE ABOVE PAPER I GOT FROM JADAVPUR UNIVERSITY.ENTIRE THING IS
+NOT AVAILABLE.WHAT EVER I TYPED IN THAT WAY ONLY IT IS AVAILABLE.
+
+    REPLY AS OON AS IT IS REACHED.
+
+
+
+
+ 
+
+
+
+  
+
+
+
+ 
+ 
+ 
+

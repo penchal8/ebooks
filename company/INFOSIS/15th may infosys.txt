@@ -1,0 +1,272 @@
+Infosys exam on 15th may 2005
+
+Paper started on 15th at 9:00 am atTagore International School in Delhi
+
+The duration of the paper was 2.30 hrs.
+
+For the first half an hour a form was given to us and they ask us to fill that.
+
+It contained d detailed information of our education with percentage and rank.
+
+I think that is also considered during the evaluation of written paper.
+
+After half an hour, there was written paper for 1 hour having ten puzzles to solve
+
+10 puzzles
+
+==========
+
+1>( 3 marks)
+
+Sandy's uncle died leaving 1000 rs behind to be distributed among his five nephews.
+
+The money is to be divided among the nephews according to their ages. A person gets
+
+Rs 20 more than his immediate younger brother.Sandy being the youngest what was his share?
+
+Ans. Rs 160.0
+
+It was quite an easy one.
+
+let sandy's share be x
+
+x+x+20+x+40+x+60+x+80=1000
+
+5x+200=1000
+
+x=800/5
+
+x=160
+
+ 
+
+ 
+
+2> ( 4 marks)
+
+Rohit was descending from the elavator which was not working. When he had stepped down
+
+7 steps his sir started from the bottom of the elevator and they passed each other and when Rohit had still 4 steps to go down, his sir reached at the top. Taking into consideration that sir’s 2 steps took same time as Rohit’s one what were the total no of steps?
+
+Ans
+
+22 steps
+
+let no of steps be x
+
+speed=distance/time
+
+Distance covered by Rohit = x-7-4 (7 steps already covered and 4 were still to go)
+
+Distance covered by sir = x
+
+Speed of Rohit =s
+
+Speed of sir = 2s
+
+Time taken is equal in both the cases so
+
+Time(rohit)=time(sir)
+
+(x-7-4) / s = x / 2s
+
+2x – 22 = x
+
+x=22
+
+ 
+
+ 
+
+3> ( 3 marks)
+
+A vendor who is an ex-mathematician has a number of apples and when he arranges them in rows of 3 he is left with one more, when he arranges them in rows of 5 again he is left with 1 more, Same happens with when he tries to arrange them in rows of 7 and 9 that is 1 apple is left extra.
+
+But when he arranges them in a row of 11 he is left with none. Can u tell me how many apples were there?
+
+Ans
+
+946
+
+the no is a multiple of 3,5,7,9 + a remainder of 1. So
+
+3* 5* 7* 9= 945 + 1 =946
+
+946 /11= 86
+
+so it is divisible by 11 also.
+
+ 
+
+ 
+
+4> ( 4 marks)
+
+A theft was reported in a p[olice station and police detained 3 persons – Tommy, Lee and Andy on the basis of doubt. However everyone said that he did not steal and one among the other two is the thief. Later on police came to know that Tommy was lying. Who was the real thief?
+
+Ans
+
+Tommy
+
+He gave 2 false statements:
+
+1: he didn’t steal though he was the thief.
+
+2: one among the other two did it. If he is the thief how can other 2 do it.
+
+It was very easy and infact that created a doubt n everyone cross checked it again n again to be sure as nobody was expecting such a simple puzzle.
+
+5> (6 marks)
+
+The temperature is noted for 5 consecutive days and it is noted that no two days have the same temperature. Moreover the product of all the 5 readings is 12. The difference is noted to the nearest degrees. What were the readings of the temperature?
+
+Ans: -2, -1, 1, 2, 3
+
+Factors of 12: 4*3,6*2
+
+2*2*3 bt 2 cant b repeated so –2 and to nullify -ve sign –1 is there
+
+so –2 *-1 * 1 * 2 *3 = 12
+
+ 
+
+6> ( 8 marks)
+
+There are five persons in an office in the post of buyer, clerk, footwalker, manager,cashier.
+
+Allen, Benett, Clark, Ewinger, Davis holds the post.
+
+         1. Among the 5 two have their lunch time from 11:30- 12:30 and the rest have it in 12:30 –1:30
+         2. Mrs Allen and Mrs Benett are sisters.
+         3. Cashier and clerk share their lunch among themselves.
+         4. Two Bachelors share their rooms.
+         5. Davis and Ewinger doesn’t face each other from the day Davis reported Ewinger to the Manager when he returned from lunch and found out that Ewinger has already left for lunch before time.
+
+Ans:
+
+I m not sure about the answers bt question was like this
+
+Davis:Buyer
+
+Clark:Cashier
+
+Allen: Manager
+
+Benett:Clerk
+
+Ewinger:Footwalker
+
+Lunch 11:30 – 12:30
+
+Two
+
+Davis ( from the 5th point he takes lunch in the earlier session)
+
+Davis cant be manager
+
+ 
+
+ 
+	
+
+lunch 12:30 – 1:30
+
+three
+
+Ewinger( form the 5th point he takes
+
+lunch in 2nd session
+
+Ewinger cant be manager
+
+ 
+
+ 
+
+7> (4marks)
+
+A dice has faces 1 against 6, 3 against 5 and 2 against 4 always. How many such combinations of faces are possible in a dice?
+
+Ans
+
+24
+
+keeping 1 and 6 fixed, we can have two combinations of 6 and 3, and two of 2 and 4 that means four. And interchanging 1 and 6 we can have two more combinations that means with one pair 8 combinations are there : 4*2=8. Similarly with other two also 8 combos. So in all 8*3=24 combos are possible.
+
+8> (4 marks)
+
+A boy’s age is 5 times as old as his sister. His father’s age is twice to that of his mother who is five times as old as the boy. The sum of all of them equals to that of his grandmother who is celeberating his 81st birthday. How old is the boy?
+
+Ans:
+
+5 years old
+
+let boys age b x
+
+sister’s = x/5
+
+mother’s=5x
+
+fatther’s=2(5x)
+
+grandmother’s=81
+
+81=x/5+x+5x+10x
+
+81*5 = x+5x+ 25x +50x
+
+405 = 81x
+
+x= 405/81
+
+x=5
+
+so boys age is 5 years
+
+ 
+
+9> (6 marks)
+
+It was something like 4persons take part in a race and got different ranks.what weretheir ranks: John, black, Wee, Anthony
+
+Conditions were given like
+
+   1. If John stood first then wee cant be on 4th position and Anthony at 2nd postion.
+   2. Similarly 4 5 conditions were given
+
+ 
+
+10> (8 marks)
+
+An easy question with 4 subparts
+
+A painter has 7 paintings and he follow certain rules while exhibiting the paintings:
+
+Never places x and y in the same exhibit
+
+If y is there z is also there
+
+U is there if and if only w is there
+
+Following these constraints 4 questions were asked based on the possible combinations in the exhibit
+
+ 
+
+ 
+
+After the puzzle round half an hours general english test was there . It was very easy having 45 questions
+
+Result was anounced the same day
+
+Next day in the morning I had my intrview . It was very general hr round .Two persons were there asking general qua\estions.
+
+Questions of intrvw:
+
+   1. what is the difference u faced while working in a team during ur training? Don’t u think more options and suggestions mean confusion.
+   2. What if a person in ur team is always talking against u in all matters without listening to ur part?(leave it to team leader)
+   3. Why 5th gear is provided in new cars?(for speed)
+   4. My dad was frm army.So they asked wat u like abt army.(uniform, respect, discipline)
+   5. What all places have u been during the transfers and how did that affect u in ur life and y did u think so.( adjustable and adaptable)
+   6. They gave me one sequence of numbers and without giving much time asked me the approach I was following to solve that. I was nt able to solve it bt I explained d approach to them.
+   7. Asked my hobbies .My toughest time in whole life an happiest moment.
+   8. Questions u want to ask from us.

@@ -1,0 +1,132 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : IBM
+------------------------------------------------------------
+DATE OF TEST : 23 Aug 2003
+------------------------------------------------------------
+PLACE OF TEST: Bangalore
+------------------------------------------------------------
+MODE 	   : 
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: Gopalakrishnan.M. 
+Sent: Tuesday, August 26, 2003 10:53 PM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] (paper) IBM 23 august 2003
+
+
+hai friends,
+
+Here with I am sending you few questions from the IBM exam held at 
+Bangalore on 23/08/2003.
+
+The paper contains total 40 questions. Duration 1 hour.
+20 ques from apptitude (R.S.Agarwal is more than enough for IBM 
+apps.)
+20 questions from technical OS, DBMS, C++, Software Engineering 
+etc.
+
+
+apptitude:
+1. If A can do a particular work in 8 days. B can do the work in 6 
+days. By C joining with them, they can finish the work in 3 days. 
+If Rs.540 was paid to them, what is the share of C?
+
+2. By selling a product a seller is gaining 10% on selling price. 
+If he sell that product Rs.80 less, he would have been losing 10%. 
+What is the cost price?
+
+3. If A dricer drives a car four times a lap 10,20 30,60 kmph what 
+is his average speed.
+
+4. If M persons are going for a party, then their share is $D. If 
+three persons were absent, then how much share will be increased 
+for each individual.
+(Solution : Average = D/M. Three absent New average = D/M-3
+  Increase = Newaverage - Average = D/M-3 - D/M )
+
+5. If the radious is increased by 50%. How much will be the volume 
+increased for a circle / Sphere in percentage.
+
+6. One person is wearing Black and White shoes as his pair. If he 
+is having 20 white and 20 Black shoes. What will be the less 
+number of time he have try to take his correct pair of shoes.
+
+7. The age of the grand father is the sum of his three grandsuns. 
+The second is 2 year younger than first one and the third one is 2 
+year younger than the second one. Then what will be the age of the 
+grandfather.
+
+8. in a grass field, If there are 40 cows, they could eat for 40 
+days. If there are 30 cows, they could eat for 60 days. Than if 20 
+cows, How much day they could eat?
+
+9. If the size of the fruit is two times the size of the seed. 
+Then what is the volume of the seed. (derive general equation)
+
+10. Speed of boat in still water 10 kmph.If the boat takes 24hr in 
+up stream and 16hr in down stream to cross the same distance, then 
+what will be the distance covered.
+
+11. How many times do the hands of the clock coincide in a day?
+
+12. If a person is standing in room, that is having mirrors in all 
+the four walls. How many images of the person will appear.
+
+Technical.
+
+1. main()
+    {
+    printf("%u",main);
+    }
+    what will be the output?
+
+2. main()
+    {
+    int 1,b;
+    int con;
+    1=b=2;
+    con (b==1) ? 1 : 0;
+    printf("%d",con);
+    }
+    what will be the value of con?
+
+3. Software Configuration Management process is --------------
+
+4. Data Integrity constraint is ----------------------
+
+5. Paging is ------------------------
+
+6. What type of memory could be accessed in least time?
+
+I know this much only. They are having many sets of QP's. For each 
+badge i think they are changing QP's.
+ALL THE BEST.
+
+Regards,
+Gopalakrishnan  M
+
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

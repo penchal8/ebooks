@@ -1,0 +1,47 @@
+1.a tin sheet  of 34 x 34 inch. It has to be put on a square of the same size.
+the carpenter puts the nails in such a way that there r 35 nails on each side of the square.
+find the total no of nails
+
+2.A and B starts palying a chess tournament with one match everyday.
+ The one who looses gives a chocolate to the other. at the end of the
+tournament B gives 8 chocolates to A. But A says that "i have won more matches than
+B and B has won 20 matches".
+Find the total no of matches.
+
+3.There are a grp of people and lodges. Each lodge can have 3 members.Each member can
+have two lodges. and any two lodges have one member in commom.Find the minimum no of 
+persons in the grp and  the min no lodges .
+
+4.A tour of nine days, starts with an amount travelled each day i.e: 20 km is added every day
+example:  if on the starting day:
+ he goes : x km
+ so 2nd day : x +20 km
+ third day : x+20+20
+ and so in till the ninth day after which the tour ends.
+ they complete tour is of 1850 km
+a)find the distance travelled on the last day
+b)find the distance travelled on the 4th day
+
+5.Four ladies do a alpha,beta, chen,gamma do course for "delphi" "dancing" "harp" together.
+after the completion of the course they make the following prediction
+1)alpha: beta will no play the harp
+2)beta :gamma will do delphi
+3)gamma: chen will not play harp
+4)chen: i think i have to get married to someone(..this means that she will do nothin
+ related to the courses she had taken)
+One of the prediction is true.
+Find who does Delphi
+
+6.Amir,Salman,Sharukk and Sunil has their daughters Madhuri,Manisha,Juhi,Sonali respectively
+They make do a  voting to find out whose girl is the best. Each of the fathers cast 5 votes 
+each in a different way.
+a)Salman treats his friends daughters equally
+b)Suni gives the maximum votes to his daughter
+c)Amir gives equal votes to manisha and juhi
+d)sharukk does not give a single vote to her daughter
+Find the share of vote for Madhuri
+
+7.a time and altitude problem ..i don't remember it ...the ans was 28 
+ 
+bye...
+Puru

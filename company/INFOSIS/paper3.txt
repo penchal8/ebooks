@@ -1,0 +1,174 @@
+Date of test  : 07/08/2005  (morning)
+Venue       : St.Michael Academy, adaiyar, chennai.
+
+!'st section
+----------------
+
+1) Lusie age is between 54-70.she  has sons and each sons has sons as many brothers they have.
+the combined number of sons and grandsons  give lusie's age ? how old is she ?
+2) A pigeon sitting on a  cathedral tower of height 200m. another pigeon sitting on another tower of height of 150 m. the distance between the two towers is 250. in ground. there are some grains, the birds fly at same speed, and at same instance and reaches the ground and start to eat grains. how far is the grain in the groundlevel from cathedral tower.   ( 6 marks )
+
+3)on a field, 50 cows were put for fed, which can last grass in 30 days.If 30 cows were put, they can empty the field in 60 days.How many days 60 cows will take to last the grass ?
+
+4) here is a five digit number.
+the fifth one is half of fourth digit,
+there must be two primes ( 1 not considered as prime)
+the second digit is lowest digit
+the third digit is highest.
+1'st digit greater than sum of last two digit
+5)4 players were playing a card game.Cards had different colours on bothi sides. Neither of cards hasd same colour on both sides.
+Colours were  2 Red,2 Blue,2 Green, 2 yellow.Cards were lying  in front of each player.Now ,each playere knew the colour on other side of card.They are required to tell their colour.
+Statement given by each of them are
+Annie: Blue or green
+Bobby: Neither Blue nor Green
+Cindy:Blue or Yellow
+Dainny:Blue or yellow
+Colour of cards that are visible to all were Red,'Yellow,Green, Blue in order of names.Exactly two of them are telling truth and exactly two of them are telling are lieing ? can you tell the colour on other face of card for each  player ( 8 marks )
+
+6) A software enginner starts his walking at 3 PM from point A, he walks at the rate of 4km/hr in plains and 3km/hr in hill to reach the point B.During his return journey, he walks at the rate of 6km/hr in hill and 4km/hr in plains  and reaches point A at 9.P.M. what is the distance  between A and B ?
+
+ 
+7)
+    XXX
+    YYY
+    ZZZ
+------------
+   YXXZ
+------------
+ 
+What is the value of X, Y,Z ?
+ 
+8)A 1 k.m long wire is held by n poles. if  one pole is removed, the length of gap is increased by 5/3 meters.What is the number of poles initially.
+ 
+9) andrew beat jim, Davis,elite lost to jim, jack was beaten by jim.
+jim beats davis. elite is not last. 
+(sorry i forgot exact order )
+
+10) one 8 mark question
+based on language they speak.
+there are four persons.
+each persons speaking only two language
+conditions:
+nobody  speak both german and france.
+william donno english but he act as interprter b/w Jacob and jim
+Jacob know german
+and
+some conditions ......
+we have to answer what the two languages they speak ?
+jacob  william  jim  andrew
+ 
+ 
+2) english section
+.Tbis section also has cutoff.
+one who know grammar and english language, can easily make.
+
+1)passage
+and questions based on that
+2) choosing wrong statement
+3) choosing correct statement
+4 )tense filling (like..  is sitting,was sitting, sit )
+5) fill in the blanks with correct phrase.
+ 
+answers:
+-----------
+1)64
+condition given :lusie age should fall between 54-70
+suppose if she has 8 sons .
+each son has 7 brother
+each sons has 7 sons  (condition given :as many brothers they have)
+8 sons having 56 sons
+adding 56 + 8 =64
+ 
+2) 90
+
+3) actually i got 120 for the given data.
+i forgot the figures, but i give u the step how to calculate
+ 
+g - grass at the beginning  r - rate at which grass grows, per day  y - rate at which one cow eats grass, per day
+n - no of cows to eat the grass in 90 days
+formula: g+d*r=n*d*y ( i got this frm old infosys paper)
+
+g + 30*r = 50 * 30 * y -->(1)
+g + 60*r = 30 * 60 * y--->(2)
+g + d*r = 60 * d * y --->(3)
+frm (1)
+g=1500y-30r
+substitute g in (2)
+1500y-30r+60r=1800y
+30r=300y
+r=10y
+substitute y in (3)
+
+1500y-300y+10dy=60dy
+1200y=50dy
+d=240 days
+ 
+4)71842
+5)
+yellow (lie)
+yellow (true)
+blue   (true)
+green  (lie)
+ 
+6) 12 K.M
+T1 + T2=6 (3 to 9.p.m)
+T1-time during forward journey
+T2-time during return journey
+D1+D2-forwared/Return distance
+D1/4+D1/3 =T1 (forward time)
+D1/4+D2/6 =T2 (return time)
+Adding we will get D1+D2=12 km
+
+7)x=9 y=1,z=8
+(i tried by assuming y=1 or y=2,(y-carry) i easily got)
+
+8) 26 poles
+solution:
+if  n poles
+(n-1) gaps of each 1000/(n-1) width
+if n-1 poles
+(n-2) gaps of each 1000/(n-2) width
+so
+1000/(n-2) -1000/(n-1)=5/3
+1000(1/(n-2) -1/(n-1))=5/3
+1000(1/(n-1)(n-2))=5/3
+(n-1)(n-2)=(3/5)*1000=600
+as  600=25*24
+so number of  poles should be 26
+
+9)andrew
+
+10) easy analytical u can solve it.
+ 
+I cleared written and attend interview on the next day.
+
+Date of Interview:08.08.2005
+Venue: Infosys head office, sholinganallur, chennai.
+Time :10.20 A.M
+-------------------------------------------------------
+
+1)tell something about ur native place
+2)tell something about ur project
+3)who is leader
+4)what motivates u
+5)how u organize a event
+6)ur extra curricular activities
+7)if u r made principal of ur college what changes u would do ?
+puzzle section
+-----------------
+8)easy number sequence..
+9) a ^b +b ^a =786
+a ? b ?
+
+10)any questions ?
+
+tats all
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+tips to clear written test:
+---------------------------------------
+1) 2005 infoysys test papers  (must)
+2) 2004 infosys test papers  (must)
+3) solved infy questions   (must)
+4) puzzle to puzzle u by shakuntala devi  (must)
+5)more puzzles  --(optional )

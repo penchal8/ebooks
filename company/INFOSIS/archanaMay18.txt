@@ -1,0 +1,122 @@
+Hi friends,
+
+               I attended Infosys written test  on 8-5-2005 at Chennai and got short-listed. I thank Chetana madam a lot for her service. If it was not for this group, I wudnt have cleared the written test. Since I didn’t have much time, I prepared only from the previous papers given by the group members now and then and that has really helped. Also, I thank all the people who shared their experience with the group. It gave me the much needed confidence. So thanks once again.
+
+My HR interview was scheduled on 9-5-2005. But since I had my university semester examination on 9th, I couldn’t attend it. I conveyed my problem to one of the Infosys staffs at the test centre and was given assurance that my interview would be re-scheduled to sometime around May 22nd.  I heard that there were few more candidates who had requested for re-scheduling of their HR interview. If u are among those, plz let me know.
+
+And those who had finished ur HR round, I would be very much grateful if u cud help me with details on how it was. You can mail me at amararchu@rediffmail.com or amararchana@yahoo.com
+
+As for the others, friends, I am attaching the question paper with the answers. I think I got all the 10 puzzles right.
+
+Regards,
+Archana
+
+QUESTIONS PAPER – MAY 8, 2005
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) There was a cycle race going on. 1/5th of the those in front of a person and 5/6th of those behind him gives the total number of participants. How many people took part in the race?  (3 marks)
+
+Ans : 31
+
+Approach:
+Let the total number of participants be X
+So, [(x-1)/5 + 5(x-1)/6] = X
+
+2) Today is Saturday. A person wants to meet a lawyer and as that lawyer is busy he asks him to come three days after the before day of the day after tomorrow? On which day the lawyer asks the person to come?
+
+Ans: Wednesday
+
+Approach:
+Today=Saturday
+Day after tomorrow=Monday
+Day before day after tomorrow=Sunday
+Three days after the day before the day after tomorrow=Wednesday
+
+3) A person is 80 years old in 490 and only 70 years old in 500 in which year is he born?
+
+Ans: 570 BC
+
+Approach:
+Since the age gets decreased with the years, the years should definitely be in BC and hence u should increment the years as u decrease the age. Therefore if he is 70 years old in 500BC, he would have born on 570 BC!!
+
+4) A man enquires a person about the past 5 days temperatures at 12 noon in that region. The other replies that he doesn’t remember the actual figures but there was a different temperature on each day and that their product gives 12. Assuming the temperature to the nearest degree what are the temperatures on the five days?
+
+Ans: -1,-2,1,2,3
+Approach:
+We know that the smallest two integers that can give a product of 12 is 3*4 which is spilt up as 2*2*3. But no temperature is the same…hence use -2 instead of 2. Now the product becomes -12. Choose the other temperatures such that value of the product does not change but only the sign changes. So naturally, the other two options are -1 and 1.
+
+5) A cube is painted. It is cut into 27 cubes with three straight lines. Find the number of cubes with
+a. 3 sides painted
+b. 2 sides painted
+c. 1 side painted
+d. no painted sides
+
+Ans:  a. 8 (4 corner cubes + 4 corner cubes)
+                b. 12 (center cubes at each EDGE)
+                 c. 6 (center cubes at each FACE)
+                d. 1 (cube at the center of the original cube)
+
+Approach
+Draw a cube (with front, top and side faces, dont draw the inner lines. that'll confuse) cut it into 27 cubes. thats done by drawing 3 horizontal and 3 vertical lines on the front face of the cube. extend those lines along the other two faces. then COUNT accordingly.
+
+6) A person travels at a speed of 10 mph from one city to another. However while returning as there was  not much traffic. He  came with a speed of 15mph. what is his average speed?
+
+Ans: 12 mph
+
+Approach:
+Let the distance be X
+Distance/ Time=Speed
+Time taken for forward journey=X/10
+Time taken for return journey=X/15
+Total time for to and fro journey T =[(X/10)+(X/15)]
+Total distance covered D=2X
+Hence, average speed= D/T = 12mph
+
+
+7) There is a peculiar island where people speak a strange language called ‘Kubi’.The men always speak truth and a women never say two 2 consecutive  truth or false statements, that is, if she says truth statement  once then she says false statement next and vice versa. The boys and girls always lie. One day I asked a child “Are you a boy or girl ?" and the child replied in Kubi. Since I didn’t know the language, I asked the child’s parents what it means. One of the parents said “The child says,”I am a boy””  and the other said that "The child is a girl. He lied".
+a) Is the child a boy or a girl
+b) Which parent answered first?
+
+Ans: The child is a girl and father answered first.
+
+Approach:
+Take the statement “The child is a girl. He lied". If ‘He lied’ is true, then the child is a girl is a false. Likewise, is ‘He lied’ is false, then the child is a girl is true => The second statement was given by the child’s mother and hence the father answered first.
+Take the statement  “The child says,”I am a boy”. Since the father always speak the truth, the child should have said that he was a boy. But then the child lies, so he cannot be a boy => the child was a girl. (Confused? Try reasoning it out yourself, u’ll understand the logic)
+
+8) There is a couple and they have many children. 7 of them dont eat spinach. 5 ot them dont eat carrot. 6 of them dont eat beans. 4 of them dont eat either spinach or carrot.  2 of them eat neither spinach or beans and 3 of them eat neither carrot or beans. and 1 dont eat spinach, carrot or beans. How many children r there in total?
+
+               Ans: 9 children
+
+Approach:
+4 of them don’t eat spinach or carrot => 4 of them eat beans alone.
+2 of them don’t eat spinach or beans => 2 of them eat carrots alone.
+3 of then don’t eat carrot or beans =>3 of them eat spinach alone.
+Total children=4+2+3=9
+(If some other reasoning approach was chosen, the remaining three statements could be used. But this one  is simple and I am sure that the answer is right. Try out the other approaches anyway)
+
+9) There are three tribes in a village. The Sorobean always speaks the truth. The Narobean always lies and the Midorean speaks truth and false alternatively. From the following statements, find out who belongs to which tribe.
+
+A: I am a Sorobean
+    B is a Narobean
+
+B: I am a Sorobean
+    C is a Midorean
+
+C: I am a Sorobean
+    A is a Midorean
+
+Ans:       A –Midorean, B-Narobean, C-Sorobean
+
+Approach:
+Simple ! Assume one as Sorobean and try to satisfy the conditions. All the above statement get satisfied only for the above answer. I think the statements that I have given are right…am sorry if its wrong but the answer to this puzzle in the Infy paper is the one that I have given above.
+
+10) A flight is scheduled to depart at 12 midnight.  A family arrived at the airport 10 hours late and missed the flight. If they had arrived 4 hours earlier, they would have reached the airport 2 hours earlier to the departure of the flight. (Something like that…not sure of the values). What is the present time ?
+
+Ans: 4PM
+
+Approach:
+Let the present time be X
+If they r 4 hours early, they arrive at airport at X+(10-4)=X-6.
+The train leaves at 12 midnight => total duration from morning 12am 10 12 midnight=24 hours.
+x-6 is 2 hours earlier to 12Pm =>24-(x-6)=2
+X=16 hours=4PM

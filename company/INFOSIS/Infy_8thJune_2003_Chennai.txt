@@ -1,0 +1,170 @@
+___________________________________________________________________________________
+
+COMPANY NAME : Infosys technologies ltd
+------------------------------------------------------------
+DATE OF TEST : 8 th June 2003
+------------------------------------------------------------
+PLACE OF TEST: Chennai
+------------------------------------------------------------
+MODE 	   : Off-campus
+------------------------------------------------------------
+DURATION     : 1 Hour
+___________________________________________________________________________________
+
+
+
+
+I guess different papers to different ppl in same center.
+
+___________________________________________________________________________________
+
+PUZZLES
+___________________________________________________________________________________
+
+Question # 1
+-------------
+Each alphabet A,B.. Z is a constant.A=1,B=2,C=3^2,D=4^9 n so 
+on.Each letter is assigned a value -the position of that letter 
+raised to the value of preceding alphabet.(C = 3 ^B,D= 4 ^ C n so on)
+Compute the numerical value of (X-A)(X-B)(X-C)....(X-Y)(X-Z).
+
+___________________________________________________________________________________
+
+Question # 2
+-------------
+Mr. T has a wrong weighing pan.One arm is lengthier than other.1 
+kilogram on left balances 8 melons on right.1 kilogram on right 
+balances 2 melons on left.If all melons are equal in weight,what is 
+the weight of a single melon?
+
+___________________________________________________________________________________
+
+Question # 3
+-------------
+In a game of dice, 2 dice thrown at each turn.The score at each 
+turn is taken as the product of number on 2  dices.there were five 
+turns(rolls).second roll is 1 less than first n (like this ... the 
+relationship between third n second,third n fourth,fourth n fifth ) 
+were given.Find the score in first roll,second roll,third roll,fourth 
+roll.(jus giving an idea abt question and don know the exact 
+relationships).
+
+___________________________________________________________________________________
+
+Question # 4
+-------------
+PURPLE:these are always poisonous if red are.
+YELLOW:six months in a year they are safe.
+GREEN: always safe to consume if purple are poisonous.
+RED:six months in a year poisonous.
+      
+The colors are colors of mushrooms available.AT this time 
+which one is safe to consume?
+
+___________________________________________________________________________________
+
+Question # 5
+-------------
+5 letters A,B,C,D,E represent different digit given;
+AB * CD = EEE and  CC = sumthing (i don remember). 
+AB* D = ?
+(get 2nd relation from other frnds)
+
+___________________________________________________________________________________
+
+Question # 6
+-------------
+
+  G: I am 22
+     M = G + 2
+     H = G - 1
+  H: I am not the youngest.
+      difference between M & H is 3
+      G is 25.
+
+  M: M is younger than G.
+      G = 23.
+      H = G+2.
+      Mr.G,Mr.M,Mr.H made only one statement false.
+
+Find the ages of all three.
+
+(I am not sure abt the statements jus chk it out with others)
+
+___________________________________________________________________________________
+
+Question # 7
+-------------
+Tom sent some stamps to KIM and JOANE.
+tom asked kim abt how much each of them got
+kim replied 'Joane got three more than half of wat she got,if 
+i had kept three more than half of wat she got.'
+tom said'OK how much did u keep?"
+Kim replied "jus 2 more than wat jone got!".
+
+How many stamps did TOM send?
+
+___________________________________________________________________________________
+
+Question # 8
+-------------
+A cyclist got his tyre punctured when he had covered two third of 
+the distance to be covered.Finishing on foot,He takes twice the time 
+taken before to reach the destination.How fast does he ride than 
+walking?
+
+___________________________________________________________________________________
+
+
+3 more problems were asked i don remember the questions correctly :
+(the puzzle section lasted for 1 hour.)
+
+___________________________________________________________________________________
+
+
+ENGLISH:
+
+Exercise 1: a passage was given n qs based on passge (5 qs)
+Exercise 2: 5 questions.each question had 4 sentences to spot the 
+incorrect sentence.
+Exercise 3: conversation between father ans son (10 questions )-to 
+fill in the blanks in the dialog or sentences with appropriate tense 
+of the verb.(a multiple choice question)
+Exercise 4: 5 questions -each question a sentence with 2 blanks .To 
+find out the most appropriate word pair that fits in the sentence.
+Exercise 5: 5 questions - each question had two sentences .2 differed 
+in any 1 word.the words may be homophones/misspelt one.
+Exercise 6: 5 questions - given a sentence with sosme phrase in 
+it /directly a phrase .we have got to choose the meaning of the 
+phrase from choices.
+
+All together there were 50 qs in english.Remaining 15 i forgot.Will 
+write u later in case i recollect.
+
+If u find any q incomplete / wrong please verify it with other frnds.
+
+___________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

@@ -1,0 +1,113 @@
+The test consisted of 2 sections. 20 objective questions followed by a program. The duration was 1hr.
+
+SECTION-1 :
+Find the output of the following code fragments:
+
+#include<stdio.h>
+#include<conio.h>
+# define SIX 2*3
+#define printchar(x,y) if((x)<(y)) printf("First number smaller");
+/*
+f(char *p)
+{
+char sz[]="hello"
+p=sz;
+}
+*/
+void main()
+{
+/*
+int i;
+printf("%d",i=20,i=30,i=40);
+
+int x=12/SIX;
+printf("%d",x);
+
+int x,y;
+clrscr();
+x=1;y=0;
+if(x=6)
+y=7;
+else
+y=1;
+printf("%d",y);
+
+
+int i=100,j=10,k=20;
+float ave,sum;
+char myformat[]="ave=%.2f";
+sum=i+j+k;
+ave=sum/3;
+printf(myformat,ave);
+
+int a=2,b=1;
+clrscr();
+if(a>b)
+printchar(a,b);
+else
+printf("Some message");
+
+char *p=NULL;
+f(p);
+printf("%s\n",p);
+
+one more similar question
+
+int i,p;
+int arr[]={10,11,12,13,14,15,16,17};
+p=&arr[2];
+printf("%d",p[2]);
+
+void main(int argc,char *argv[])
+{
+float a=3.5;
+switch(a)
+{
+case 0.5:
+printf("MESSAGE 1");
+break;
+case 1.5:
+printf("MESSAGE 2");
+break;
+case 3.5:
+printf("MESSAGE 3");
+break;
+case 2.5:
+printf("MESSAGE 4");
+}
+
+int arr[]={0,2,3};
+printf("%d",(*arr)++);
+
+int p,arr[20];
+char *pch1=arr;
+char *pch2=arr+20;
+clrscr();
+p=pch2-pch1;
+printf("%d",p);
+
+int n;
+while(n<11)
+{
+
+}
+
+<stdarg.h>
+
+if size of integer is 2 byte
+Two pointers q and p with different sizes
+q=arr+1;
+p=arr+6;
+q-p;
+
+A question using calloc & malloc: 
+A question using operator '&' :
+*/
+
+getch();
+}
+
+SECTION-2 :
+A question on File Handling. We had to write a program.I don't remember it exactly but it was something like this:
+
+Q. WAP to parse the text in a file. Print the contents within a specified block. The block begins with <begin block> and ends with <end block>.

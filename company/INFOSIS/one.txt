@@ -1,0 +1,82 @@
+hi all,
+ 
+Since i have recieved so many queries abt the test pattern and HR am shaing my experience with u all
+ 
+I thank u all for ur wishes. Sorry for the late repl coz i had my personal works.
+ 
+ok let me share me experiences with u ppl.
+ 
+am a fresher 2005 passout . i completed my MCA in June 2005.
+ 
+I took my Infy exam on September 11(meenakshi college , chennai) and cleared the written. I had my HR interview the very next day(12 th September).I got my offer letter on 15th September By GOD's grace, my parents belssings and with my help of my spl frnds, last but not least Chetana grp played a vital role in my suceess. without them this wud not have been poossible.
+ 
+ok here is the written exam pattern,--> Questions not in exact order
+ 
+written - 10 questions- 1hr time
+ 
+1) A person is 80 years old in 490 and only 70 years old in 500 in which year
+is he born?
+answer ; - 570 since the yr is BC we have to add current age of old man with the current yr
+470 + 80 = 570
+(check for the numbers am not too sure) (3 marks)
+ 
+2)  'A' says if seventy five chickens are sold from what we have now the feed will last for extra 20 days but 'B' says if we buy additional 100 chickens then feed will get over 15 days earlier. Find the no. of chickens both are having now?
+( am not sure abt the numbers .. i lost this sum 3 marks)
+ 
+3) Trains leave from New York to Washington every hour on the hour (1:00, 2:00....).Trains leave from Washington to New York every hour on the hour and half hour (1:00, 1:30, 2:0, 2:30....).It takes a train 5 hrs to complete its journey from Washington to New York as well as from New York to Washington. A train leaves from New York to Washington. Find out how many trains it will meet before it reaches Washington. --.3 marks
+answer: - 10
+ 
+4) Drugist, chemist, butcher, policeman , sum--> Clark, james, --> 8 marks
+ 
+5) some captain lock, and finding their ranks( i lost this sum ) --.. 6 marks
+ 
+6) some tie, hat, glove sum, 15 stmts were given and v need to find out who gets wat--> 8 marks
+answer: -c,a,d,b
+ 
+7) a driver drives a car and sees a mile stone with 2 digits.. some conditions were given..
+answer:- 45
+ 
+8) I spent one-sixth of my age as a boy and one-12th in youth, remarked the boss "spent one-seventh and five years in matrimony". My son born just after that period was elected as a governor 4 years back when he was half of my present age. What is the age of the boss?
+ 
+answer - 84
+ 
+9)Some riddle sum. reg the clock .. town clock is 1 hr slow. then 4 persons speak.. and then v have to find out at wat time they r gng to meet.
+answer;- 10 pm
+ 
+ 
+10) am sorry  yaar.. am not able to recollect...
+ 
+i think i got around 8 correct...
+ 
+HR intreview;-
+2 ladies( one young one and the other a bit older) they were very cordial and pleasing.
+my interview was in the after noon. 
+I asked excuse and entered the room  and wished them. they offered me seat.
+ 
+1) they asked  abt my photo since i was looking different from that.so use ur latest photo.
+2)take me thru ur profile.. - i started with infy vision& mission and i x plained them how my vision and mission matches with infy. then my carrer, schooling, my achievements, blah, blah..
+3) say us abt ur strength
+ my strength--. with example
+4) say us abt ur weakness
+m y weaknes-- with example
+5) tell us a situation where u had worked under pressure(since i said them one of my strengths is working under pressure) since am a fresher they wanted to test me.
+ try to convinence  them saying abt my mini proj.. blah blah.. they were much convinced abt my answer.(they appreciated me for my answer)
+6) one puzzle.. (i just answerd half the sum, i wrote down the logic and how wud i proceed.)
+7) they gave me situation.. u r dng a proj, the very next day u have a demo with the client and boss.u had made all ur presentations in a ppt, and floppy... but ven u r their with ur boss, and client the disk gets corrupted.. and power goes off.. wat vil u do?
+my answer:-    the room which i was had a marker and a board. an idea flashed thru my mind.. I said since i had developed the entire proj, i wud be knowing the full functional and technical details abt the proj, i can x plain my boss and client with this marker and board in front of me..
+(they appreciated me for my answer)
+ 
+8) any questions for u.
+    wat technology in infy focussing?
+    wat abt my training?
+    wat will be my responsiblities in this position?
+    wat technology vil  i b working in?
+    wen vil i get to know the results?
+ 
+I thanked them and they said suppose if ur selected u vil get to know the results in 2 to 4 weeks.
+ 
+tats all.
+ 
+any queries do mail me in this id. since i have to join this monday. i vil not b able to mail u quickly, but i vil surely mail u as soon as possible.
+ 
+I wish u all the very best for clearing Infy. 

@@ -1,0 +1,77 @@
+
+-----Original Message-----
+From: nishant gupta 
+Sent: Wednesday, July 02, 2003 11:39 AM
+To: chetana-jobs@yahoogroups.com
+Subject: [CHETANA] I too got selected in infy : Some tips from me !
+
+
+hi friends
+ive too got selected in infy blore i gave test on 8th june..
+
+i agree with vikas on the idea that firs try to answer easier questins 
+and the paper has fair amount of easy questions also  like :
+
+1. 
+there are two colcks one runs 1min/hrs faster and other 1min/hr slower 
+when will the two clocks have time time difference of 1 hr : 
+ans : 30hrs
+
+2. 
+i take a taxi whose no is 3 digit no. it is not divisible by 2,3,5,7 
+but divisible by 11 it is the smallest no possible: 
+ans : 121
+
+
+3. 
+three friends start with x marbles each after first round A gives ...to B...toC, 
+after second round B does similar , after 3rd round C does similar, 
+they have now marbles as ..... How many marbles they started with: 
+ans : 20 
+simple trick is to form equation and solve backwards
+
+
+---
+there is bound to be one 8 marks ques of complex arrangement.. 
+so prepare for that. cat material on complex arrangement is also 
+sufficient for that
+
+--
+there is good possibility of ques from clocks,calender,permutation,
+comb,probability
+
+--
+in time,speed,distance the 8th june paper had distances and speeds in 
+different units like inches,feet,m,yards etc so prepare for 
+distance conversion formulae
+
+--
+The english section is quite easy with simple grammer,
+fill in the blanks,(7th class)level passage, spelling mistakes, 
+it can also have analogies syllogisms etc.
+
+so all of u preparing for infosys paper on 6th jul BEST OF LUCK.....
+
+bi
+Nishant
+
+
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+
+
