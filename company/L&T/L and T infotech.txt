@@ -1,0 +1,154 @@
+From: "surajit roy" <surajit_roy2001in@rediffmail.com> | This is Spam | Add to 
+Address Book 
+Date: 7 Sep 2003 17:20:02 -0000 
+Subject: [CHETANA] (Pattern) L & T infotech 
+
+There are 2 sections..technical which is miscellaneous and Visual 
+reasoning..i am sending some technical questions..all the best
+surajit
+
+what is an inode in unix?
+2. small program in pascal to add a node to a linked list. (You have to
+tell what the program does)
+3. C strcmp program (You have to tell what the program does)
+4. set of dos commands testing basic familiarity with dir, ren *.t?t,
+cd etc.
+5. what is the order of binary search?
+6. what is the order of strassens matrix multiplication?
+7. you have to maintain the sorted order of integers and insert
+integers . which data structure would you use? (tree, list, queue,
+array?)
+8. There are two lists of integers to be merged. Which method would you
+not use?
+9. In an online database system when is data written to disk? (on
+pressing enter, when commit or update is encountered, at end of data,
+all of the above) (was clueless! )
+10. Small prolog function which prints 2345true. You need to tell
+output. 
+11. Convert  this binary into octal. 010 100 101 
+12. Lisp program given. what does it do? (GCD, LCM, Multiplies mxn?)
+13. What is paging?
+14. what is segmentation?
+15. 2/3 questions on equivalence class, associative and commutative
+properties.
+16. question on poset.
+17. one figure given, give regular ex-pression for it (very basic)
+
+Hope it helps, thanks chetana!
+
+
+--- Khanna <nrkanna@vsnl.net> wrote:
+> hi L&T takers:
+> 
+> here is the test pattern for SET(Software Engineer Trainee):
+> .
+> THE PAPER IS IN TWO PARTS
+> iN THE FIRST ONE THERE ARE 40 QUESTIONS OF VISUAL
+> REASONING AND IN SECOND THERE ARE 50 QUESTIONS FROM
+> MISCELLANEOUS 30,40 TOPICS
+> 
+> Question paper is here:
+> Ok GUYS,
+>   so i attended the L&T test today with all the valuable info that so
+> many
+> of u had provided to me. Well ,now 4 the info.
+>    The paper pattern is the same that was mentioned by all those ppl
+> who
+> helped me.
+>   Part 1:-> Psychometric test.
+>     Easiest thing in the world. Eight figures with you having to
+>     predict the ninth. Just use some common sense and u r thru this
+>     test. A WORD OF CAUTION tho; plz. do not waste time on a question
+>     if u r not sure ,just come back later n then do it. (36questions-
+>     40minutes.)
+>   Part 2:-> Engineering syllabus based Technical Test
+>      Now this sectin is a bit tricky.
+>      WARNING: Absolutely do not waste time on any question. U hardly
+>               get any time to think. (40 questions n 30 minutes.)
+>      Some of the questions r a s follows:-
+> 
+>       a) What is reverse engineering.
+>       b) Octal of some binary number(comes to 165 in decimal after
+>          conversion).
+>       c) A cobol prog with an integer array(I guess coz i did not
+> have
+>          Cobol in my syllabus).
+>       d) A problem on Depth first search(very simple).
+>       e) Question on Grammar's frm Theory of computer science.
+>       f) Something like Select the correct option when
+>              A Subset of (B Subset of ( A Intersection B)
+>                   if B is completely contained by A.
+>       g) A question on memory(quite simple).
+>       h) A couyple of questions on C(one on pointers).
+>            These r all I can remember.
+> 
+> 
+> Next round was the GD.
+>  By the way out of the 21 ppl who attended the test with me only 9
+>   including myself were selected.The GD was  amere formality i guess.
+>   We were given the topic "Do u think women make better managers?"
+>   A debatable topic , but we merely agreed with each other and no big
+>   problem with it.
+> 
+> 
+> All these are collected from previous mails. In turn do me a favor. 
+> i
+> submitted my resume in monsterindia long back & now i even got a mail
+> from
+> them to renew account. i did so. but till now i didn't get even 1 job
+> mail
+> from them. while i receive well from naukri etc. will they deliver
+> directly
+> to our e-mail id as others or else we have to go their site to
+> check jobs. kindly help me in solving this problem.
+> 
+>   Wishing u all a very good luck in your endeavors. but don't forget
+> to
+> respond to this mail. u mail me at nrkanna@vsnl.net
+> 
+> 
+>                                  Adieu.
+> 
+> With Luv,
+> N.Khanna
+> 
+> 
+> ----- Original Message -----
+> From: "junaid mohamed" <junaidzid@yahoo.com>
+> To: <chetana-jobs@yahoogroups.com>
+> Sent: Saturday, August 23, 2003 2:52 PM
+> Subject: [CHETANA] (Query)L&T infotech Papers URGENT !!!!!!!
+> 
+> 
+> > Hi everyone!!!
+> >
+> > I'am yet another silent member of this wonderful
+> > group.
+> > I got a mail from L&T infotech asking me to revert
+> > back to them with the answers of two questions they'd
+> > asked me.
+> >
+> > 1)hav u attended our test any time between
+> > april-august.
+> >
+> > 2)if need be would u be willing to relocate to Mumbai.
+> >
+> > This was regarding my application through
+> > www.monsterindia.com a couple of months back for the
+> > post of Software Engineer-Trainee
+> > I have responded to this mail and i think i'll be
+> > gettin a call for their test shortly since the Subject
+> > was URGENT !!! .
+> > could any of u please help me out by giving me the
+> > details about the question paper pattern and how i
+> > should go about preparing for this exam and also
+> > please mail me the sample papers if anyone has them.
+> > I'd be really grateful to u all.
+> > Once again.... i applied through www.monsterindia.com
+> > thank you,
+> > Junaid .
+> >
+> > U can mail me at junaidzid@yahoo.com (or)
+> > junaid_md@hotmail.com
+> >
+ 

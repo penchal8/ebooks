@@ -1,0 +1,43 @@
+Hi,
+ 
+Check this out.
+ 
+/******************   TEST **********************/
+ 
+One paper was on 'C'. Refer "Test Your C Skills" and "Pointers in C" by Yashwant Kanetkar and also Ritchie's  book on 'C'.
+ 
+Second paper was on OS, FAFL, DSP, Logic Design
+ 
+/*****************     INTERVIEW *********************************************************/
+ 
+In the interview, they asked about Stacks, Queues, Linked lists, Binary Trees.
+Few questions I remember are:
+1) If u have a linked list library, how do u design stack and queue using it; write pseudocode.
+2) What are static variables and functions?
+3) Write code in C to count the number of 1s in a character (1byte).
+4) What is pre-order, post-order, in-order; write code to print post-order.
+5) Can u construct a binary tree given its inorder and postorder details. Is it neccessary or sufficient to construct tree. Asked an example to do in both ways.
+6) If recursion is not used to print post order, what other data structure u use
+    (ans: Stack). 
+7)Can u use stack always in place of recursion?
+   (ans: Yes)
+8) What are meta characters?
+9) Write a piece of code to insert a node in a linked list.
+10) About malloc.
+11) About Operating System - Semaphores
+12) About Computability (eg:- finding infinite loop), Complexity of algorithms
+13) What does compiler and assembler do?
+They asked grep command in Linux. How do u search '\n', using grep, in a file. 
+They may ask some other commands if u say u r familiar and recently been using linux.
+About Networks? OSI reference model. 
+what does transport layer do?
+TCP belongs to which layer?
+IP belongs to which layer?
+Where is error correction done?
+What is a connection oriented/ connection less transmission?
+What is meant by reliable transmission protocol? why is it called so?
+What is flow control and where it is done?
+About ur project?
+Asked me expalin about the project in brief.
+If u don't know anything, say it sincerely. U cannot bluff them. I too spoke to them sincerely.
+They were cool. U need not get tensed. They won't attack you. Just they want to know ur hold about the subject. 

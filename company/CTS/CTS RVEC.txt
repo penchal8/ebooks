@@ -1,0 +1,61 @@
+hello friends,
+iam suman from rvce.i couldnt get in cts.they
+shortlisted 48,finally they took 14.they r fully going
+on your performance in written.in our college highest
+was 25 out of 40.so u can understand the level of
+question.they have changed the pattern of question
+this time. according to them it was gmat type.
+they r giving 3 sets of paper.each of them r
+different.
+in my paper 1st question was from function,
+(a,b,c)- L(a) is if u delete 1st element from it
+whatever is left.
+(a,b,c)-L(b) is 1st element of the list.
+if (a,b) &a r two lists then M(l1,l2) is ((a,b),a).
+X(a,l)=a
+=L(a)
+=M(a,l)
+y(a,l)=l 
+=L(b)
+=M(l,a)
+based on this they gave 4 questions,most of the
+answers were b.
+there is negative marking of .25.
+then they gave around 8 questins of this type,
+if abacbb corresponds to bbcaba & acbbca corresponds
+to acbbca then baabcb corresponds to what.
+ans-bcbaab.
+what they did in each question was either rotated the 
+full word clockwise by 1 .
+like if abcbac corresponds to bcbaca & acbacb
+correspnds to cbacba then abcabc corresponds to what.
+ans-bcabca.
+this was easy,do it properly.
+then one question was on six block borders were given.
+1 2 2 3 3 1
+1 2 3 2 1 3
+this was given in six different column blocks.
+ques. was
+if 1 2 3 2
+2 3 2 1
+1 3 2 3
+3 2 1 2
+then 1 2 - -
+- - - -
+- - - -
+- - - -
+corresponds to which of the block.four options were
+given.all these things were in square blocks.
+like this 10 questions were given.
+then at last they had around 8 questions like this
+p--s--d- corresponds to what
+1.utopian 2.convince 3.pervade 4. 
+ans- convince.-persuade.
+one was perverse.
+decadent(not sure).
+sorry i couldnt manage much.
+its my sincere request whatever u do perfectly in
+written.
+they r taking even the guys who r not good in
+technical stuff but is intelligent. 
+

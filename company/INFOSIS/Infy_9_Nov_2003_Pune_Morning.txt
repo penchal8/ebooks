@@ -1,0 +1,188 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : Infosys technologies ltd
+------------------------------------------------------------
+DATE OF TEST : 9 Nov 2003 (Morning batch)
+------------------------------------------------------------
+PLACE OF TEST: Pune 
+------------------------------------------------------------
+MODE 	   : Off-campus
+------------------------------------------------------------
+DURATION     : 1 Hour
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: Gaurav Agrawal 
+Sent: Friday, November 14, 2003 1:09 PM
+To: chetana-jobs@yahoogroups.com
+Subject: [CHETANA] (PAPER) Infy Nov. 9th Pune Morning Batch (answers included)
+
+
+Hi,
+
+I'm sending you Infy paper that I wrote on Nov. 9th. 
+I could have done all correct, but, I overlooked a
+couple of words in first question & hence got the
+wrong answer. But, rest 9 I answered correctly.
+
+You can check the answers by putting the value in
+original question.
+
+===================================================
+INFOSYS PAPER - Nov. 9, 2003 - Pune (morning batch)
+===================================================
+
+1. "One-sixth of my life", said my boss, "I spent as a
+child, next one-twelfth as an old boy, one-seventh & 5
+more years in politics & socialization. This brought
+me upto when Jimmy born. Jimmy was elected for the
+governer four years ago, when he was half my present
+age."
+How old is my boss?
+
+ANS.: 84 yrs.
+(However, I overlooked that 'one-seventh' part, & got
+the answer 36 - a wrong answer.)
+*******************************************************J
+= (B/2) + 4
+(B/6) + (B/12) + (B/7) + 5 + J = B
+=> B = 84
+*******************************************************
+
+2. Half of the money in my purse, I spent on shopping
+& gave 1$ to a begger. Then, spent half of the
+remaining on lunch & gave 2$ to the waiter as tip.
+Finally, I purchased some books worth 3$ more than
+half of what remained. This left me with only 1$ in my
+purse.
+How much money I initially had?
+
+ANS.: 42$
+
+3. Bill, Ed, & Derek, along with their wives - Grace,
+Helen, & Mary - in one order or the other were playing
+18-holes golf. There score were as follows -
+i)   Grace, Helen, Mary, & Ed scored 106, 102, 100, &
+94 respectively.
+ii)  Bill & Derek scored 98 & 96, but forgot who
+scored what.
+iii) Bill's wife was beaten by Ed's wife.
+iv)  When Bill & Derek remembered their scores, they
+came to know that exactly two couples had      same
+total scores.
+What was scored by Bill, & by Derek.
+
+ANS.: Bill:96, Derek: 98
+*******************************************************
+Here, we get three answer, but, there is written, "...
+in one order or the other ...", hence, only above one
+is correct.
+*******************************************************
+
+4. "My son", the man said, "is five times older than
+my daughter, my wife is wife times older than my son,
+& I'm twice the age of my wife. Sum of our ages equals
+the age of GrandMa, who is celebrating her 81st
+birthday today. What is the age of my son?"
+
+ANS.: 5 yrs.
+
+5. Mrs. Barbinger bought some plates on Saturday for
+$1.30, when everything was being sold two cents below
+the regular price. She exchanged  those plates on
+Monday, at their regular price, for cups & saucers.
+Cost of one plate equals cost of one plate & one
+saucer. She returned home with 16 more articles than
+before. Since, saucers cost only 3 cents each, she
+bought 10 more saucers than cups.
+The puzzle is, how many cups could she have bought on
+Saturday, for $1.30?
+
+ANS.: 13 cups
+*******************************************************
+On Monday:
+cup = 12 cents, saucer = 3 cents, plate = 15 cents
+On Saturday:
+cup = 10 cents, saucer = 1 cent,  plate = 13 cents
+*******************************************************
+
+6. Harry & Jimmy were playing marbles. They began with
+same no. of marbles. In the game, Harry first won 20
+marbles, & then lost 2/3 of what he had. In the end,
+Jimmy had four times marbles, than what Harry had. How
+many did they begin with?
+
+ANS.: 100 marbles each
+
+7. An analytical reasoning para. about arrangements of
+gems in display case, & four questions on possible
+arrangements.
+
+8. Following are the statements of three of the
+participants in a race. One among them is the winner
+of the race. One of them is a Sororrean, who always
+tells the truth, one of them is a Nororrean, who
+always lies, & the third one is Midrorrean, who lies
+alternately. You have to find who is Sororrean, who is
+Nororrean, & who is Miderorrean.
+
+A: i)   C obstructed my way, & hence I lost.
+   ii)  C always tells the truth.
+   iii) C won the race.
+
+B: i)   C is not a Nororrean.
+   ii)  A won the race.
+
+C: i)   B won the race.
+   ii)  I didn't obstruct the way of C, because of
+which he lost.
+
+ANS.: A:Nororrean, B:Sororrean, C:Midrorrean
+*******************************************************
+If A is Sx, C is also Sx.
+If A is Mx (with 2nd stat. true) then none is Nx.
+If A is Mx (with 2nd stat. false) then none is Sx.
+Hence, A is Nx, then C is Mx, & therefore, B is Sx.
+*******************************************************
+
+9. Five thieves entered a diamond shop, one by one.
+Each stole half of the diamonds he found there & two
+more diamonds, except the fifth, who didn't find any
+diamonds to steal. How many diamond were there
+initially.
+
+ANS.: 60 diamonds
+
+10. Hart has two friends Amy & Axe.
+i)  One of Amy & Axe is the oldest.
+ii) Either Hart is oldest or Amy is youngest.
+Who is the oldest, & who is the youngest.
+
+ANS.: Oldest:Axe, Youngest:Amy
+
+===================================================
+
+That's all. Now, everything depends on english test.
+Wish me luck.
+
+Bye4Now
+
+- Gaurav
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

@@ -1,0 +1,200 @@
+HCL - Question paper - 05   Conducted On -- 2004    
+
+SECTION A 
+
+The following program accepts a pair of 2 numbers from the user of system and totals them. Numbers are accepted in pair repeatedly and totaled, until grand total of all the pair of numbers accepted does not exceed 9.
+Step 1             : Assign value 0 to x
+Step 2             : Accept 1st number and assign to A
+Step 3             : Accept 2nd number and assign to B                                     Freshersworld.com
+Step 4            : Add A and B assign to C
+Step 5             : Add C to X 
+Step 6             : If X<10 go to Step 1
+Step 7            : Stop.
+The error in the above routine is
+Step 6 should be If X<9 go to Step 1
+Step 1 is redundant
+Step 4 should be Add A & B and assign to X
+Step 6 should read If x<10 go to Step 2
+Step 1 should be Assign value 0 to A & B
+
+The following program finds the greatest of the three numbers A, B and C and prints the result
+Step 1             :             If A>B assign A to X
+Step 2             :             If A>C assign A to X
+Step 3             :             If B>C assign B to X                                             Freshersworld.com
+Step 4            :             Print X
+The error in the above program:
+It does not work in case C > A
+It does not work in case B > A
+It does not work in case C > B
+It does not work in case A = B = C
+All of the above
+Study the following program and answer the following questions :
+Step 1             : A = 0
+Step 2             : B = 0
+Step 3             : If B > 1
+Step 4            : A = A + 1
+Step 5             : B = B  + 1
+Step 6             : GOTO 7
+Step 7             : END IF 9                                                                                  Freshersworld.com
+Step 8             : B = B - 1
+Step 9            : Stop.
+
+         What is the value of B at termination of program?
+ A) <1            B) 0            C) 1            D) 2            E) none of the these Object oriented language 
+does not exhibit the following property:
+
+Structured Programming
+Private variables
+Inheritance
+Linking at runtime
+Polymorphism
+A) I            B) II            C) III             D) IV            E) V Ingress is 
+A 3GL An operating system 
+A structured query language                                                                  Freshersworld.com
+Programming language
+e)     RDBMS
+Which of the following is not a natural member of the set
+A) UNIX       B)OS/2            C)PICK                D)LAN             E) VMS
+Which of the following is not a DBMS
+ORACLE  B) SYBASE  C) PICK  D) INFORMIX  E) UNIFY LOTUS 1-2-3 is a Word
+ processing S/w  Case tool  DBMS   Laser printer   None of the above
+
+   each problem consists of a question and  two statements numbered (1) and (2), in which certain data are
+    given, these are followed by five options, please tick: if statement (1) alone is sufficient, but statement
+    (2) alone is not sufficient to answer the question asked.if statement (2) alone is sufficient, but statement
+   (1) alone is not sufficient to answer the question asked. if both statement (1) and (2) together are 
+   sufficient to answer the question asked., but neither statement alone is sufficient.if each statement alone
+ is sufficient to answer the questions asked.if statements (1) and (2) together are  not sufficient to answer
+ the question asked., and additional data specific to the problem are needed.
+
+ If a rope is cut into three pieces of unequal length, what is the length, what is the length of the shortest  of  these
+ pieces of rope ?The combined length of the longer two pieces of rope is 12 metres The combined length of the
+ shorter two pieces of rope is 11 metres
+      (A)            (B)            (C)            (D)            (E)
+
+ A certain company paid bonuses of Rs.125 to each of its executive employees and Rs.75 to each of its non
+ executive e employees. If 100 of the employees were non-executive, how many were executives?The company has
+ a total of 120 employeesThe total amount that the company paid in bonuses to its employees was Rs.10,000
+   (A)            (B)            (C)            (D)            (E)
+
+What fraction of his salary did Mr. Johnson put into savings last wek? Last week Mr. Johnson put Rs.17 into saving.
+ Last week Mr. Johnson put 5% of his salary into savings.
+   (A)            (B)            (C)            (D)            (E)
+
+ Each M-type memory that will increase the base memory capacity of a certain computer by 3 megabytes. What is
+ the base memory capacity, in megabytes, of the computer? 2 M-type memory units will increase the computer's
+ base memory capacity by  300% The memory capacity of the computer after 2-M type memory units are added to
+ the base memory capacity, is 1.6 times the memory capacity of the computer aftgter 1 M-type unit is added to the
+ base memory capacity.
+     (A)            (B)            (C)            (D)            (E)
+
+ What fractional part of the total surface area of cube C is red? Each of 3 faces of C is exactly 1/2 red
+  Each of 3 faces of C is entirely white.
+       (A)            (B)            (C)            (D)            (E)
+
+                                            SECTION B
+
+ 1.   How many of the integers between 25 and 45 are even?
+         A) 21            B) 20            C) 11            D) 10            E) 9                            Freshersworld.com
+2.    If taxi fares were Rs.1.00 for the first 1/5 mile and Rs.0.20 for each 1/5 miles thereafter, the taxi fare for a 
+       3-mile ride was
+         A) Rs.1.56      B) Rs.2.40      C) Rs.3.00      D) Rs.3.80      E) Rs.4.20
+ 3.   A computer routine was developed to generate two numbers (X, Y) the first being a random number between 
+      0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following
+       pairs satisfies the routine EXCEPT
+      A) (99.10)             B) (85.9)   C) (50.7)   D) (1.1)                 E) (1.0)
+4.  A warehouse had a square floor with are 10,000 sq. metres. A rectangular addition was built along one entire
+      side of the warehouse that increased the floor by one-half as much as the original floor. How many metres did 
+      the addition extend beyond the original building?
+      A)  10      B) 20      C) 50      D) 200      E) 500
+5.  A digital wristwatch was set accurately at 8.30 a.m. and then lost 2 seconds every 5 minutes. What time was
+      indicated on the watch at 6.30 p.m. of the same day if the watch operated continuously that time?
+     A) 5:56      B) 5:58      C) 6.00      D) 6:23      E) 6:20
+6.  A 5 litre jug contains 4 litres of a saltwater solution that is 15 percent salt. If 1.5 litres of the solution spilts out of
+     jug, and the jug is then filled to capacity with water, approximately what percent of the resulting solution in the jug
+      is salt?
+         A).5%                      B) 9.5%                C) 10.5%            D) 12%                 E) 15%
+    A plane travelled K miles in the first 96 minutes of flight time. If it completed the remaining 300 miles of the trip in
+    1 minute, what was its average speed in miles per hour for the entire trip?
+
+                                                  SECTION C
+
+1. Given the following statement     enum day = { jan = 1 ,feb=4, april, may}     What is the value of may?
+        (a) 4
+         (b) 5
+         (c) 6
+         (d) 11
+         (e) None of the above
+
+2. Find the output for the following C program
+             main
+              {int x,j,k;
+                j=k=6;x=2;
+                x=j*k;
+                printf("%d", x);
+
+3. Find the output for the following C program                                                                Freshersworld.com
+           fn f(x)
+             { if(x<=0)
+                return;
+                else f(x-1)+x;
+              }
+
+4. Find the output for the following C program
+           i=20,k=0;
+         for(j=1;j<i;j=1+4*(i/j))
+                 {
+                        k+=j<10?4:3;
+                   }
+          printf("%d", k);
+         Ans. k=4
+
+5. Find the output for the following C program
+               int i =10
+               main()
+             {
+              int i =20,n;                                                                                               Freshersworld.com
+              for(n=0;n<=i;)
+               {
+                  int i=10;
+                  i++;
+               }
+             printf("%d", i);
+             Ans. i=20
+6. Find the output for the following C program
+          int x=5;
+          y= x&y
+7.Find the output for the following C program
+          Y=10;
+           if( Y++>9 && Y++!=10 && Y++>10)                                                              Freshersworld.com
+               {printf("%d", Y);
+                   else
+                printf("%d", Y);
+                } 
+            Ans. 13
+8. Find the output for the following C program f=(x>y)?x:y
+         a) f points to max of x and y                                                                                  Freshersworld.com
+         b) f points to min of x and y
+         c)error
+         Ans. (a)
+9. What is the sizeof(long int)
+       (a) 4 bytes
+       (b) 2 bytes
+       (c) compiler dependent
+        (d) 8 bytes
+
+10. Which of the function operator cannot be over loaded
+            (a)  <=
+            (b) ?:
+             (c) =
+             (d) 
+
+11. Find the output for the following C program
+        main()
+       {
+         intx=2,y=6,z=6;                                                                                                   Freshersworld.com
+         x=y=z;
+         printf(%d",x)
+
+
+

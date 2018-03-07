@@ -1,0 +1,22 @@
+
+            This is regarding the L&T infotech test about which a few of our friends in chennai were inquiring.
+ 
+            Actually I had been to their entrance test in Mumbai on Nov 28 for the post of SET( Sofware Engg Trainee).
+ 
+            Since it has been almost a month I gave those exams I don't remember the questions but I remember the pattern which they had followed, 
+            there were two tests one was the EKT(Engg Knowledge test) and the other test was totally on Figure Matrices.
+ 
+1. EKT(Engg Knowledge test) - The EKT test consisted of  40 objective type questions which we had to solve in 40 
+minutes.  
+                A majority of the questions were based on Mathematical Logic such as "reflexivity", "tautology","p^q->r" etc.
+                Then there were questions based on cobol, sql, prog in c et.
+                There was a question on finding the hamming code.
+ 
+2.Figure matrices: The another test was on figure matrices,
+                              In Figure Matrices, 9 figures are arranged in the form of a matrix with one figure missing and the candidate is required to analyse the the complete sets, find out the common rule and then on its basis, find the missing figure in the incomplete set.
+ 
+             It consisted of 36 questions on figure matrices which we had to solve in 30 minutes.
+          The questions were easy but generally you don't get time to solve each and every problem.
+ 
+          Please reach early at the test venue on the day of the test.  The sooner you reach the sooner you get to write the test.  
+ 

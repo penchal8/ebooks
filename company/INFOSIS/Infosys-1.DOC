@@ -1,0 +1,126 @@
+
+
+                 INFOSYS 
+
+1) A - G are 7 consecutive +ve integers not necessarily in the same order
+	1) B is the middle number
+	2) D is 3 less than c
+	3) the difference between F & A is equal in magnitude and sign
+	   to the difference between E & C
+	4) Neither F nor C lie between E & G
+
+	a) What is the value of B-F
+
+		1   	2 	-1	-2 	cannot be determined
+
+	b) which is greatest
+
+		F	C	A	E	cannot be determined
+
+	c) Given both A & B are primes what is the lowest value of E
+
+		8	6	9	12 	cannot
+
+
+
+#include<stdio.h>
+int SumElement(int *,int);
+void main(void)
+{
+	int x[10];
+	int i=10;
+	for(;i;)
+	{
+		i--;
+		*(x+i)=i;
+	}
+	printf("%d",SumElement(x,10));
+}
+int SumElement(int array[],int size)
+{
+	int i=0;
+	float sum=0;
+	for(;i<size;i++)
+		sum+=array[i];
+	return sum;
+}
+
+
+#include<stdio.h>
+void main(void);
+int printf(const char*,...);
+void main(void)
+{
+	int i=100,j=10,k=20;
+	int sum;
+	float ave;
+	char myformat[]="ave=%.2f";
+	sum=i+j+k;
+	ave=sum/3.0;
+	printf(myformat,ave);
+}
+
+
+#include<stdio.h>
+void main(void);
+void main(void)
+{
+	int a[10];
+	printf("%d",((a+9) + (a+1)));
+}
+
+
+		 -----------------------------
+		 Question Paper
+		 --------------
+                   Part 1.
+		   ------
+       (1) 9 cards are there. u have to arrange them in a 3*3 matrix.
+       cards are of 4 colors.they are red,yellow,blue,green.
+       conditions for arrangement: one red card must be in first row
+       or second row.2 green cards should be in 3rd column.Yellow 
+       cards must be in the 3 corners only. Two blue cards must be in 
+       the 2nd row. Atleast one green card in each row.
+       Solution:
+       Yello     Red        Gren
+       Blu       Blu        Gren
+       Yello     Gren       Yello
+       2. 4 cards are placed on a table, each card has two colors. U 
+       don't know the color of the back side of eachcard.4 persons A
+       B C and D are sitting on the table before the cards. They can 
+       see Red, Green Red and blue .Out of the 4 poeple 2 always lie.
+       They see the color on the reverse side and give the following 
+       comment
+       A: Yello/green
+       B: Neither Blue/nor Green
+       c: Blue/Yello
+       D: Blue/ Yello
+       find out the color on the other side of the 4 cards.
+
+       3.Red and brown tribes [FROM BARRONS GRE] Conditions to 
+       get married with each other.
+
+       4. Venn diagram regarding Rich, muscular, soft-skinned, 
+       employed, etc.,( Refer BARRONS GRE GUIDE) 
+	
+------------------------------------------------------------------------
+			 PART 2.
+			 -------
+         1. SAKUNTALA DEVI'S PUZZLE BOOK : PUZZLES TO PUZZLE YOU.
+	    problem no: 3. ( Brothers and Sisters)
+            A family I know has several children. Each boy in this 
+	    family has as many sisters as brothers but each girl has 
+	    twice as many brothers as sisters. How many brothers 
+	    and sisters are there?
+            ans: 4 boys and 3 girls.
+         2. No. of animals is 11 more than the no. of birds. If the
+	    no. of birds were the no. of animals and no. of animals 
+	    were the no. of birds( ie., interchanging no.s of animals
+	    and birds.), the total no. of legs get reduced by one fifth
+	    (1/5). How many no. of birds and animals were there?
+            ans: birds:11,animals:22
+	 3. In a soap company  a soap is manufactured with 11 parts.
+	    For making one soap you will get 1 part as scrap. At the 
+	    end of the day u have 251 such scraps. From that how many
+	    soaps can be manufactured? ans: 22 + 2+ 1 = 25.
+

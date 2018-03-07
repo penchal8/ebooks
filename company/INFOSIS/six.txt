@@ -1,0 +1,83 @@
+
+Logical Reasoning and Arithmatics (50 Marks)
+
+
+Q1) Problem on ages. Slightly confusing text. (3Marks)
+
+Q2) Two trains are approaching each other at 60mph each. The length
+of each train is 1/6 miles. When the two locomotives(engines) meet,
+how many seconds will it take for them to pass each other completely?
+(4Marks)
+
+Q3) Complete the series:-  (6Marks)
+
+a) 1,9,2,8,3,7,4,6,5,5,6,4,7,3,8,2,  ,   , (two blanks) (Ans: 9,1)
+
+b) 2,4,8,32,512,   (one blank)    (Ans: 2 raise to n-1, so it will be
+2 raise to 17, ie. 131072)
+
+Q4) In a race Andrew beats Jim.Jack is not the last.Dennis loses to
+both Jack and Lucia.Jim beats Jack.Who won the race? (This question
+came with different names) (4 Marks)
+
+Q5) 8 Marks Question. Some information was given about some cities.
+Eg: A is to the north of B and to the west of C.
+      C is to the south of D and to the east of F. (5/6 facts were
+given)
+4 questions were asked with multiple choice answers.
+
+Q6) If i multiplied by i is me. me multiplied by multiplied by me is
+she. What is the value of she? (4Marks)
+Ans: i=4, so m=1 and e=6, Therefore s=2, h=5 and e=6, hence she is
+256.
+
+Q7) 5 Marks question, easy one. Some facts were given like:
+a) Dravid scores 26 runs more than Robin.
+b) Robin and Azhar together score 94 runs.
+Like these around 5/6 facts were given. Only equations had to be
+formed and total runs scored by all the batsmen had to be found.
+
+Q8) Profit Loss sum for around 3 Marks.
+
+Q9) There are 5 persons who have won top five places in an event in
+Olympics . one of them asks all the five
+regarding thier positions, they reply as
+a: "i am not the last"
+b: "c is in third place"
+c: "E is behind A"
+d: "B is in first place"
+e: "D is not the first"
+The persons who have won gold and silver have lied, find the
+positions in order.
+(5Marks)
+
+Q10) 8 Marks sum.
+Assume you have a huge cube. All the 6 sides of the cube are painted
+red. Then 6 straight cuts are made across the cube to give 125 cubes
+of equal size.
+
+a) find the number of cubes with 3 sides painted red.
+b) find the number of cubes with 2 sides painted red.
+c) find the number of cubes with 1 side painted red.
+d) find the number of cubes with no side painted red.
+
+e) If all the cubes are put into a bag, and one cube is removed at
+random, what is the probability that its surface pointing towards you
+is red in colour?
+
+This test was of 1 hour. After this there was a multiple choice test
+of English as a Communicative language. (45 Questions  - 30 minutes).
+It consists of a passage for comprehension, some meanings, grammar
+etc. Can complete easily.
+
+
+Around 700-800 people attended the test, out of which 120 were
+shortlisted for the interview.
+
+Hopefully this will help all you people.
+
+All the best.
+
+Regards,
+
+William

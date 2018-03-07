@@ -1,0 +1,230 @@
+Hi friends…
+
+My test was in Chennai on 3rd july 2005.the result was announced the same day at 4 pm in the evening..with al ur help I got shortlisted after the test..this group really helped me a lot.i downloaded almost al the papers from this group an took printouts.it was really helpful 2 me..almost al the questions ver repeated from previous papers.so try solving al the previous papers.i solved papers from 2003.atleast go thru al the papers from 2004 onwards..starting from the latest papers..To be frank I went thru only
+
+1)      shakuntaladevi puzzles to puzzle you,and
+
+2)      just 4 important questions from shak devi mor puzz to puzz you which ver mentioned in some mail in this group and
+
+3)      R.S agarwal important topics like train,distance an speed,chain rule,average,numbers,boat an streams,pipes an cisterns atc..and
+
+4)      analytic part of GRE Barrons(very important 4 solving 8 mark problems)and
+
+5)      lots of previous question papers..
+
+I dint go thru george summers.its not necessary.
+
+I’am giving u the questions of ma paper..
+
+The scheme is 1 hr puzzles with no choice and 30 minutes English with choice..for both parts u don’t’ve –ve marks..
+
+In the case of puzzles,even if u know the answers write the steps neately in the rough sheet and prove that u've done and got the answer..
+
+3rd july 2005 at Meenakshi College,Chennai
+
+ 
+
+1. There is a merry-go-round race going on. One person says,”1/3 of those in front of me and 3/4  of those behind me, give the total number of children in the race”. Then the number of children took part in the race? (repeated from previous papers)
+
+ 
+
+Ans : 13
+
+ 
+
+[ Assume there are x participants in the race.In a round race,no: of participants in front of a person wil b x-1 an that behind him wil b x-1. i.e, 1/3(x-1) + 3/4(x-1) = x ; solving x = 13 ]
+
+ 
+
+2. In an Island the natives lie and visitors speak truth. A man wants to know whether a salesman beside him in a bar is a native or visitor. He asked him to ask a woman beside him whether she is a native or visitor. He replied “she says she is a visitor”. Then he knew that the salesman is a native or visitor. salesman is in which category , native or visitor?
+
+ 
+
+Ans : Native (not sure)
+
+ 
+
+[ Draw table and see ]
+
+ 
+
+3.A man fixed an appointment to meet the manager, Manager asked him to come two days after the day before the day after tomorrow. Today is Friday. When will the manager expect him? (repeated from previous papers)
+
+ 
+
+Ans: Monday
+
+[Don’t confuse it with Tuesday.the correct answer is Monday]
+
+ 
+
+4. A jem merchant wants to exhibit his 7 precious jewels in an exhibition, Amethist, Diamond, Ruby, Opel ,G, Sapphire and Emarald.He shows either through the left window or through the right window.At a time he shows only 3 out of his 7 jewels he had. some conditions where given like
+
+(i)                  A should be shown only through the left window.
+
+(ii)                D should be shown only through the right window
+
+(iii)               E and S ahould be shown together
+
+(iv)              R should not be shown though the same window as O or G
+
+(v)                Some more conditions…I 4got the remaining..
+
+4 questions where asked on this and 4 options where given like..
+
+[A] Which among the following sets are possibly shown through the left window?
+
+4 options like {a} A,D,G {b} D,O,R {c} A,G,R {d} A,S,E
+
+[B] Which of the following should be shown through the right window if E is shown through the right window?
+
+4 options..
+
+[C] and [D] questions where also there.                                                            8 marks
+
+It was an easy question. (repeated from previous papers)
+
+ 
+
+5.A man said he spent 1/6 of his as a child, 1/12 as salesman in a liquor shop, 1/7 and 5 years as a politician and a good husband respectively. At that time Jim was born. Jim was elected as Alderman four years back.when he was half of his age. What is his age? (repeated from previous papers)
+
+ 
+
+Ans: 84 years
+
+ 
+
+[Assume that he lived x years.
+
+X/6 + x/12 + x/7 + 5 + 4 + x/2 = x. Solving x= 84, Same as Question in Shakundala Devi book]
+
+ 
+
+6.Jack,Doug and Ann, 3 children had a running race while returning from school.Mom asked who won the race.Then Jack replied” I wont tell u.I wil give u a clue,When Ann takes 28 steps Doug takes 24 steps, meantime I take 21 steps. Jack explained that his 6 steps equals Droug’s 7 steps and Ann’s 8 steps. Who won the race? (repeated from previous papers)
+
+ 
+
+Ans: Doug
+
+ 
+
+[ Ann steps = 8,16,24,28 --- finished by 3 & half full steps
+
+  Doug steps=7,14,21,24 --- finished before 3 & half full steps
+
+  Jack steps= 6,12,18,21 --- finished  by 3 & half full steps
+
+  So Doug won the race ]
+
+ 
+
+7. Every day a cyclist meets a car at the station.The road is straight and both are travelling in the same direction. The cyclist travels with a speed of 12 mph.
+
+    One day the cyclist comes late by 20 min. and meets the car 5miles before the
+
+Station. What is the speed of the car?
+
+ 
+
+Ans: 60 mph
+
+ 
+
+[Very similar to Shakuntala Devi puzzles to puzzle you problem no: 38 ]
+
+ 
+
+8. A problem of persons and profession. 4 persons were there- Jack, Clove, Smith, Morgan belongs to 4 professions policeman ,Druggist ,Grocer ,Butcher.Who all belongs to which profession?Some conditions where given like..
+
+(i)                  Clove and Jones drive together to work             
+
+(ii)                Clove earns more income than Morgan…I 4got the conditions..
+
+ 
+
+         Clove :
+
+         Jones  :                                                                                                8 marks
+
+         Morgan :
+
+         Smith :
+
+ 
+
+9.A lady goes for shopping. She bought some shoestrings. 4 times the number of shoestrings, she bought pins and 8 times, handkerchiefs. She paid each item with their count as each piece’s cost. She totally spent Rs. 3.24. How many handkerchiefs did she buy? (repeated from previous papers)
+
+ 
+
+10. Complete the series :
+
+ 
+
+a)      3,6,13,26,33,66,____(repeated from previous papers)
+
+b)      364,361,19,16,4,1,___( ”                    “                “    )
+
+ 
+
+Ans :  a) 63
+
+           b) 1
+
+
+English part is easy but it also has cutoff.so if u r week in tat part jus go thru  RS Agarwal Verbal and Non verbal book..els any general English book..it wil b helpful 4 u..
+
+You have 4 options 4 al the questions..read al the options b4 choosing the answer.
+
+
+1. 1 passage and 4 questions related 2 that..
+
+[4 such type,read the questions b4 u read the passage.it’l help u 2 save time]
+
+
+2. some questions based on tenses.
+
+
+3. some questions based on spelling mistakes..very easy part..
+
+ 
+
+4. some questions 2 choose the correct meaning of the phrase..
+
+
+5. some fill ups were there with choices
+
+The very next day I attended the interview..
+
+no technical questions..only HR questions..
+
+ 
+
+1)      What is ur father?
+
+2)      Say something abt ur college?
+
+3)      And abt u?
+
+4)      Some differences between Coimbatore and kerala…(I’am a keralite and did BE in coimbatore)
+
+5)      Do u’ve any preferable place 2 work?
+
+6)      2 puzzles…1) To find the missing no: from a 3/3 matrix?
+
+      2) 3 bulbs in the 3rd floor and switches in the 1st floor.u r in the 1st floor.u’ve 2      know which switch belongs 2 which bulb.its not in order.u can go up once an u can switch on once.how wil u do it?
+
+7)      The most creative thing u’ve done?
+
+8)      Any questions..?
+
+And said if shortlisted I’l b informed in 2 weeks…
+
+Every1 Please pray 4 me ..Thank you..
+
+Al the best 4 al the job seekers..Definitely u’l get placed in ur dream company..Hardwork along with prayers wil help u to reach the goal..If u need any help u can contact me..
+
+ 
+
+By..
+
+Areeh..

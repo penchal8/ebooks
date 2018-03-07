@@ -1,0 +1,168 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : Infosys technologies ltd
+------------------------------------------------------------
+DATE OF TEST : 6 th july 2003, Morning
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-campus
+------------------------------------------------------------
+DURATION     : 1 Hour
+___________________________________________________________________________________
+
+
+
+
+
+___________________________________________________________________________________
+
+INFOSYS QUESTIONS
+___________________________________________________________________________________
+
+Question # 1
+-------------
+Analytical question. 
+
+6 poets, liking and disliking of poetry.
+E.g.: All who like the poetry of Frost do not like 
+the poetry of Coolidge. Some who like the poetry 
+of Dunne like the poetry of Earl. 
+
+4 related questions are given on these conditions.  
+
+
+___________________________________________________________________________________
+
+Question # 2
+-------------
+Analytical question. 
+
+4 people, 4 products. 
+E.g.: Vickie will not get a tie unless George buys a scarf.
+Remmie will not get a hat unless Jack buys gloves. 
+
+Around 12 statements like this. 
+
+Who will buy what? 
+
+
+___________________________________________________________________________________
+
+Question # 3
+-------------
+13 kigs and 6 libs can produce 510 tors in 10 hrs,
+8 kigs and 14 libs can produce 484 tors in 12 hrs.
+
+Find the rate of production of tors for kigs and libs.
+Express the answer in tors/hr. 
+
+___________________________________________________________________________________
+
+Question # 4
+-------------
+
+Find the 3 digit no. whose last digit is the square
+root of the first digit and second digit is the sum of
+the other two digits.  
+
+
+___________________________________________________________________________________
+
+Question # 5
+-------------
+
+Meera was playing with her brother using 55 blocks.
+She gets bored playing and starts arranging the blocks
+such that the no. of blocks in each row is one less
+than that in the lower row. Find how many were there
+in the bottom most row?
+
+___________________________________________________________________________________
+
+Question # 6
+-------------
+
+Rahul took part in a cycling game with many others
+in a circular closed circuit. After pedaling for
+several minutes, he found that 1/5th of the cyclists
+ahead of him and 5/6th of the cyclists behind him
+together formed the total no. of participants. How
+many were participating in the race?
+
+
+___________________________________________________________________________________
+
+Question # 7
+-------------
+
+Age sum involving 3 people. Similar to sum no. 127
+in Shakuntala Devi but very much tougher than that
+sum.
+
+
+___________________________________________________________________________________
+
+Question # 8
+-------------
+
+Tom wants to catch a hare. He is standing 250 yards
+south from the hare. The hare starts moving due east.
+Tom, instead of moving in the northeast direction,
+moves in such a way that at every instant, he is going
+towards the hare. If speed of tom is one and one-third
+times that of the hare, find the distance each
+traveled before he caught the hare.
+
+
+___________________________________________________________________________________
+
+Question # 9
+-------------
+
+Two people are playing with a pair of dies. Instead
+of numbers, the dies have different colors on their
+sides. The first person wins if the same color appears
+on both the dies and the second person wins if the
+colors are different. The odds of their winning are
+equal. If the first dice has 5 red sides and 1 blue
+side, find the color(s) on the second one.
+
+
+___________________________________________________________________________________
+
+Question # 10
+-------------
+
+A company's director said during the board
+meeting: " The company's income from roads will be
+sufficient to pay 6% of the entire stock issue, but
+since we are paying 7.5% interest on the preferred
+stock of Rs.4, 000,000 we are able to pay only 5% of
+the common stock". Find the value of the common stock.
+
+
+___________________________________________________________________________________
+
+
+
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+
+

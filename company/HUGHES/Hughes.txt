@@ -1,0 +1,54 @@
+Test Conducted by Hughes Banglore:-
+  
+System config. Interrupt stored in  Ans-ROM 
+RS-232 A-serial port 
+sliding window protocol A-transport layer 
+IPV6  A-16 bytes 
+set of protocol good for client host ---perhaps tcp, ip,arp 
+semaphore   A- signal 
+interpolation search A- good for all problem space 
+data redundant, faster retrieval of data A-RAID 
+intel386 uses A-demand paging as well as  segmentation with level 2 
+ms dos os/2 uses A-linked allocation 
+shallow binding, deep binding A-parameter passing(check) 
+to access the database in restricted mode options-create user, session,restrict session.. 
+disk scheduling A-O.S 
+(110+0)* (011+1)* A all strings of 0 &1 including empty string 
+external memory fragmentation A-paging 
+write through cache A- maintained in primary memory 
+allow only 1 regular exp ---A dfa without E 
+best sorting—A binary tree sorting 
+half adder to full adder A-2 
+B-tree  a-5 
+given tree was b+ tree 
+exception code must defined  A-exception section only(check) 
+Dma cycle steal, Dma memory steal 
+to generate sequence a-identified by(not sure) 
+tcp is slower than udp  A-because it has to process sequencing 
+UMTP-no idea 
+thread swiching     stack will be switched, memory space will be switched(check) 
+strcpy(….)  A-hello 
+session layer-RPC 
+define  mul, …num 3    ans 8 
+cpu acknowledges the intrrrupt and branches to subroutine is the ans 
+c++ code---error 
+Ethernet A- two statetements both wrong 
+family tree-b+ 
+dhcp-dynamic address genration 
+dhcp address range-scope 
+a==a*4; a<2  A- reduction in strength 
+C code- A-  file a 2nd line error 
+table is dropped, nonunique index will be dropped(check) 
+ 
+Aptitude were damn easy…..you will be able to solve most of them, except below 3 no one should create any problem.
+
+ 
+
+1. recursion ----120
+
+2. div by 423----ans d-60…
+
+3.
+
+arrangement C , D, F
+

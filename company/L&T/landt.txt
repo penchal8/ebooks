@@ -1,0 +1,51 @@
+hi L&T takers: hope this info I got frm gp hlps u all,
+here is the test pattern for SET(Software Engineer Trainee):
+.
+THE PAPER IS IN TWO PARTS
+iN THE FIRST ONE THERE ARE 40 QUESTIONS OF VISUAL
+REASONING AND IN SECOND THERE ARE 50 QUESTIONS FROM
+MISCELLANEOUS 30,40 TOPICS
+Question paper is here:
+Ok GUYS,
+  so i attended the L&T test today with all the valuable info that so many
+of u had provided to me. Well ,now 4 the info.
+   The paper pattern is the same that was mentioned by all those ppl who
+helped me.
+  Part 1:-> Psychometric test.
+    Easiest thing in the world. Eight figures with you having to
+    predict the ninth. Just use some common sense and u r thru this
+    test. A WORD OF CAUTION tho; plz. do not waste time on a question
+    if u r not sure ,just come back later n then do it. (36questions-
+    40minutes.)
+  Part 2:-> Engineering syllabus based Technical Test
+     Now this sectin is a bit tricky.
+     WARNING: Absolutely do not waste time on any question. U hardly
+              get any time to think. (40 questions n 30 minutes.)
+     Some of the questions r a s follows:-
+      a) What is reverse engineering.
+      b) Octal of some binary number(comes to 165 in decimal after
+         conversion).
+      c) A cobol prog with an integer array(I guess coz i did not have
+         Cobol in my syllabus).
+      d) A problem on Depth first search(very simple).
+      e) Question on Grammar's frm Theory of computer science.
+      f) Something like Select the correct option when
+             A Subset of (B Subset of ( A Intersection B)
+                  if B is completely contained by A.
+      g) A question on memory(quite simple).
+      h) A couyple of questions on C(one on pointers).
+           These r all I can remember.
+
+Next round was the GD.
+By the way out of the 21 ppl who attended the test with me only 9
+  including myself were selected.The GD was  amere formality i guess.
+  We were given the topic "Do u think women make better managers?"
+  A debatable topic , but we merely agreed with each other and no big
+  problem with it.
+
+All these are collected from previous mails. In turn do me a favor.  i
+submitted my resume in monsterindia long back & now i even got a mail from
+them to renew account. i did so. but till now i didn't get even 1 job mail
+from them. while i receive well from naukri etc. will they deliver directly
+to our e-mail id as others or else we have to go their site to
+check jobs. kindly help me in solving this problem.

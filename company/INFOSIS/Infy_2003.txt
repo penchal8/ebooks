@@ -1,0 +1,197 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : Infosys technologies ltd
+------------------------------------------------------------
+DATE OF TEST : 06 th Jul 2003
+------------------------------------------------------------
+PLACE OF TEST: 
+------------------------------------------------------------
+MODE 	   : Off-campus
+------------------------------------------------------------
+DURATION     : 1 Hour
+___________________________________________________________________________________
+
+
+
+___________________________________________________________________________________
+
+Question # 1
+-------------
+Professor Kittredge’s literature seminar includes students with varied tastes 
+in poetry.All those in the seminar who enjoy the poetry of browing also enjoy 
+the poetry of eliot.Those who enjoy the poetry of eliot despise the poetry of coleridge.
+
+Some of those who enjoy the poetry of eliot also enjoy the poetry of Auden.
+All of those who enjoy the poetry of Coleridge also enjoy the poetry of Donne.
+Some of those who enjoy the poetry of Auden also despise the poetry of Coleridge.
+All of those who enjoy the poetry of Donne also enjoy the poetry of Frost.
+
+i.
+Miss Garfield enjoys the poetry of Donne.Which of the following must be true?
+(A)	she may or may not enjoy the poetry of coleridge.
+(B)	She does not enjoy the poetry of Browing.
+(C)	She does not enjoy the poetry of eliot.
+(D)	She enjoys the poetry of Coleridge.
+
+ii. 
+Mr.Huxtable enjoys the poetry of Browing.He may also enjoy any of the following 
+poets except
+(A)	Auden.
+(B)	Coleridge
+(C)	Donne
+(D)	Eliot
+(E)	Frost
+
+iii.
+Miss Inaguchi enjoys the poetry of Coleridge.Which of the following must be false?
+(A)	she does not enjoy the poetry of Auden.
+(B)	She enjoys the poetry of Donne.
+(C)	She enjoys the poetry of Frost.
+(D)	She does not enjoy the poetry of Browning.
+(E)	She may enjoy the poetry of Eliot.
+
+iv. 
+Based on the information provided,which of the following statements concerning 
+the members of the seminar must be true?
+(A)	All the those who enjoy the poetry of eliot also enjoy the poetry of Browning.
+(B)	None of those who despise the poetry of Frost enjoy the poetry of Auden.
+(C)	Some of those who enjoy the poetry of Auden despise the poetry of Coleridge.
+(D)	None of those who enjoy the poetry of Browning despise the poetry of Donne.
+(E)	Some of those who enjoys the poetry of Frost despise the poetry of Donne.  
+
+
+(8 Marks)
+
+___________________________________________________________________________________
+
+Question # 2
+-------------                                                                                                      
+a.Rimmie wears a hat only if goerge wears a tie.
+b.George wears a scarf only if Johnie wears a tie.
+c.Vickie wears a googles only if Rimmie wears a hat.
+d,e,f,g,h
+
+some what like this there are 8 statements,from that we have to determine who wears what.
+
+(8 marks)
+
+___________________________________________________________________________________
+
+Question # 3
+-------------
+8 Kigs and 14 Ligs can do 510 tors of work in10days. 13 Kigs and 6 Ligs 
+can do 484 tors of work in 12 days. 
+Then find work done by Kigs and Ligs individually in tors/hr?
+
+(5Marks)
+
+___________________________________________________________________________________
+
+Question # 4
+-------------
+There is a 3 digited number. 3rd number is the square root of the 1st digit. 
+2nd digit is the sum of 1st and 3rd.And that number is divisible by 2,3,6,7.
+What is that number?
+
+(3 marks)
+___________________________________________________________________________________
+
+Question # 5
+-------------
+A boy is playing a game. He took totally 55 blocks and kept like placing 
+some x number  on the ground,next one less than that  above those blocks 
+like that till the topmost one is one,like:
+
+	 x
+	x x
+       x x x
+      x x x x                   
+     x x x x x 
+    x x x x x x
+   x x x x x x x
+  x x x x x x x x 
+ x x x x x x x x x
+x x x x x x x x x x
+
+
+(They didn’t gave this pictuire,but my explanation is not clear,that’s I gave u this picture)
+the question is how many blocks are there at the base level?
+
+(4marks)
+
+___________________________________________________________________________________
+
+Question # 6
+-------------
+A cyclist is cycling in a circular path.he is at some point on the path,at that 
+point 1/5th of the cyclists infront of him and 5/6th back to him gives the total 
+number of clyclists participating in the race. What is the total number of cyclists?
+
+(5 marks)
+
+___________________________________________________________________________________
+
+Question # 7
+-------------
+Regarding ages he gave 6-7some what confusing statements regarding 
+3 people’s age.but time time is not sufficient ,so didn’t read that question.
+
+(5 Marks)
+
+___________________________________________________________________________________
+
+Question # 8
+-------------
+A boy is at 250yards south to the hare.the hare is running towards east.
+Instead of going in North-east direction .if the follows the hare with 
+1 and 1/3rd (1+1/3)the speed of hare,what is the total distance travelled 
+by him to overcome the hare?
+And what is the distance traveled by hare before the boy overcomes it?
+
+(6 Marks)
+___________________________________________________________________________________
+
+Question # 9
+-------------
+There are two dice painted on their sides.A and B are playing with those dice.
+A will win if  the colour on the two faces of dice is same and b wins if color 
+is different.
+First die is painted 5faces with red and 1 with blue.how is second die painted,
+if their chances of winning the game is even.
+
+(6 Marks)
+___________________________________________________________________________________
+
+Question # 10
+-------------
+
+A manager declared like this in the meeting. Normally we give 6% interest 
+on common stock,but the total income this time is Rs 400000 with 7 1/2 interest,
+we are giving only 5%interest on common stock.
+What is the worth of Comon stock? 
+
+(5marks)
+___________________________________________________________________________________
+
+
+
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+
+

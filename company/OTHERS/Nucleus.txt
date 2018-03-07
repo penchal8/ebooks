@@ -1,0 +1,258 @@
+Hi friends
+Today on 28th feb,2004, Nuleus Software came in our college,HBTI-
+Kanpur. Their paper was quite easy consisting of 4 sections each of 
+15 minutes having 15 questions...
+1. Quantitative aptitude
+2. Logical reasoning
+3. General English
+4. Technical aptitude
+      Their package is 1.5 lacs for a training period of 1 year 
+and after that 2.4-3.0 depending upon ur performance.
+*************************************
+Contributions
+***************************************
+I am much thankful to the following guys who helped me preparing 
+this paper....
+Mohit Grover<mohit_gr@rediffmail.com>
+Ashutosh Katiyar<ashu_hbti2004@yahoo.co.in>
+Surendra Singh<surendra_hbtik@yahoo.co.in>
+      At last, i can also take some credit. Plz don't hesitate to 
+mail me if u are benefited with this paper
+-Regards
+Amresh Kumar Singh
+<amresh_kanpur@yahoo.com>
+Here is the paper......
+**************************************************************
+English Section:
+***************************************
+1.gruesome=?  (4 choces were given)
+ans:frightful
+2.barbarian=?
+ans:uncivilized
+3. serene=?
+ans:calm
+4. 4 sentences were given,they asked u to choose right senctence.
+ans: How's the weather
+5. Mirror on the wall.
+They asked to replace on word with meaningful option.
+ans: mirror at the wall. (Plz check.)
+6.He sometimes works________night.
+a)all
+b)at
+c)all of the above 
+d)none of above
+ans: c(check)
+7. The document______delivered.
+ans: has been(plz check)
+8. ____ is it from manchaster to london.
+ans: How far
+9. I have______my car.
+ans: driven
+10. Correct the sentence....
+They have been doing it since 12 months.
+ans: replace 'since' with 'for'
+
+Logical reasoning:
+**********************************************
+1.if 1234567573 is coded as xxxxxxxxxx and 563423is coded like 
+xxxxxx the 3512 will be coded as? (only format of question, i m 
+mentioning, question is very easy..even a class 3 student will 
+answer)
+ans: RATION
+2. Same as previous question with different data.
+ans: MEAT
+
+Some analogy questions were given....
+
+3. dawn:twilight::day:evening/night
+4. Mosquito:maleria::infection:deasease
+5. Writer:book::composer:song
+6. Cloth:scissor::wood:axe
+7. Friend:good::enemy:bad
+Some simple series were given..I am writing the answer
+8. ans 2.5
+9. ans: 51
+10. ans: 200
+11. ans: 66
+12. John and David....Age of both is asked.
+ans: the option in which age of John is 40.
+13. Analogy question...
+ans: Saturday: Monday (check it)
+other option was spring:summer
+14. analogy question...if 20:21 then what is the appropriate choice
+ans:20:21::m:n
+15.
+
+
+Quantitative Aptitude:
+*************************************************
+1. if a jug evaporates 1/3 rd in first day and 3/4 th of remaining 
+water in the second day.What percentage of water will be 
+remaining?    ans:20%(check it)ans may be 16.6 viz not given
+2.numerator...denominator....? 
+ans: 18
+3. thrice
+4. what is the angle between hands of hour and minute in a clock 
+when the time is 8:30? ans:75 degree
+5. in 10 minutes how many degrees hour hand rotates? ans:5 degree
+6. bombay to goa--- 
+7. if 17xy+7 =19xy then 14 xy=?
+a) 2xy-x
+b) 2y
+c) x-2y
+d) don't remember
+8. ans:8/0.8
+9. 1+1/2+1/3+1/4+1/5=?     ans:137/60
+10. If ramu is going in East...turns right..then left..then right by 
+45 degree....Where is is going now?
+ans: south-west(This option was actually not given)
+11. A clock clicks at 6 o' 6 times.......
+ans: 66
+12. A question on triangle......
+ans:AC>AD
+13. A question asked on Escalator.......?
+ans: 80
+14. 9's complement of 28?
+ans: 71
+15. A question i don't remember...
+ans: 33%
+
+Technical Aptitude:
+*******************************************************
+Q1. What is the common standard naming convention of checkbox 
+control?
+
+a) CHB
+b) CHK 
+c) CHX
+d) CBX
+ans: a (may be different..plz check)
+Q2. We have something like Global functions in JAVA, they are called 
+as .....
+
+a) class
+b) package 
+c) file 
+d) include
+ans: b
+Q3. Which OS does not supports Networking?
+
+a) Windows 95 
+b) Linux 
+c) Windows 3.0 
+d) Unix
+ans: c
+Q4. Normalization is considered to be complete when it is in 
+
+a) Second Form 
+b) Third Form 
+c) First Form 
+d) None
+ans: d
+
+Q5. C++ is similar to that of C in following ways
+
+a) C++ has classes
+b) Supports Inheritance
+c) File Handling
+d) None
+ans: c
+
+
+
+Q6. Which is not the most important & widely used form of 
+Normalization ?
+
+a) Boyce-Codd Normal Form
+b) Second Form
+c) Third Form
+d) Royce-Codd Normal Form
+
+ans: d
+Q7. Which of the following keyword is used to exit unconditionally 
+from the batch?
+
+a) go
+b) return
+c) Begin & End
+d) Commit Tran
+ans:
+Q8. Which of the following statement is true
+
+Table in a database can have
+a) One Non-Clustered Index and Many Clustered Indexes.
+b) One Clustered Index and Many Non-Clustered Indexes.
+c) One Index each of Clustered and Non-Clustered Index. 
+d) None
+Q9. Check the error in the following statement
+
+Country[7] = 'CANADA'
+
+a) A string terminator is not added to the string, when declared.
+b) Country array should be of six
+c) Canada should be specified in double quotes.
+d) Country array should have the keyword char to ensure array type.
+
+ans: c
+Q10. Linda wants to obtain the nearest integer of a numeric 
+ex-pression for some calculation purpose. Which mathematical   
+function will she use:
+
+a) Round
+b) ABS
+c) About
+d) None
+
+ans: a
+Q11. Pseudocode is a 
+
+a) set of Instructions to perform a particular task 
+b) is a formalized graphic representation of program logic.
+c) is a algorithm expressed in a simple language 
+d) Both A & C
+
+ans: d
+Q12. A company has closed down its advertisement dept and is now 
+getting all advertisement done by an Ad-Agency. All 20 people 
+working in the dept has quit the job. The dept to which an employee 
+belonged was stored in the "cdept" attribute of "emp" table. Which 
+of the following statement would be used to do the changes in 
+the "emp" table
+
+a) Alter Table
+b) Drop Table
+c) Delete Table
+d) Truncate Table
+ans: b(plz check)
+Q13. Why is a Modulo operator used?
+
+a) It is used to determined the remainder, when an integer is 
+divided by another.
+b) It is used to calculate the percentage
+c) It is used to determine the factorial of a number.
+d) It is used as a relational operator.
+
+ans: a
+Q14. if f(n)=n+ f(n-1) and f(0)=1 then f(5)=?
+a)14
+b)15
+c)16
+d)none
+ans: c
+Q15. What is the function of assembler?
+a) To convert assembly language to machine language.
+b) To convert machine language to assembly language.
+c) To convert high level language to...
+d).....
+ans: a
+*********************************
+They may change some technical questions...So go through all 
+technical questions at 
+www.freshersworld.com
+After the written test they conducted GD/Extempore round. It's ur 
+luck either u get GD or Extempore.
+Some of the GD topics are...
+1. India and I
+2. India: Vision 2020
+3. Women in 2003
+Their Interview was totally HR based...No technical question.

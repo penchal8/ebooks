@@ -1,0 +1,135 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : IBM
+------------------------------------------------------------
+DATE OF TEST : 9 Aug 2003
+------------------------------------------------------------
+PLACE OF TEST: Bangalore
+------------------------------------------------------------
+MODE 	   : 
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+-----Original Message-----
+From: thara_vijaya 
+Sent: Monday, August 25, 2003 12:05 AM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] (INFO) Details of IBM test
+
+
+Hi everyone
+
+Many of you had written to me and asked me a lot of questions. So I 
+thought I would send the mail directly to the group. I hope this mail 
+answers most of your questions.
+
+Some of you have sent your resumes to me. Please do not send me any 
+resumes, as I am just a new joinee.
+
+I have done my MCA and passed out in 2003. I have an aggregate of 
+around 82%.
+I attended the IBM test in Bangalore on 9th august 2003. I had 
+applied in June 2003 and got a call on August 4th. I have been placed 
+in Bangalore itself. I think it takes time in IBM for your resume to 
+get processed. 
+
+The test consisted of 40 qs. A time limit of 60 min was given. It had 
+20 aptitude and 20 technical qs.
+For the aptitude part, if you prepare from R.S. Agarwal, that is 
+sufficient. And for the technical part, the questions were from a 
+wide variety of subjects including OS, DBMS, C++, Software 
+Engineering etc.
+
+The questions which I remember I have written below. 
+
+1.      How many times do the hands of the clock coincide in a day?
+Ans: 24
+
+2.      A question on time and work
+
+3.      qs. on speed and distance
+
+4.      five qs on sectors. In a pie chart the sectors were given in 
+terms of percentages. Various questions were asked on it.
+
+For e.g. 
+
+
+
+
+
+
+
+For each of these divisions the percentages was mentioned and 
+something similar to the following questions were asked.
+
+If 105 was scored, find which subject it is?
+
+If the difference between Maths and Science is 25 which other 2 
+subjects have the same difference?
+
+5.      Software Configuration Management process is -----------------
+---
+
+6.      Data Integrity constraint is ---------------------------------
+--
+
+7.      Paging is ------------------------
+
+8.      What is the output of the following program
+
+main()
+{
+   printf("%u", main);
+}
+
+
+After the written test, I had a technical cum HR interview.
+
+In the technical part, they asked me a lot of questions on my final 
+semester project. They also asked me questions on DBMS, SDLC, OOPS 
+concepts etc.
+
+The questions which I remember are
+
+1.      What is the most important thing in database design?
+2.      Explain normalization technique as u would explain to a 
+common man? 
+3.      What are the steps in SDLC?
+4.      Which is the most important step in SDLC?
+5.      Is documentation a waste of time?
+6.      Draw a flowchart to find a number from an array.
+7.      What is error detection and where will u do it?
+
+As for the HR part they asked me questions on my background. They 
+also gave me a couple of situations like
+
+if u get an offer from the 3 top companies which one would u choose?
+After u joined IBM if u get a better offer from another company what 
+will u do?
+
+I hope this mail has helped many of u.
+
+Thara
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

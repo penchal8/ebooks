@@ -1,0 +1,19 @@
+1.one 8 digit number is given (i dont remmber the exact number).let us say 542568*5. what should be the least value for * so that it exactly gets divisible by 8. 
+
+2.A bus covers 54km/hr (excluding its stopping times) and 45 km/hr (including its waiting times at each stop). what should be the waiting time in minutes for an hour? ans: 10 min. 
+
+3. average of 5 consecutive integer is i. what will be the average if the two more consecutive integers at the higher end is also taken? ans: i+1 
+
+4. one problem in logical resoning like x is taller than y and z is shorter than x. Is x is taller or shorter than Y. Ans: Data insufficient. 
+
+
+section 2: 
+
+it was on technical. It covers networks(layers,Tcp), compiler design(grammer), OS, Data structure (trees,graphs), c(macros), microprocessor(storage types). Everything is very basic. 
+
+section 3: 
+
+It is a either or section. U can select either section 2 or 3. 
+
+Though i took section 2, juz i went thru section 3 questions. Most of the section 2 questions were repeated in section 3. repeated question are from Data structure, c, os, compiler, microprocesser. 
+

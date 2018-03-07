@@ -1,0 +1,901 @@
+Profile :
+
+Hexaware Technologies, a SEI CMM Level 5 global IT services provider specializes in Enterprise solutions, Application Management, EAI, e-Commerce, and Embedded Systems. With global offices in USA, Canada, UK, France, Germany, Japan, Singapore and India, it provides software services to the Airlines, Banking and Financial services, Insurance and Healthcare industries..
+
+The company is working in fields like Application Integration and E-Commerce Enablement among others Its technology alliance partners include IBM, Vitria, BEA Systems, Constellar, Sterling Commerce and Harbinger. The vertical focus areas include banking, insurance and the airline industries. An ISO 9001 company, Hexaware has been assessed at SEI CMM Level 4. 
+
+Hexaware's list of clients include Air Canada, Alliance Capital, Princeton University, TransAmerica, EMI Music, Equitable, Franklin Mint, and Blue Cross/Blue Shield. 
+
+Hexaware's global operations are located in North America, Europe and Asia Pacific.
+
+Hexaware’s activities are based in North America, Europe and Asia Pacific. The main operations base is in our North American headquarters in Jamesburg, NJ. Our Offshore Development Centres are located at Mumbai, Chennai and Bangalore in India and at Jamesburg, USA.
+Sales offices are also located at Boston, Chicago, San Jose and Montreal.            
+ 
+    
+For More info Visit Website : http://www.hexaware.com  
+
+
+
+
+Hexaware  - Question paper - 01    Conducted On -- -2002    
+--------------------------------------------------------------------------------
+ 
+ 
+  
+    
+
+1.    Directions for questions 1-10: Expand the following terms
+
+1. ODBC
+    Ans. Open Database Connectivity. 
+2. HTML
+   Ans. Hyper Text Markup Language
+
+3. RISC
+    Ans. Reduced Instruction Set Computing                                                       Freshersworld.com          
+
+4. ASCII
+    Ans. American Standard Code For Information Interchange
+
+5.ANSI
+   Ans. American National Standard Institute.
+
+6. XML
+   Ans. Extended Markup Language
+
+7. FLOPS
+   Ans. Floating Point Operating Per Second
+
+8. SQL
+   Ans. Sequential Query Language
+
+9. QBE
+    Ans. Query By Example
+
+10. ALE
+      Ans. Address Latch Enable
+
+11. What is lagging in DBMS ?
+     Ans. Reduced Redundancy.
+
+Directions 12 to 20: For the following questions find the odd man out
+
+12. Unix
+      OS/2
+      CMOS
+      MSDOS 
+     Ans. CMOS
+
+13. Oracle
+      Informix
+      Sybase
+      LISP 
+     Ans. LISP
+
+14. Laser
+      Inkjet
+      Dotmatirx                                                                                                   Freshersworld.com 
+      Mouse 
+      Ans. Mouse
+
+15. Dir
+      Cls
+      Csh
+      Copy
+     Ans. Csh
+
+16. Bit
+      Byte
+      Nibble
+      Digit
+     Ans. Digit
+
+17. Hard Disk
+      Floppy Drive
+      CD ROM
+      Cache
+      Ans. Cache
+
+18. SQL
+      QUEL
+      QBE
+      ORACLE                                                                                                    Freshersworld.com
+      Ans. Oracle
+
+19. C++
+      JAVA
+      VC++
+      PASCAL
+     Ans. PASCAL
+
+20. Projection Operation
+      Selection Operation
+      Intersection
+      Set Difference Operation
+      Ans. Intersection
+
+21. Which of the following is a universal gate ?
+        (a) OR
+        (b) AND
+        (c) XOR
+         (d) NOR 
+          Ans. NOR
+
+22. The default back end of the VB is
+      (a) Oracle
+      (b) Sybase 
+      (c) Informics                                                                                     Freshersworld.com 
+      Ans. Sybase
+
+23. What is meant by Superconductivity?
+      Ans. No reistance
+
+24. Viscosity
+      Ans. Friction
+
+25. What is the Lock Based Protocol used for?
+      Ans. Concurrency Control in DBMS
+
+Directions for question 25 to 32: Convert the decimal numbers on the left to the required form
+
+25. 9's complement of 28
+        Ans. 71
+
+26. Binary of 58
+      Ans. 111010
+
+27. Octal of 359
+      Ans.547
+
+28. Hexadecimal of 650
+      Ans.28A
+
+29. BCD of 18
+      Ans.0001 1000
+
+30. BCD of 34.8
+      Ans.0011 0100.1000
+
+31. Excess-3 code of 6                                                                                  Freshersworld.com 
+      Ans.1001
+
+32. Excess-3 code of 9
+      Ans.1100
+
+33.  If Ax + By = 1F16; Cx + Dy = 2510 .Find the value of x and y
+
+34. Semaphore is used for
+       (a) synchronization
+       (b) dead-lock avoidence
+       (c) box
+       (d) none
+       Ans.  a
+
+35. For addressing 1 MB memory, the  number of address lines required,
+        (a)    11
+        (b)    16
+        (c)    22
+        (d)    24 
+        Ans.  b
+
+36. Which of the following remains in memory temporarily                             Freshersworld.com 
+         (a)    Resident portion of COMMAND.COM
+         (b)    Transient portion of COMMAND.COM
+         (c)    API
+         (d)    Disk BIOS 
+           Ans.  b
+
+37. Pick the odd man out
+         (a)   IO.SYS
+         (b)   MSDOS.SYS
+          (c)  ROM-BIOS
+          (d)  COMMAND.COM                                                                 Freshersworld.com
+          Ans.  c
+
+38. OS/2 is a
+        (a) Single User OS
+        (b) Multi User OS
+        (c) Multi Tasking OS
+        (d) None of these 
+         Ans.  c
+
+39. Bootstrap loader program is a program belonging to                                     Freshersworld.com 
+         (a)   ROM startup software
+         (b)   ROM extension software
+         (c)   ROM BIOS software
+          (d)  ROM Basic software
+         Ans.  a
+
+40. The entry of starting cluster of a file is present in
+         (a)   Boot Parameters
+         (b)   Directory
+         (c)   FAT
+         (d)    Partition Table and master boot program                               Freshersworld.com 
+         Ans.  c
+
+APTITUDE SECTION
+
+Directions for questions 1-6: Find the correct meaning of the following phrases
+
+1. A man of letters
+
+2. A man of straw
+
+3. To be in the air
+
+4. To bite the dust
+
+5. Man of few words
+
+6. Penny wise pound foolish
+
+7.  Find the reminder when 333666777888999 divided by 3 or 9 or 11 ?
+
+8. Which is the biggest perfect square amongst the following                            Freshersworld.com 
+      15129, 12348, 23716, 20736
+
+9.  The greatest area of the following
+      (a) The radius of circle is 4
+      (b) The square of diagonal is 4
+      (c) The square of side is 4
+
+10. The area of the maximum size of the circle described from the 10 square inch square?
+
+11. In the series 0, 3, 8, 15,__ What is the next number?
+
+12. X < 0, Y <> 0 then what is the possibility that the result is always positive?
+      Ans. xy
+
+13. 3 red and 4 blue balls are in a basket. A member of PPTeam is drawing balls from the basket. What is the
+      probablity  of getting the 3 red balls simultaneously?
+
+14.  Let ax2 + bx + c = 0
+      If the sum of the equal roots is equal to the product of the same roots.Then which of the following hold true
+        (a) a + b = 0
+        (b) a = 0
+        (c) c = 0
+        (d) a + c = 0
+
+15. A fold density is 19 times greater than the water and for copper it is 9 times.At what ratio you can mix gold and
+      copper to get 15 times denser than water.                                                            Freshersworld.com
+      Ans. 3 : 2
+
+16.  Find the value of (1.99)2
+       Ans. 3.9601
+
+17.  There is a room with 6' x 8'. A 1' tile is fixed along the 4 walls in one row. How many 1" tiles require to
+       finish the work.
+       Ans. 24
+
+18. 2 persons can finish a job in 8 days. First person alone can finish the work in 24 days. How many days
+      does the second person take to finish the job?
+      Ans. 12 days
+
+19.  A 4" cube is painted in all its faces and then it is cut down into 1" blocks. How many 1" blocks are there
+       even without a single face being painted?
+       Ans. 8
+
+20. A cylinder is inserted in a sphere d/h = 2/3. Find the surface area of the cylinder ?
+
+21. In a car wheel, two spokes cover 15 degree. Then for the entire car,how many spokes are there?
+      Ans. 24.
+
+22. What is the angle of degree suspended when two hands of clock showing the time 2.30.
+       Ans. 105 degrees
+
+23. The age difference between two brothers is 3 years. After 6 years the ratio between the age is 9:8
+      What are their ages?
+       Ans. 21 and 18
+
+24. A person's salary is getting reduced by 20%. What percentage should be added to get back his
+      original salary?                                                                                                           Freshersworld.com 
+      Ans. 25%
+
+25. Two persons start at the same point, walk in opposite directions with 5km/hr and 5.5km/hr respectively.
+       What is the distance separated after 2 and half hrs?
+       Ans. 26.25 (approx)
+
+26. A person starts walking at a speed of 5km/hr through half the distance, rest of the distance he covers with a
+      speed 4km/hr. Total time of travel is 9 hours. What is the maximum distance he can cover?
+      Ans. 40km.
+
+27. Initially two cups of same volume are present with milk filled upto 3/5th and 4/5th of their volumes.Water is then
+      filled. Then two mixtures are mixed. Find the ratio of water to milk in the mixture.
+     Ans. 3 : 7
+
+28. 16 grams of radioactive material decays into 8 grams in 10 years. How long will it take to decay to 1 gram ?
+      Ans. 70 yrs.
+
+29. In a rectangle the length is increased by of the original length . By what proportion should the
+       width be reduced so that the area will be the same?
+      Ans. 33
+
+30. Find the nth number in the series is 1, -3, 5, -7.___                                  Freshersworld.com 
+      Ans. (-1)*(2n-1)
+
+31.  If a square is formed by the diagonal of the square as an edge, what is the ratio between the area?
+        Ans. 2
+
+32. The perimeter of a rhombus is 52 units. One of its diagonal is 24 units.What is its second diagonals length?
+       Ans. 10
+
+33. A cubical rectangular bar has the dimensions with the ratio 5 : 4 : 3. Its volume is 7500. What is the
+      surface area of the bar?
+       Ans. 2350
+
+34. In a class total 34 students, 16 are have a brother,  15 are have sisters, 9 students don't have either
+      brothers or sisters.Find the number of students having both brother and sisters.
+      Ans. 6
+
+35. A batsman scored 18 runs in his 18th innings and that makes his average 18. Find his average upto the
+      17th innings?
+      Ans. 19
+
+36. 6 women can do 75 units of work in 8 days by working 5hrs/day. In how many days can 4 women do 30 units
+      of work by working 8hrs/day ?
+
+37. A persons salary iis decreased by steps of 20%, 15% and 10%. What will be the percentage decrease, if the
+      salary is decreased in a single shot?
+
+38. The ratio of the length : breadth : height of a cuboid is 5 : 4: 3, and the volume is 7500. What will be its surface
+       area ?
+
+39.  If the circumference of a circle is 100 units, Then what will the length of the arc described by an angle of 20
+       degree ?
+
+40. 3 persons started placementpapers with a capital of Rs.3000 . B invest Rs.600 less than A, C invest Rs.300 less
+      than B. Then what is the share amount of B in a profit of Rs.886 ?
+
+Directions for 41-50: Which of the following is the correct spelling for the word
+
+41. supercede and supersede
+
+42. recommend and reccomend
+
+43. superitendent and superitendant                                                                       Freshersworld.com
+
+44. separate and seperate
+
+45. succeed and suceed
+
+46. coolly and cooly
+
+47. despair and dispair
+
+48. ridiculous and rediculous
+
+49. indespensible and indepensable
+
+50. tranquility or tranquillity
+
+C TEST
+Directions: For the given sample program give the output of the program(30 marks)
+
+   main()
+    {
+       int a[]={ 2,4,6,8,10 };
+       int i;
+       change(a,5);
+       for( i = 0; i <= 4; i++)                                                                                Freshersworld.com
+         printf("\n %d",a[i]);
+   }
+      change( int *b, int n){
+      int i;
+     for( i = 0;  i < n; i++)
+         *(b+i) = *(b+i) + 5;     
+}
+  
+  
+
+Hexaware  - Question paper - 02    Conducted On -- 22-Mar-2003    
+--------------------------------------------------------------------------------
+ 
+ 
+  
+    The selection process consisted of 3 rounds
+  1. Written test
+
+   The pattern is total 100 questions 1 hour time
+ 1.    check out the old 98 hexaware paper few qs are from that
+ 2.    few qs on tracing the output(simple ons).
+ 3.     basic question on computer awarness(very simple ones like expand WAP, etc very simple ones
+ 4     choose the odd man out type of questions ex A E I O  choose the odd man.                Freshersworld.com
+ 5     simple math qs like 199^2 - 24^2 etc.
+ 6      opposites and synonymsmanage your time properly
+
+   2. GD.
+   3. Technical/ HR Interview.
+ 
+
+
+
+
+
+Hexaware  - Question paper - 03    Conducted On -- 2003    
+--------------------------------------------------------------------------------
+ 
+ 
+  
+    
+
+   The selection process consisted of 3 rounds
+
+1. Written test The pattern is total 100 questions 1 hour time
+
+     1    Check out the old 98 hexaware paper few qs are from that
+     2     Few qs on tracing the output(simple ons)
+     3     Basic question on computer awarness(very simple ones like expand WAP, etc very simple
+             ones.) choose the odd man out type of questions
+     4      Choose the odd man out type of questions  ex A E I O  choose the odd man. ex A E I O 
+            choose the odd man.
+     5.    Ssimple math qs like 199^2 - 24^2 etc.                                    Freshersworld.com
+     6     opposites and synonyms  manage your time properly..  No negaive markings
+2. GD.:Is internet suitable for Youngers?)
+    IS MBA needed?  . etc
+
+3. Technical/ HR Interview.( Interview was very cordial and they asked abt my personal life, native
+      places,my projects, and other technical skills I have. it was really interesting one.. )            
+
+
+--------------------------------------------------------------------------------
+
+                                                                                                                                    
+ 1.    1,!,2,@,3,#,4,$,5, what is next in the series  Ans : %.
+ 2.   Which is the oldest computing device still in use  Ans : Abacus
+ 3.   Wat is WAP? Ans : Wireless Application Protocol
+ 4.    Nibble is equal to Ans:4 bits
+ 5.    Solving Algos : A simple program was given and the output was asked for different values 
+         of inputs.
+ 6.   I dont remember the exact ques. I am just giving a sample, which  is similar to the one given there.
+ 7    S= 0; C = 0
+        Read A,B
+         While ((2A+3B) < 100)
+         {   S = 3A - 2B
+              c = c + 1
+          }
+             Print a,s,c
+
+ Following this there were 5 quetions. every ques carried 1 mark.
+  a.    Wat is the output if a = 26 b = 12
+  b.    wat is the output if a = 24 b = 16 etc..
+  c     In Mathematics some ques were simple and others were a bit time consuming.
+  d.    |X| + X = 0 wat is the value of X
+         a) 1      b) 0        c) 1,0      d) None of these
+  e.    If 38473ABC(This was not the exact no given) is divisible by 75 what is ABC in the same order
+         x + 1/x = 2 x^100 + 1/x^100 f(z) = 1/1-x find f(f(f(1/x))) 
+
+        The following questions got repeated from the pattern found in                Freshersworld.com
+  8    In the series 0, 3, 8, 15,__ What is the next number?Ans :  24
+  9.   X < 0, Y <> 0 then which of the following is always positive? Ans. (x + y)^2
+10     Let ax2 + bx + c = 0If the sum of the equal roots is equal to the product of the same roots. Then
+         which of the following hold true    Ans. b+c = 0
+
+ 11   Find the value of (1.99)2 Ans.3.9601 
+
+ 12   There is a room with 6' x 8'. A 1' tile is fixed along the 4 walls in one row. How many 1" tiles
+        require to finish the work.Ans. 24 
+
+ 13   2 persons can finish a job in 8 days. First person alone can finish the work in 24 days. How
+        many days does the second person take to finish the job?   Ans. 12 days 
+  14  In a car wheel, two spokes cover 15 degree. Then for the entire car, how many spokes are
+        there? Ans. 48. 
+
+  15  What is the angle of degree suspended when two hands of clock showing the time 2.30.
+        Ans. 105 degrees 
+
+ 16  A person's salary is getting reduced by 20%. What percentage should be added to get back
+       hisoriginal salary?  Ans. 25% 
+ 17  Two persons start at the same point, walk in opposite directions with 5km/hr and 5.5km/hr
+       respectively. 
+
+18   What is the distance separated after 2 and half hrs?   Ans. 26.25             Freshersworld.com
+ 19  A person starts walking at a speed of 5km/hr through half the distance, rest of the distance he
+       covers with a
+ 20  speed 4km/hr. Total time of travel is 9 hours. What is the maximum distance he can cover?
+       Ans. 40km. 
+
+21   In a rectangle the length is increased by of the original length . By what proportion should the width
+       be reduced so that the area will be the same? Ans33 
+
+22   Find the nth number in the series is 1, -3, 5, -7.___Ans. (-1)^(n-1)*(2n-1)
+23   If a square is formed by the diagonal of the square as an edge, what is the ratio between the area ?
+      Ans. 2 
+
+24. The perimeter of a rhombus is 52 units. One of its diagonal is 24 units.What is its second diagonals
+      length?Ans. 10 
+
+24  A cubical rectangular bar has the dimensions with the ratio 5 : 4 : 3. Its volume is 7500. What is the 
+
+      surface area of the bar?Ans. 2350                                                    Freshersworld.com 
+
+25  3 persons started placementpapers with a capital of Rs.3000 . B invest Rs.600 less than A, C  
+       invest
+      Rs.300 less than B. Then what is the share amount of B in a profit of Rs.886 ? Ans: Rs. 265.8  
+
+26  Wat I felt with this test was it was better to go thro all the 100 ques, cos some easy ones were
+       there
+      at the last. If U think U can certainly solve a problem but its time consuming just leave it and
+      proceed to the next one. Some of the ques were very easy, even U no need to use pen and paper. 
+ 
+
+
+
+
+
+ Hexaware  - Question paper - 04    Conducted On -- 2003    
+--------------------------------------------------------------------------------
+ 
+ 
+  
+    
+
+SYNONYMS,ANTONYMS & INCORRECT SPELLINGS  
+
+  some words
+    1.   acrimonous
+    2.  inconspicious
+    3.  bland
+    4.  abate
+    5.   cusp           
+    6.  profligate                                                                                                                 Freshersworld.com
+    7.  vigour
+     8. lighten
+(check the spellings in dictionary)
+                            APTITUDE SECTION - 
+
+     odd man out-like man in
+1.  A E I O  ans o - (rest  are made of lines now tell me are a big zero)
+2.  (fig) circle star rectangle  another symbol   ans star - rest are flowchart symbols 
+3.   programs documents settings properties
+      ans properties (others appear in START menu - he! my favourite  question)
+4.   processor ,motherboard ,display card, mouse
+      ans mouse - (others are inside the cabinet -- need out of the box thinking)   
+
+                         Computer Awareness 
+
+5. where is SIM card found ans mobile phone (by the way can you expand SIM)
+6. what is the lock symbol appearing in bootom of the browser mean
+     ans. connection secured (confusing another choice is Verisign  secured - you will see tick mark when it is
+     Verisign authorised)
+7.  expand WAP ans Wireless Application Protocol
+8.  expand CORBA ans Common Object Request Broker Architeture
+9. 92.168.100.4 - means what ans IP Address   crack choice a)sums choice b)your head
+10.  Find the reminder when 333666777888999 divided by 3 or 9 or 11 ?
+11. Which is the biggest perfect square amongst the following  : 
+      15129, 12348, 23716, 20736                                                                                                 
+12. In the series 0, 3, 8, 15,__ What is the next number?
+13. X < 0, Y <> 0 then what is the possibility that the result is  always positive? Ans. (xy)^2
+14.  Let ax2 + bx + c = 0 If the sum of the equal roots is equal to the product of the same  roots.Then which 
+        of the following hold true
+     (a) a + b = 0
+     (b) a = 0
+     (c) c = 0                                                                                                         Freshersworld.com
+     d) a + c = 0
+15.  Find the value of (1.99)2 Ans. 3.9601(dont calc - should be near to 4)
+16.  There is a room with 6' x 8'. A 1' tile is fixed along the 4  walls in one row. How many 1" tiles
+       require to  finish the work.Ans.24                                                                                                            
+17. 2 persons can finish a job in 8 days. First person alone can  finish the work in 24 days. How many days
+      does the second person take to finish the job? Ans. 12 days
+18. In a car wheel, two spokes cover 15 degree. Then for the entire car,how many spokes are there?Ans. 24.
+19. What is the angle of degree suspended when two hands of clock  showing the time 2.30. Ans. 105 degrees
+20. A person's salary is getting reduced by 20%. What percentage  should be added to get back his  original
+      salary?Ans. 25% 
+21. Two persons start at the same point, walk in opposite directions with 5km/hr and 5.5km/hr respectively.
+      What is the distance separated after 2 and half hrs?Ans. 26.25 (approx)
+22. A person starts walking at a speed of 5km/hr through half the distance, rest of the distance he covers with
+      aspeed 4km/hr. Total time of travel is 9 hours. What is the maximum distance he can cover?Ans.40 km 
+
+23. In a rectangle the length is increased by of the original length . By what proportion should the width be reduced
+       so that the area will be the same?Ans. 33 
+
+24. Find the nth number in the series is 1, -3, 5, -7.___Ans. (-1)*(2n-1)
+25.  If a square is formed by the diagonal of the square as an edge, what is the ratio between the area?Ans. 2
+26. The perimeter of a rhombus is 52 units. One of its diagonal is 24 units.What is its second diagonals length?
+       Ans. 10 
+
+27. A cubical rectangular bar has the dimensions with the ratio 5 :  4 : 3. Its volume is 7500. What is the surface
+       area of the bar? Ans. 2350
+28. A persons salary iis decreased by steps of 20%, 15% and 10%. What will be the percentage decrease, if the
+      salary is decreased in a single shot?
+29. 3 persons started placementpapers with a capital of Rs.3000 . B invest Rs.600 less than A, C invest Rs.300 less 
+     than B. Then what is the share amount of B in a profit of Rs.886 ? 
+
+30. 178^2 -22^2 (USE (A+B)(A-B))
+31. f(x) = x! g(x)=x^10 h(x)= 10^x for large values of x which is greater?
+32. f(x) = 1/(1-x) find(f(f(f(x)))
+33. x+(1/x) = 2.5 find x^2 + (1/x^2)
+34. 2^(2^n) = 256 find 2^(2n)
+35. x=0 y=0 6x+7y=42 find position(lies inside/out/on) of (4,5) in  the triangle                      Freshersworld.com
+36. 22 Jun 2003 is sunday which year previously did 22 jun became sunday
+37. A man walked 30m west 5m south 10m west 35m north to reach  tollgate find the dist from start to gate.ans. 50m (use pythogoras)
+38. area of square = sum of areas of rect1(41*27) and rect2(41*14). find square side.ans. 41
+39. find next in series  31,29,31,30,31,? ans. 30 he!he!he!(they rep jan,feb,mar,.... hit your head) Walk/Swim
+      thro Coding                                                                                                                     freshersworld.com
+40. Input a,b  
+     s=0;    c=a;    d=b;
+      while(d<>0)
+      {     s=s+c;
+          d=d-1;
+      }    Print s
+    for given values of a,b find the output
+    5questions for different values of a,b 
+41. Input a,b
+      while(3a+2b<100)
+      {      s=s+a;
+        a=a+2;      b=b-1;
+       }
+    for given values of a,b (i remember one 29,5) find the output                        Freshersworld.com
+   Tips1. Do the coding first and you are out - They are time consuming - Save the worst for last  2. Be choosy -
+    take the easy (questions) first - So scan scan scan  3. best path in hexaware tree    language ----> odd man out
+       ----> computer awareness ---->    easy sums ----->         difficult sums---->   coding do this or find the path 
+      to your home.     
+
+4.SPEED kills but also wins. Put your brain in 5th gear 
+5.Blind goose guess - mark a or e - they are more probable 
+6. Write your q paper code proper or your are a man overboard 
+7. There is minimum  no of q to be attempted(so they didnt say explicitly) and no negative marking. So be
+      generous!waste your ink! cross off for all questions 
+8. They will ask u in the pep talk in GD waht is the first or last question or your code. 
+   So watch out all those DANGER-PAST-QUESTIONS-FORGOT type fellows 
+
+                                Group Discussion 
+
+1. No GD only shout!!! - Our LOk Sabha Style
+2. Shout at top of your voice and shout some meaningful points
+3. Please train ur vocal chords! Drink our good pure(pun intended) water before GD
+4. IF u cant then carry a loudspeaker
+5. 10 per group max 3 groups
+6. final interview they select 3 from each group
+7. Dont think 1-proposer 1-opposer 1-moderator it could 3-proposer or 3 opposer too.
+8. If your group is silent Please follow GD rules.
+9. 30 minutes of shouting(3min-choose the topic, 2min-prepare,20min-shout)                Freshersworld.com
+10. They might also give you  a topic.
+11. Please dont wait for your chance - Grab                                                                                          freshersworld.com
+12. Be ready to summarise. Try to say all the points told and say conclusion is yet to be reached.
+13. 2 or 3 choosen people will summarise.
+14. Dont ever make unruly gestures. You are out immediately.
+15. Be ready for any topic .Only general topic - no subject, economics style Inside Out
+            Questions you want to ask but dont know to whom
+1.Whats the noise? They want to add 500 more in its payroll by christmas
+     I  dont know how much % is freshers
+2. How much they can fill your purse?
+   7500 for first 6 months 
+   10,000 for next 6 months
+   20,000 thereafter
+Indian rupees! No dollar dreams ;-)
+3. Any strings?
+You have to sign a bond for 1 year and you become James Bond
+4. If I break? Your dad pays 1.5  lacs to them.                                                                                                
+5. Where they put you? Chennai, Bangalore, Mumbai  - should be ready pack your bags in a jiffy
+      (and many times too)
+6. What if I get out in GD or test Pray those in interview should refuse to sign the bond  Offer goes
+      down the line in each campus
+7. Any perks  One free Cadburys perk on joining Dont like it take Halwa!!!!
+8. To how much people they would offer in my college Works out to 5-15% of test takers. So Start 1..2..3...... 
+ 
+
+
+
+
+Hexaware
+
+Company : Hexaware
+Date : 14-aug-2004
+Place : Saradha Girls Hr Sec School, Chennai
+Mode : Off campus
+
+ 
+
+My question paper code is:  aug_14_02 
+
+Exam duration: 1 Hour.
+
+Total Questions: 100
+Total Marks: 100
+Each question carries 1 mark.
+No Negative marks
+
+ 
+
+Batches: 8.AM 9.30 AM 11AM 12.30 PM, 2 PM and 4.30PM
+150-250 pplz per batch
+
+ 
+
+Around 30 pplz were selected for GD from each batch
+GD was conducted within 30 mins after the result.
+
+ 
+
+Don’t go for written test if you are not familiar with previous papers, coz around 15-20 (may be more) questions are repeated from previous papers and for some questions - only data get changed. So those who are planning to take test in future dont forget to do homework and you can answer those questions (around 30 ques) within 10 mins.
+
+ 
+
+VERBAL: (ref GRE barrons)
+1. Find the Wrongly Spelt word - they will give u 5 words and you want to find the wrongly spelt word
+  wrought ...etc (cant remember)
+2. Rearrange the words in correct form
+3. Sentence completion - Sentence with 2 fill ups and u want to choose the correct one from given 4 options.
+
+
+MATCH:
+1. Java - Beans
+2. Linux - Penguin
+3. Kernal - OS
+4. Quality - SEI CMM
+5.  - Wall
+6. - NP
+7. - Turing
+8. Alan -
+
+ 
+
+CODING PART:
+
+read a
+s=0
+x=a
+while(x > 0)
+{
+ c=x/10;
+ y=x-c*10;
+ s=s+y;
+ x=x/10;
+}
+print s
+
+ 
+
+9. What is the value of s if a=10
+10. What is the value of s if a=15
+11. How many times the loop will be executed if a=10000
+12. What is the value of y and s if a=115
+
+
+ODD MAN OUT:
+
+13. Mpeg jpg avi omg
+Ans:omg
+
+ 
+
+14.(figures) circle star rectangle <another symbol> 
+Ans: star 
+
+ 
+
+15. programs  documents  settings  properties
+Ans: properties 
+
+ 
+
+16. processor motherboard  display card  mouse
+ans mouse
+
+ 
+
+COMPUTER AWARENESS:
+
+17. What is the accessing mode for a magnetic tape?
+Sequential  Random Direct Indirect
+
+ 
+
+18. Add 110011 with octal 658 and what is the output in decimal? (no not exact)
+
+ 
+
+19. SIM expansion - Subscriber Identity Module
+
+ 
+
+20. expand CORBA
+ans Common Object Request Broker Architecture
+
+ 
+
+21. 9. 92.168.100.4 - means 
+ans IP Address
+
+ 
+
+22. What is the lock symbol appearing in bottom of the browser mean
+ans. connection secured? 
+
+ 
+
+23. Superconductivity - without any resistance 
+
+
+APTITUDE:
+
+24. If 14 aug 2004 is saturday which year previously did 14 aug became Sunday?
+Ans: 1994
+
+ 
+
+25. C is a point between A and B such that k% of AC is equal to CB. What is k%?
+
+ 
+
+26. what is the result of this ex-pression xy+x'y+xy'+x'y', if x' - complement of x and y' - complement of y?
+Ans: always 1 (check it)
+
+ 
+
+27. Which is the perfect square amongst the following: (no not exact)
+63381 34547 ...
+
+ 
+
+28. Two points C and D between A&B and an another point E between C&D such that AC=CE and ED=DB. - some question like this
+
+ 
+
+29. what is the value of (3.960 * 0.04)/0.03 (no not exact)
+
+ 
+
+30. A persons salary is decreased by steps of 25% and 20%. What will be the percentage decrease, if the
+salary is decreased in a single shot?
+Ans: 40%
+
+ 
+
+31. x+(1/x) = 2 find x^100 + (1/x^100)
+Ans: 2^100
+
+ 
+
+32. If ABCXXXXTUV then which of the following string comes next?...
+ABCXXXXTUW
+ABDXXXXTUV
+ABCXXXXTUU...
+
+ 
+
+33. If 37ABC421 is divisible by <some no> what is ABC(no not exact). - 2 questions of this type...
+
+ 
+
+34. Find the reminder when 3336667778889991 divided by 9 ?
+
+ 
+
+35. In the series 0, 3, 8, 15,__ What is the next number?
+Ans: 24
+
+ 
+
+36. A person's salary is getting reduced by 20%. What percentage should be added to get back his original salary?
+Ans. 25% 
+
+ 
+
+37. Find the nth number in the series is 1, -3, 5, -7.___
+Ans: ((-1)^(n-1)) * (2n-1)
+
+ 
+
+38. A cubical rectangular bar has the dimensions with the ratio 5 : 4 : 3. Its volume is 7500. What is the surface area of the bar? 
+Ans. 2350
+
+ 
+
+39. 178^2 -22^2 
+Ans: 31200
+
+ 
+
+40. f(x) = 1/(1-x) find(f(f(f(x))) 
+Ans: -1(check)
+
+ 
+
+41. A man walked 30m west 5m south 10m west 35m north to reach tollgate find the dist from start to gate.
+Ans. 50m 
+
+ 
+
+42. If the length of a rectangle is increased by 50% then how much the width should be decreased to maintain the same area?
+

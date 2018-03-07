@@ -1,0 +1,56 @@
+INFOSYS PAPER HELD ON 16 MAY 2004 AT BANGALORE 
+ 
+1) A man sold two cows for Rs 210. If he made a 10% loss on one cow and 10% profit on the other cow, and overall made a profit of 5%, how much was each cow worth intially?
+ Ans: 150 and 50. I blundered this sitter, going for trial and error. Easy equational based answer, got it 5 secs after exam :(.
+ 
+2) While travelling from one station to the next, after 1 hour a piston burst. As a result the party could only proceed at 3/5 their original speed and arrived 1 hour late. If however the accident had happened 50 minutes later, they would have arrived 40 minutes earlier than the time they did arrive at. What is the distance between the stations. ( Note : swap the 40 and 50 minutes around and try this again, I may have got this mixed up)
+Didn't have time for this one. 
+ 
+3) If you have two different kinds of socks, one black and the other white in a box, and you have to pull them out blindfolded, and you know the number of socks you have to pull out to definetly draw a pair is the same as the number of socks you have to pull out to definetly have different kinds of socks, and there is no difference between left foot and right foot socks, how many socks are there in the box. 
+Ans: 4
+ 
+4) Find the next number in the series
+   
+   a) 364, 361, 19, 16, 4, 1, ___
+   Ans : 1 ( series x-3, y = sqrt(x-3), y-3 ....)
+   b) 3, 6, 13, 26, 33, 66, ___
+   Ans : 63 (Alternate additions of multiples of 10 and 20)
+ 
+5) Andrew, Bernard and Claude decide to travel, each one wearing another's hat and riding the other's bicycle. If the person riding Bernard's bicycle is wearing Claude's hat, who is riding Andrew's cycle?
+Ans : Claude
+ 
+6) Four friends Stacy, Erica, Robin and Mandy, belonging to the families Clark, Flure, Miller and Jacob decide to make fruit salads. Each person uses three fruits from among apples, bananas, cherries and grapes. The following conditions are given below:
+i)  Each girl uses a different combination of fruit from the others 
+ii)  Erica does not belong to the Clarks or the Millers
+iii) Robin, who is not the miller's girl, uses cherries and grapes, but the Flure's girl only uses one of these fruit
+iv) Mandy and the Miller girl use both apples and cherries in their salads. 
+ 
+a) Which family does Robin belong to?
+b) Which combination of fruit did the Miller girl use?
+c) Which fruit did Erica NOT use?
+d) Who is the Clark's girl?
+Easy analytical.
+ 
+7) A farmer tells his wife " If we sell 75 of our chickens, we shall have enough stock for 20 more days." Then he says " if we buy 100 more chickens, we shall run out of our stock in 15 days". How many chickens do they have?
+I arrived at the equation, x - 5y = 175, and went by trial and error within the conditions,
+x>75 and y>15. 
+ 
+8) A husband's watch runs 1 min fast every hour, while his wife's runs 2 minutes slow. How many hours have past, after they set their watches to the same time, if the difference in time between the watches is 1 hour?
+Ans: 20 hours.
+ 
+9) A,B,C,D,E,F,G make the following statements
+A: Day after tomorrow is Wednesday
+B: You are wrong, tomorrow is wednesday
+C: No, tomorrow is thursday.
+D: All of you are wrong, it is not Monday, Tuesday or Wednesday
+E: Tomorrow is Friday
+F: Today is Wednesday
+G: Anyway, yesterday was not saturday.
+All but one person is correct.
+Whos is correct and what day is it?
+Ans: My friend wrote G, must have been correct. I messed this one up.
+ 
+10) Six men decide to cut logs in 1/2 yards for a fire. The men are A, B, C, D, E, F ( these are all their first names). They work in pairs. with A, C and E being leaders of each pair. A and B cut 1½ yard logs, C and D cut 2 yard logs and E and F cut 1yard logs. 
+    J and K manage to make 26 logs, L and M 27 logs and N and O 28 logs (these are all their last names). The headmaster congratulates J,L and N on their fine leadership. What is B's last name?
+( Note actual names were different, some confusing russian names )
+Ans: B's last name is M. When you cut 1 and a half logs into half logs you get three half logs. Only 27 is a multiple of 3, and A is a captain. 

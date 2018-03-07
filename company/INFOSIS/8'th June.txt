@@ -1,0 +1,39 @@
+Infosys 
+
+1  if alphabets are given position values according to their arrangement, for example A=1, and B=it' s position to the power of previous alphabet's value. I.e., b= 2 1=2. c = 32, d= 4c.. Then find the value of (X-A)(X-b). (X-y)(X-z)?
+
+2. Two dice are rolled. If the score is calculated as a product of the number appeared. The score for the second role is six more than that of the 1st roal, the score for 3rd roll is 6 less than the 2nd roll, the score for 4 th role is 11 more than the 3rd roll, the score on 5th role is five more than the 4th roll. Find the scores of 1,2,3,4 rolls
+
+3. A person traveled _ th of a distance by riding horse. He traveled remaining distance by walk. If he took twice the time to walk as he rode, howmany  times he rode faster than he walked?
+
+4. There are diff color mushrooms 
+A) only and always purple is poisonous when red are
+B) green is safe for 6 months
+c) yellow is safe when purple are poisonous
+d) red is safe for 6 months. Which coloured mushroom is safe at this time of year?
+
+5. The below are the statements of 3 persons. 
+If the person's speak only two of the three statements correctly, what are their ages?
+A:      A is 22.     
+	B is 1 yr more than A.     
+	C is 1 yr less than A.
+
+B:   	I am not the youngest. 
+	There is 3 yrs difference between me and C.             
+	C is 25.
+
+C:      A is 23 	  
+	B > A	  	 
+
+6. A,B,C,D,E wore shirts of colours red,blue,green, yellow and orange respectively.  They stood on a ladder. Yellow is not the colour at the tail end of the ladder. Yellow is between those who wore green and red. Green is between those who wore yellow and orange and who is behind blue.
+
+7. Which color is at the end of the ladder?     positions on a ladderIn  a business, 
+
+8. A invested 31/2 times more than B.They wanted to include C by taking an amount of Rs2500 from C. How should tha amount be divided among A and B such that three of them get the same interest? 
+one of the arms of a balance is longer than the other. If 1kg is kept on the left pan , it is equal to 8 water melons. If the 1kg is kept on a a right pan, it is equal to 2 water melons on right. If the weight of all the watermelons are sam, what is the weight of the water melon? 
+
+A person has a son. His son's age is fivew times his daughter's age. His wife's age is 5 times his  son's age. His age is twice his wife's age. The total of all this ages is equal to his son's grandma's age who celebrated her 81st birthday this year. What is his son's age? 
+
+Tom ha given some stamps to A. He asked A about them. A said " They were great. B got 3 more than « of what she would have got if I kept 3 more than « of what she got.Tom asked A " How much did u keep?" A answered " two more than what I gave B".Find the total no of stamps Tom gave A.?
+
+

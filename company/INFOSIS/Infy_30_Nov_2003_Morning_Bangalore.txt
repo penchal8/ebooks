@@ -1,0 +1,159 @@
+___________________________________________________________________________________
+
+COMPANY NAME : Infosys technologies ltd
+------------------------------------------------------------
+DATE OF TEST : 30 Nov 2003, Morning
+------------------------------------------------------------
+PLACE OF TEST: Bangalore
+------------------------------------------------------------
+MODE 	   : Off-campus
+------------------------------------------------------------
+DURATION     : 1 Hour
+___________________________________________________________________________________
+
+
+-----Original Message-----
+From: vani t 
+Sent: Thursday, December 04, 2003 10:32 AM
+To: CHETANA-JOBS@yahoogroups.com
+Subject: [CHETANA] (INFO+QUERY)infy paper nov 30 b'lore
+
+
+hi,
+i am a first time writer to this group. chetana jobs proved to be extremely helpful...to me for taking up the infy test...hats off..to all those who have contributed...
+i gave the infy test on novemeber 30, morning batch..b'lore. I am hereby mentioning all the questions, though not exactly..word to word...
+english paper was quite o.k.
+I am not sure about all my answers. is there anyone (30 november, morning batch) who can send me their answers???..so that we can tally them....
+moreover..when r the results going to be declared??? iam eagerly waiting for that..someone told me that they will be declaring it very early...plzzz provide me with some information regarding the results...
+anyways..for those who r aspiring to give the test...stick to shakuntala devi(2 books), george summers, ravi narula & chetana jobs...(i think by now, i don't need to tell this!!!)
+
+here goes the Q-Paper:
+
+_________________________________________
+
+INFOSYS
+BANGALORE MORNING BATCH
+30 NOVEMBER 2003
+_________________________________________
+
+
+
+
+INSTRUCTIONS
+
+* Please do not write/mark on the question paper.
+* Read the questions carefully. Work your answers carefully and as rapidly as
+possible.
+* Do not spend too much time on questions that seem difficult for you.If time
+permits go back to the ones you have left out.
+* Answer sheets have been provided to you separately. Use the first sheet to
+write your answers and use the remaining sheets for the detailed working.
+* On completion, please put your answer sheet along with the working sheets,
+inside the question paper and hand them back to us.
+* There is no negative marking.
+* Do not turn the page until you are told to do so.
+
+TOTAL MARKS 50
+
+1).
+Ann,Brian,Cedric and Dave were Architect,Barber,Caretaker and Dentist not
+necessarily in that order.
+a)Atleast one but not all have the initials of occupation and name as same
+alphabet.
+b)The architect did not have 'r' in his name
+c)The dentist and barber had exactly one alphabet common in their names.
+Tell the occupation of Ann and Cedric (4 marks)
+
+2).
+John had a square farm.This year he had a larger square patch and hence he had
+211 cabbages more than previous year.How many cabbages did he have the previous
+year.(4 marks)
+
+3)
+An old man had 1000 rs. and he wanted to distribute them among his five sons
+according to their ages such that a son received 20 rs more than the younger
+one.Watson was the youngest one.How much did watson receive.?
+(4 marks)
+
+4).
+There are 100 bulbs and 100 switches,one switch for each bulb.Initially all the
+switches are ON and the bulbs are glowing.Then following actions are
+performed....
+a)The switch numbers divisible by 2 are turned OFF if they are ON ,and turned ON
+if they are OFF.
+b)The switch numbers divisible by 3 are turned OFF if they are ON ,and turned
+ON if they are OFF.
+c)The switch numbers divisible by 4 are turned OFF if they are ON ,and turned
+ON if they are OFF.
+and so on.....till swich numbers divisible by 100...
+Find the number of bulbs glowing at the end.(6 marks)
+
+5)
+An old man had some gold coins which he wanted to distribute among his 5 sons
+and 5 daughters.He gives 1 gold coin to his driver and then 1/5 of remaining to
+his first son.Again he gives 1 coin to his driver and 1/5 of the remaining to
+his second son and so on till the last son.He does the same thing with his
+daughters.How many gold coins did the old man have initially.?(6 marks)
+
+6)
+A murder took place and there were 5 witnesses who give the following
+description about the murderer...
+witness A-murderer had blue eyes,he was tall,he wore a hat and vest.
+witness B-murderer had black eyes,he was short,he wore a hat and vest
+witness C-murderer had brown eyes,he was Medium sized,he wore a hat and raincoat
+witness D-murderer had grey eyes,he was tall,he didnt wear a hat and he wore a
+vest.
+
+Each one of them gave exactly one fact correct.Describe the murderer in terms of
+eyes,height,hat,vest and raincoat.(6 marks)
+
+7)A weighing pan was faulty as it had one arm longer than the other.3
+cubeweights on right side balanced 8 potweights on left side and 6 cubeweights
+on left side balanced 1 potweight on right side.One cube weight weighs one ounce
+then find weight of one potweight.(4 marks)
+
+8)
+When the actual time passes 1hr the wall clock is 10 min behind it.
+when 1 hr is shown by wall clock, table clock shows 10 min ahead
+of it. when table clock shows 1 hr the alarm clock goes 5minbehind
+it,when alarm clock goes 1 hr wrist watch is 5 min ahead of it assuming
+that all clocks are correcrt with actual tinme at 12 noon what will
+be time shown by wrist watch at 5.00 pm.(6 marks)
+
+9)
+32 marbles are to be distributed.Ann gets 1,Mary gets 2, Rose gets 3 and Lisa
+gets 4.John Brown gets as much as his sister.Tim Smith gets 2 times as much as
+his sister.Neil Johnson gets 3 times as much as his sister.Sam Paul gets 4 times
+as much as his sister.Find the surnames of Ann,Mary,Rose and Lisa.(4 marks)
+
+10)
+B & C initially speak English but when D joined spanish,they also took up
+spanish.The only common language between A, B and E is French.The only common
+language between C and E is Italian.Three people speak Portuguese. Most common
+language is spanish.One person knows all 5 languages. One person knows 4. One
+person knows 3. One person 2. One person 1.
+Who speaks what ? (6 marks).
+ 
+ALL THE BEST..
+plzz send in the answers...if any one has...
+
+thank you,
+REGARDS...
+Vani Tavildar
+
+
+___________________________________________________________________________________
+Visit: "www.chetana-jobs.com" for Previous Papers
+--------------------------------------------------------------------
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+

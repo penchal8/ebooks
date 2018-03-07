@@ -1,0 +1,254 @@
+
+___________________________________________________________________________________
+
+COMPANY NAME : IBM
+------------------------------------------------------------
+DATE OF TEST : 29 Sep 2003
+------------------------------------------------------------
+PLACE OF TEST: PESIT, Bangalore
+------------------------------------------------------------
+MODE 	   : Campus
+------------------------------------------------------------
+DURATION     : 
+___________________________________________________________________________________
+
+
+
+
+-----Original Message-----
+From: jagannatha modupalli 
+Sent: Wednesday, October 01, 2003 8:58 PM
+To: CHETANA-JOBS@yahoogroups.com; 
+Subject: [CHETANA] (Paper) papers of IBM
+
+
+hai
+I wrote IBM paper today  ( 29th sep 2003)
+at PESIT, Bangalore
+
+2 Sections
+
+ 1. Aptitude
+ 2. Technical
+
+Time : 60 mins
+
+both papers will be in our hand intially, so we can divide time in what ever way
+we want.
+
+Aptitude :
+
+1. like 3 consecutive prime adds to some no what is that
+  ans: both 49 and 59.
+
+2. one persont travlled 4 laps with the speed of 10,20,40 ( or 30) and 60 kmph
+   and what is the average speed.
+  ans: 20 (sure)
+3.like one student takes 20 mins if he go with speed 15kmph and at what speed he 
+  should go to reach in 15 mins ( nos are not same)
+  ans: 16kmph( but not sure)
+4. there are 2 type of people group 'yes' who always says yes ( they never say 'no') if they are not sure about they will remain sailent. and other grou
+   name 'no' where the group of people always say 'no' if they are not sure they
+   will remain silent.
+   thats it
+  now quetions are
+  1) what will be the answer if i ask are u belong to group 'yes'
+    options are: they remain silent ,say yes, say no, either yes or no, can't  
+    be determined
+  2) same quetion but if i ask are u belong to group 'no'
+    
+  answers for both above quetions are not  ( not determined)
+  3) what will the other person say if ask are u belong to grou 'yes'
+   and etc
+  there were 5 quetions first 4 u can do it last one little bit tough.
+  spend some time on this u can do it.
+  4)
+  5)
+
+9.like from height of 8 mts on ball fell down and each time it bounces half the
+  distnace back.  so what will be the distance travelled
+  ans: 24 (sure) like 8+4+4+2+2+1+1+0.5+0.5+ and etc ..
+     answer is not 20
+10.like 6 cubes are arranged  adjacentlay and given the perimeter and aksed to
+   find the perimeter of one cube.
+  ans: if x is the total perimeter then (x/14)*4 leads to the answer.
+   but check it once u will be having plenty of time.
+   answer is 52 (13*4)
+
+11. some data is given like this 10kmph in still water ship took some x mins and downstream
+   some y mins in same time
+  what is the stream value  .... (q is not exat)
+  ans: 3 (not sure)
+
+12.some average problem like 16 students average weight and teacher joins them ....
+  ans: 23 (sure)  do this (16x+40)/(x+1)  will give the value.
+
+13. some probelm on square like to increase area by 69% by what percent side should be 
+   incresed
+  ans: square root of 169  i.e   13  ( not sure)
+
+14. no of rational nos b/w 0 and 5
+  ans: infinite
+15. First day of 1999 is sunday what day is the last day
+   ans: monday
+
+16.bullets probel some x no of bullets are shared by 3 people equally . and each fired 
+   4 bullets then the sum of remaining bullets is equal to intially divsion value
+   ans: 18 (sure)
+
+17. bread problem, one come and eat half no of breads and somthing...
+   ans: 63( check it)
+
+
+18. like A can do in 6 day and B can do in 8 and C can do in 12 days but b left after working for 6 days for how many no of day A and C shluld work
+  ans: 11( i dont think so this is correct)
+
+
+ 
+  
+
+
+
+
+
+Technical
+
+1. what is vector processing
+ans: i dont no
+
+2. what is data integrity
+   ans: option a ( like the range of values is defined by data integrity)
+
+3.which topology takes minimum wiring
+  options: star,bus,ring and complete etc
+  ans: find it from network text book ( may be bus or ring)
+
+4.best sorting if elements are already sorted
+ ans: insertion sort(sure)
+
+5.software configuration management -----
+ ans: option a ( but check it from SE text book there are only 2 confusing   answers)
+
+6.In network the packers are flowing unnecessarly what is the way to control
+  it and ....
+  options: SNMP, and some i dont remember.
+
+7.some octal no to decimal conversion
+  for given octal no the last digit was 7
+  ans: the option a ( the decimal last digit was 1)
+
+8.x-=y+1 is equivalant to
+  ans: x=x-y-1 (sure) because it is interpreted as x=x-(y+1) 
+9. in a student form what is the relationship b/w student and course
+   ans: actually it is many to one but they specified in a student form
+       so think and write.
+
+10.which is correct to append the ouput of ls and who to some file x.
+  ans:(who;ls)>>x  (check it)
+
+11.what is trigger in DBMS (know what it will do)
+ 
+
+12.what happens when we open a file in r+ mode
+   like whether file will be created if it s not there can we write to file ...
+13. what is ROM
+  ans:  it  contains boot up program and it is not accesible
+       that was one answer and anothe option was
+      it is non volatile  ( choose one among these 2)
+14. what is int (*a)[4]
+  ans: pointer to an array of 4 integer  (check it)
+
+15. primary key of anothe table is present and so on..........
+   ans: foreign key
+
+16. what is the diffirenece b/w 0123 and 123 in c?
+   ans:40(sure)
+
+17. which among the devices is spooled device
+  ans: printer(correct)
+
+18. if u get error in adapter which device will u use?
+  ans: contact electronics student.
+     one of the option was voltometer. 
+
+19. which is the real time application
+  ans: robotics
+
+
+thats it i remember
+
+dont email me for further clarifications because  i wrote what all i know.
+
+but one thing
+they are changing papers but the quetions will be from previous quetion
+papers combined.
+
+i am in Computer Science Branch
+take the advantage of branch for CS brach students.
+--------
+for girls
+   just get 25 in written for 40. and talk something in tech and HR
+   u will be in. best opportunity for girls its like 50% reservation for girls.
+---------
+and the pay package is 2.75 lakh per annum.
+
+the cut off is 30 
+
+final word: dont go blindly with this answers to exam conform all the answers
+   and then share this paper with all of u'r friends. they(IBM) need people badly 
+   so if all of u'r friends do well all of u will be in .
+
+
+
+Interview:
+it depends upon the Panel
+be perfect with u'r mini project.
+
+HR quetions:
+1.   why 2+2 is 4 why not 5.
+
+      ans: assume u took 2 apples from A and 2 more apples from B and assume u are having 5
+          and give 2 to X and give 2 more to Y then nothing will be with u i.e u lossed.
+           (give some answers but dont say that it is like that only )
+
+2.how may stones did hanuman thowned on lanka? ( diffirent but of same type)
+  and one more how many trees are there in u'r campus ...
+ans:
+  dont say i dont no
+  say some no for ex 1000 and say i.e correct . they wont say any thing for that
+  because it is not possible to disprove that .
+
+3. why IBM
+
+and etc .........
+  
+
+Best Of LUCK
+from
+Jagannatha.M
+CS&E
+PESIT, Bangalore.
+
+
+
+
+
+
+___________________________________________________________________________________
+
+You have downloaded this Paper from "CHETANA-JOBS" Yahoo Group
+--------------------------------------------------------------------
+To directly subscribe through e-mail, just send a blank mail to :
+CHETANA-JOBS-subscribe@yahoogroups.com
+--------------------------------------------------------------------
+To unsubscribe from this group, send a blank email to:
+CHETANA-JOBS-unsubscribe@yahoogroups.com
+--------------------------------------------------------------------
+To learn more about the CHETANA-JOBS group,
+please visit: http://groups.yahoo.com/group/CHETANA-JOBS
+___________________________________________________________________________________
+
+
+
+
+   
